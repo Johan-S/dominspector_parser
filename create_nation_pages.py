@@ -194,5 +194,4 @@ def MakeAllNationFolders():
 
 MakeAllNationFolders()
 
-driver.get_screenshot_as_file("python-github.png")
 driver.close()
