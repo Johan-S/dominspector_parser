@@ -1,0 +1,47 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:uruk:entu.png?30&nolink}}    | **Entu**\ {{:misc:gui:gold.png?15&nolink}} 275\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:uruk:mashmashu.png?30&nolink}}    | **Mashmashu**\ {{:misc:gui:gold.png?15&nolink}} 280\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:uruk:enkidu_shaman.png?30&nolink}}    | **Enkidu Shaman**\ {{:misc:gui:gold.png?15&nolink}} 125\ {{:misc:gui:resources.png?15&nolink}} 2   |  | cmdr (foreign)  |  Manual description here.  |
+| {{:nations:ma:uruk:kulullu_commander.png?30&nolink}}    | **Kulullu Commander**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 10   |  | cmdr (u-water)  |  Manual description here.  |
+| {{:nations:ma:uruk:kulullu_king.png?30&nolink}}    | **Kulullu King**\ {{:misc:gui:gold.png?15&nolink}} 145\ {{:misc:gui:resources.png?15&nolink}} 10   |  | cmdr (u-water)  |  Manual description here.  |
+| {{:nations:ma:uruk:kulullu_sage.png?30&nolink}}    | **Kulullu Sage**\ {{:misc:gui:gold.png?15&nolink}} 190\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (u-water)  |  Manual description here.  |
+| {{:nations:ma:uruk:kuliltu_queen.png?30&nolink}}    | **Kuliltu Queen**\ {{:misc:gui:gold.png?15&nolink}} 195\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (u-water)  |  Manual description here.  |
+| {{:nations:ma:uruk:enkidu_scout.png?30&nolink}}    | **Enkidu Scout**\ {{:misc:gui:gold.png?15&nolink}} 30\ {{:misc:gui:resources.png?15&nolink}} 7   |  | commander  |  Manual description here.  |
+| {{:nations:ma:uruk:enkidu_commander.png?30&nolink}}    | **Enkidu Commander**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 23   |  | commander  |  Manual description here.  |
+| {{:nations:ma:uruk:naditu.png?30&nolink}}    | **Naditu**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:uruk:gala.png?30&nolink}}    | **Gala**\ {{:misc:gui:gold.png?15&nolink}} 75\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:uruk:nin.png?30&nolink}}    | **Nin**\ {{:misc:gui:gold.png?15&nolink}} 75\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:uruk:gudu.png?30&nolink}}    | **Gudu**\ {{:misc:gui:gold.png?15&nolink}} 80\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:ma:uruk:ashipu.png?30&nolink}}    | **Ashipu**\ {{:misc:gui:gold.png?15&nolink}} 130\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:uruk:ishib.png?30&nolink}}    | **Ishib**\ {{:misc:gui:gold.png?15&nolink}} 155\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:ma:uruk:ereshdingir.png?30&nolink}}    | **Ereshdingir**\ {{:misc:gui:gold.png?15&nolink}} 190\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:uruk:ensi.png?30&nolink}}    | **Ensi**\ {{:misc:gui:gold.png?15&nolink}} 215\ {{:misc:gui:resources.png?15&nolink}} 19   |  | commander  |  Manual description here.  |
+| {{:nations:ma:uruk:enkidu_archer.png?30&nolink}}    | **Enkidu Archer**\ {{:misc:gui:gold.png?15&nolink}} 16\ {{:misc:gui:resources.png?15&nolink}} 14   |  | unit  |  Manual description here.  |
+| {{:nations:ma:uruk:enkidu_heavy_archer.png?30&nolink}}    | **Enkidu Heavy Archer**\ {{:misc:gui:gold.png?15&nolink}} 16\ {{:misc:gui:resources.png?15&nolink}} 22   |  | unit  |  Manual description here.  |
+| {{:nations:ma:uruk:enkidu_soldier.png?30&nolink}}    | **Enkidu Soldier**\ {{:misc:gui:gold.png?15&nolink}} 16\ {{:misc:gui:resources.png?15&nolink}} 22   |  | unit  |  Manual description here.  |
+| {{:nations:ma:uruk:enkidu_spearman.png?30&nolink}}    | **Enkidu Spearman**\ {{:misc:gui:gold.png?15&nolink}} 16\ {{:misc:gui:resources.png?15&nolink}} 14   |  | unit  |  Manual description here.  |
+| {{:nations:ma:uruk:enkidu_royal_guard.png?30&nolink}}    | **Enkidu Royal Guard**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 23   |  | unit  |  Manual description here.  |
+| {{:nations:ma:uruk:enkidu_iron_warrior.png?30&nolink}}    | **Enkidu Iron Warrior**\ {{:misc:gui:gold.png?15&nolink}} 22\ {{:misc:gui:resources.png?15&nolink}} 22   |  | unit  |  Manual description here.  |
+| {{:nations:ma:uruk:maiden_of_the_moon.png?30&nolink}}    | **Maiden of the Moon**\ {{:misc:gui:gold.png?15&nolink}} 27\ {{:misc:gui:resources.png?15&nolink}} 35   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ma:uruk:mushussu_chariot.png?30&nolink}}    | **Mushussu Chariot**\ {{:misc:gui:gold.png?15&nolink}} 200\ {{:misc:gui:resources.png?15&nolink}} 42   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ma:uruk:enkidu_warrior.png?30&nolink}}    | **Enkidu Warrior**\ {{:misc:gui:gold.png?15&nolink}} 16\ {{:misc:gui:resources.png?15&nolink}} 14   |  | unit (foreign)  |  Manual description here.  |
+| {{:nations:ma:uruk:kulullu.png?30&nolink}}    | **Kulullu**\ {{:misc:gui:gold.png?15&nolink}} 18\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit (u-water)  |  Manual description here.  |
+| {{:nations:ma:uruk:kulullu_soldier.png?30&nolink}}    | **Kulullu Soldier**\ {{:misc:gui:gold.png?15&nolink}} 18\ {{:misc:gui:resources.png?15&nolink}} 10   |  | unit (u-water)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:uruk:ugallu.png?30&nolink}}    | **Ugallu**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:uruk:umu-apkallu.png?30&nolink}}    | **Umu-apkallu**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:uruk:anzu.png?30&nolink}}    | **Anzu**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:uruk:buffalo.png?30&nolink}}    | **Buffalo**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:uruk:kusarikku.png?30&nolink}}    | **Kusarikku**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:uruk:apkallu.png?30&nolink}}    | **Apkallu**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:uruk:favored_of_enki.png?30&nolink}}    | **Favored of Enki**  |  | hero (unique)  |  Manual description here.  |

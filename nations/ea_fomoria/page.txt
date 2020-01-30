@@ -1,0 +1,39 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:fomoria:nemedian_champion.png?30&nolink}}    | **Nemedian Champion**\ {{:misc:gui:gold.png?15&nolink}} 175\ {{:misc:gui:resources.png?15&nolink}} 25   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ea:fomoria:nemedian_sorceress.png?30&nolink}}    | **Nemedian Sorceress**\ {{:misc:gui:gold.png?15&nolink}} 245\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ea:fomoria:fomorian_king.png?30&nolink}}    | **Fomorian King**\ {{:misc:gui:gold.png?15&nolink}} 485\ {{:misc:gui:resources.png?15&nolink}} 37   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ea:fomoria:fir_bolg_scout.png?30&nolink}}    | **Fir Bolg Scout**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 12   |  | commander  |  Manual description here.  |
+| {{:nations:ea:fomoria:fir_bolg_champion.png?30&nolink}}    | **Fir Bolg Champion**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 12   |  | commander  |  Manual description here.  |
+| {{:nations:ea:fomoria:fomorian_scout.png?30&nolink}}    | **Fomorian Scout**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 19   |  | commander  |  Manual description here.  |
+| {{:nations:ea:fomoria:fomorian_champion.png?30&nolink}}    | **Fomorian Champion**\ {{:misc:gui:gold.png?15&nolink}} 60\ {{:misc:gui:resources.png?15&nolink}} 29   |  | commander  |  Manual description here.  |
+| {{:nations:ea:fomoria:fir_bolg_druid.png?30&nolink}}    | **Fir Bolg Druid**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:ea:fomoria:unmarked_champion.png?30&nolink}}    | **Unmarked Champion**\ {{:misc:gui:gold.png?15&nolink}} 130\ {{:misc:gui:resources.png?15&nolink}} 29   |  | commander  |  Manual description here.  |
+| {{:nations:ea:fomoria:fomorian_druid.png?30&nolink}}    | **Fomorian Druid**\ {{:misc:gui:gold.png?15&nolink}} 200\ {{:misc:gui:resources.png?15&nolink}} 3   |  | commander  |  Manual description here.  |
+| {{:nations:ea:fomoria:fir_bolg_slinger.png?30&nolink}}    | **Fir Bolg Slinger**\ {{:misc:gui:gold.png?15&nolink}} 11\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit  |  Manual description here.  |
+| {{:nations:ea:fomoria:fir_bolg_warrior.png?30&nolink}}    | **Fir Bolg Warrior**\ {{:misc:gui:gold.png?15&nolink}} 13\ {{:misc:gui:resources.png?15&nolink}} 10   |  | unit  |  Manual description here.  |
+| {{:nations:ea:fomoria:fir_bolg_warrior_2.png?30&nolink}}    | **Fir Bolg Warrior**\ {{:misc:gui:gold.png?15&nolink}} 13\ {{:misc:gui:resources.png?15&nolink}} 10   |  | unit  |  Manual description here.  |
+| {{:nations:ea:fomoria:fomorian_militia.png?30&nolink}}    | **Fomorian Militia**\ {{:misc:gui:gold.png?15&nolink}} 15\ {{:misc:gui:resources.png?15&nolink}} 3   |  | unit  |  Manual description here.  |
+| {{:nations:ea:fomoria:fomorian_javelinist.png?30&nolink}}    | **Fomorian Javelinist**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 15   |  | unit  |  Manual description here.  |
+| {{:nations:ea:fomoria:fomorian_spearman.png?30&nolink}}    | **Fomorian Spearman**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 17   |  | unit  |  Manual description here.  |
+| {{:nations:ea:fomoria:fomorian_warrior.png?30&nolink}}    | **Fomorian Warrior**\ {{:misc:gui:gold.png?15&nolink}} 30\ {{:misc:gui:resources.png?15&nolink}} 27   |  | unit  |  Manual description here.  |
+| {{:nations:ea:fomoria:nemedian_warrior.png?30&nolink}}    | **Nemedian Warrior**\ {{:misc:gui:gold.png?15&nolink}} 35\ {{:misc:gui:resources.png?15&nolink}} 22   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ea:fomoria:unmarked.png?30&nolink}}    | **Unmarked**\ {{:misc:gui:gold.png?15&nolink}} 55\ {{:misc:gui:resources.png?15&nolink}} 27   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ea:fomoria:fomorian_giant.png?30&nolink}}    | **Fomorian Giant**\ {{:misc:gui:gold.png?15&nolink}} 75\ {{:misc:gui:resources.png?15&nolink}} 37   |  | unit (cap only)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:fomoria:barghest.png?30&nolink}}    | **Barghest**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:fomoria:black_dog.png?30&nolink}}    | **Black Dog**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:fomoria:morrigan.png?30&nolink}}    | **Morrigan**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:fomoria:high_king.png?30&nolink}}    | **High King**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ea:fomoria:last_partholonian.png?30&nolink}}    | **Last Partholonian**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ea:fomoria:nemedian_queen.png?30&nolink}}    | **Nemedian Queen**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ea:fomoria:uncursed.png?30&nolink}}    | **Uncursed**  |  | hero (unique)  |  Manual description here.  |

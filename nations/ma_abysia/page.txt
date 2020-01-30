@@ -1,0 +1,34 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:abysia:warlock_apprentice.png?30&nolink}}    | **Warlock Apprentice**\ {{:misc:gui:gold.png?15&nolink}} 135\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:abysia:demonbred.png?30&nolink}}    | **Demonbred**\ {{:misc:gui:gold.png?15&nolink}} 265\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:abysia:warlock.png?30&nolink}}    | **Warlock**\ {{:misc:gui:gold.png?15&nolink}} 285\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:abysia:beast_trainer.png?30&nolink}}    | **Beast Trainer**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 41   |  | commander  |  Manual description here.  |
+| {{:nations:ma:abysia:slayer.png?30&nolink}}    | **Slayer**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 10   |  | commander  |  Manual description here.  |
+| {{:nations:ma:abysia:warlord.png?30&nolink}}    | **Warlord**\ {{:misc:gui:gold.png?15&nolink}} 80\ {{:misc:gui:resources.png?15&nolink}} 38   |  | commander  |  Manual description here.  |
+| {{:nations:ma:abysia:anathemant_salamander.png?30&nolink}}    | **Anathemant Salamander**\ {{:misc:gui:gold.png?15&nolink}} 185\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:abysia:anathemant_dragon.png?30&nolink}}    | **Anathemant Dragon**\ {{:misc:gui:gold.png?15&nolink}} 285\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:ma:abysia:humanbred_2.png?30&nolink}}    | **Humanbred**\ {{:misc:gui:gold.png?15&nolink}} 13\ {{:misc:gui:resources.png?15&nolink}} 10   |  | unit  |  Manual description here.  |
+| {{:nations:ma:abysia:humanbred.png?30&nolink}}    | **Humanbred**\ {{:misc:gui:gold.png?15&nolink}} 14\ {{:misc:gui:resources.png?15&nolink}} 10   |  | unit  |  Manual description here.  |
+| {{:nations:ma:abysia:abysian_infantry.png?30&nolink}}    | **Abysian Infantry**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 26   |  | unit  |  Manual description here.  |
+| {{:nations:ma:abysia:abysian_infantry_2.png?30&nolink}}    | **Abysian Infantry**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 26   |  | unit  |  Manual description here.  |
+| {{:nations:ma:abysia:abysian_infantry_3.png?30&nolink}}    | **Abysian Infantry**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 27   |  | unit  |  Manual description here.  |
+| {{:nations:ma:abysia:abysian_infantry_4.png?30&nolink}}    | **Abysian Infantry**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 28   |  | unit  |  Manual description here.  |
+| {{:nations:ma:abysia:salamander.png?30&nolink}}    | **Salamander**\ {{:misc:gui:gold.png?15&nolink}} 50\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit  |  Manual description here.  |
+| {{:nations:ma:abysia:lava_warrior.png?30&nolink}}    | **Lava Warrior**\ {{:misc:gui:gold.png?15&nolink}} 30\ {{:misc:gui:resources.png?15&nolink}} 28   |  | unit (cap only)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:abysia:great_lion.png?30&nolink}}    | **Great Lion**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:abysia:scorpion_man.png?30&nolink}}    | **Scorpion Man**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:abysia:smoulderghost.png?30&nolink}}    | **Smoulderghost**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:abysia:anathemant_warlock.png?30&nolink}}    | **Anathemant Warlock**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:abysia:rage_lord.png?30&nolink}}    | **Rage Lord**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:abysia:slayer.png?30&nolink}}    | **Slayer**  |  | hero (unique)  |  Manual description here.  |

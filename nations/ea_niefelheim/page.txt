@@ -1,0 +1,33 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:niefelheim:niefel_jarl.png?30&nolink}}    | **Niefel Jarl**\ {{:misc:gui:gold.png?15&nolink}} 525\ {{:misc:gui:resources.png?15&nolink}} 43   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ea:niefelheim:jotun_scout.png?30&nolink}}    | **Jotun Scout**\ {{:misc:gui:gold.png?15&nolink}} 55\ {{:misc:gui:resources.png?15&nolink}} 7   |  | commander  |  Manual description here.  |
+| {{:nations:ea:niefelheim:jotun_herse.png?30&nolink}}    | **Jotun Herse**\ {{:misc:gui:gold.png?15&nolink}} 75\ {{:misc:gui:resources.png?15&nolink}} 33   |  | commander  |  Manual description here.  |
+| {{:nations:ea:niefelheim:jotun_gode.png?30&nolink}}    | **Jotun Gode**\ {{:misc:gui:gold.png?15&nolink}} 110\ {{:misc:gui:resources.png?15&nolink}} 19   |  | commander  |  Manual description here.  |
+| {{:nations:ea:niefelheim:jotun_jarl.png?30&nolink}}    | **Jotun Jarl**\ {{:misc:gui:gold.png?15&nolink}} 130\ {{:misc:gui:resources.png?15&nolink}} 33   |  | commander  |  Manual description here.  |
+| {{:nations:ea:niefelheim:gygja.png?30&nolink}}    | **Gygja**\ {{:misc:gui:gold.png?15&nolink}} 225\ {{:misc:gui:resources.png?15&nolink}} 3   |  | commander  |  Manual description here.  |
+| {{:nations:ea:niefelheim:jotun_skratti.png?30&nolink}}    | **Jotun Skratti**\ {{:misc:gui:gold.png?15&nolink}} 255\ {{:misc:gui:resources.png?15&nolink}} 3   |  | commander  |  Manual description here.  |
+| {{:nations:ea:niefelheim:jotun_militia.png?30&nolink}}    | **Jotun Militia**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 15   |  | unit  |  Manual description here.  |
+| {{:nations:ea:niefelheim:jotun_hurler.png?30&nolink}}    | **Jotun Hurler**\ {{:misc:gui:gold.png?15&nolink}} 30\ {{:misc:gui:resources.png?15&nolink}} 9   |  | unit  |  Manual description here.  |
+| {{:nations:ea:niefelheim:jotun_javelinist.png?30&nolink}}    | **Jotun Javelinist**\ {{:misc:gui:gold.png?15&nolink}} 30\ {{:misc:gui:resources.png?15&nolink}} 17   |  | unit  |  Manual description here.  |
+| {{:nations:ea:niefelheim:jotun_spearman.png?30&nolink}}    | **Jotun Spearman**\ {{:misc:gui:gold.png?15&nolink}} 30\ {{:misc:gui:resources.png?15&nolink}} 17   |  | unit  |  Manual description here.  |
+| {{:nations:ea:niefelheim:jotun_huskarl.png?30&nolink}}    | **Jotun Huskarl**\ {{:misc:gui:gold.png?15&nolink}} 35\ {{:misc:gui:resources.png?15&nolink}} 21   |  | unit  |  Manual description here.  |
+| {{:nations:ea:niefelheim:jotun_huskarl_2.png?30&nolink}}    | **Jotun Huskarl**\ {{:misc:gui:gold.png?15&nolink}} 35\ {{:misc:gui:resources.png?15&nolink}} 21   |  | unit  |  Manual description here.  |
+| {{:nations:ea:niefelheim:jotun_hirdman.png?30&nolink}}    | **Jotun Hirdman**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 33   |  | unit  |  Manual description here.  |
+| {{:nations:ea:niefelheim:jotun_skinshifter.png?30&nolink}}    | **Jotun Skinshifter**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 5   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ea:niefelheim:niefel_giant.png?30&nolink}}    | **Niefel Giant**\ {{:misc:gui:gold.png?15&nolink}} 155\ {{:misc:gui:resources.png?15&nolink}} 21   |  | unit (cap only)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:niefelheim:great_bear.png?30&nolink}}    | **Great Bear**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:niefelheim:jotun_draug.png?30&nolink}}    | **Jotun Draug**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:niefelheim:jotun_wolf.png?30&nolink}}    | **Jotun Wolf**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:niefelheim:abductor.png?30&nolink}}    | **Abductor**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ea:niefelheim:great_hag.png?30&nolink}}    | **Great Hag**  |  | hero (unique)  |  Manual description here.  |

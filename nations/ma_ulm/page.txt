@@ -1,0 +1,46 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:ulm:master_mason.png?30&nolink}}    | **Master Mason**\ {{:misc:gui:gold.png?15&nolink}} 60\ {{:misc:gui:resources.png?15&nolink}} 52   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:ulm:lord_guardian.png?30&nolink}}    | **Lord Guardian**\ {{:misc:gui:gold.png?15&nolink}} 80\ {{:misc:gui:resources.png?15&nolink}} 44   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:ulm:black_priest.png?30&nolink}}    | **Black Priest**\ {{:misc:gui:gold.png?15&nolink}} 100\ {{:misc:gui:resources.png?15&nolink}} 2   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:ulm:priest_smith.png?30&nolink}}    | **Priest Smith**\ {{:misc:gui:gold.png?15&nolink}} 175\ {{:misc:gui:resources.png?15&nolink}} 7   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:ulm:black_acolyte.png?30&nolink}}    | **Black Acolyte**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:ulm:spy.png?30&nolink}}    | **Spy**\ {{:misc:gui:gold.png?15&nolink}} 60\ {{:misc:gui:resources.png?15&nolink}} 5   |  | commander  |  Manual description here.  |
+| {{:nations:ma:ulm:commander_of_ulm.png?30&nolink}}    | **Commander of Ulm**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 30   |  | commander  |  Manual description here.  |
+| {{:nations:ma:ulm:commander_of_ulm_2.png?30&nolink}}    | **Commander of Ulm**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 41   |  | commander  |  Manual description here.  |
+| {{:nations:ma:ulm:commander_of_ulm_3.png?30&nolink}}    | **Commander of Ulm**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 30   |  | commander  |  Manual description here.  |
+| {{:nations:ma:ulm:commander_of_ulm_4.png?30&nolink}}    | **Commander of Ulm**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 41   |  | commander  |  Manual description here.  |
+| {{:nations:ma:ulm:black_lord.png?30&nolink}}    | **Black Lord**\ {{:misc:gui:gold.png?15&nolink}} 105\ {{:misc:gui:resources.png?15&nolink}} 68   |  | commander  |  Manual description here.  |
+| {{:nations:ma:ulm:master_smith.png?30&nolink}}    | **Master Smith**\ {{:misc:gui:gold.png?15&nolink}} 135\ {{:misc:gui:resources.png?15&nolink}} 7   |  | commander  |  Manual description here.  |
+| {{:nations:ma:ulm:war_dog.png?30&nolink}}    | **War Dog**\ {{:misc:gui:gold.png?15&nolink}} 7\ {{:misc:gui:resources.png?15&nolink}} 7   |  | unit  |  Manual description here.  |
+| {{:nations:ma:ulm:black_plate_infantry.png?30&nolink}}    | **Black Plate Infantry**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 38   |  | unit  |  Manual description here.  |
+| {{:nations:ma:ulm:black_plate_infantry_2.png?30&nolink}}    | **Black Plate Infantry**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 38   |  | unit  |  Manual description here.  |
+| {{:nations:ma:ulm:black_plate_infantry_3.png?30&nolink}}    | **Black Plate Infantry**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 41   |  | unit  |  Manual description here.  |
+| {{:nations:ma:ulm:black_plate_infantry_4.png?30&nolink}}    | **Black Plate Infantry**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 36   |  | unit  |  Manual description here.  |
+| {{:nations:ma:ulm:black_plate_infantry_5.png?30&nolink}}    | **Black Plate Infantry**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 41   |  | unit  |  Manual description here.  |
+| {{:nations:ma:ulm:black_plate_pikeneer.png?30&nolink}}    | **Black Plate Pikeneer**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 37   |  | unit  |  Manual description here.  |
+| {{:nations:ma:ulm:crossbowman.png?30&nolink}}    | **Crossbowman**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 28   |  | unit  |  Manual description here.  |
+| {{:nations:ma:ulm:infantry_of_ulm.png?30&nolink}}    | **Infantry of Ulm**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 27   |  | unit  |  Manual description here.  |
+| {{:nations:ma:ulm:infantry_of_ulm_2.png?30&nolink}}    | **Infantry of Ulm**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 27   |  | unit  |  Manual description here.  |
+| {{:nations:ma:ulm:infantry_of_ulm_3.png?30&nolink}}    | **Infantry of Ulm**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 30   |  | unit  |  Manual description here.  |
+| {{:nations:ma:ulm:infantry_of_ulm_4.png?30&nolink}}    | **Infantry of Ulm**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 25   |  | unit  |  Manual description here.  |
+| {{:nations:ma:ulm:infantry_of_ulm_5.png?30&nolink}}    | **Infantry of Ulm**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 30   |  | unit  |  Manual description here.  |
+| {{:nations:ma:ulm:pikeneer.png?30&nolink}}    | **Pikeneer**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 26   |  | unit  |  Manual description here.  |
+| {{:nations:ma:ulm:sapper.png?30&nolink}}    | **Sapper**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 37   |  | unit  |  Manual description here.  |
+| {{:nations:ma:ulm:black_knight.png?30&nolink}}    | **Black Knight**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 68   |  | unit  |  Manual description here.  |
+| {{:nations:ma:ulm:guardian.png?30&nolink}}    | **Guardian**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 44   |  | unit (cap only)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:ulm:iron_angel.png?30&nolink}}    | **Iron Angel**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:ulm:great_bear.png?30&nolink}}    | **Great Bear**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:ulm:hero.png?30&nolink}}    | **Hero**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:ulm:hero_2.png?30&nolink}}    | **Hero**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:ulm:heroine.png?30&nolink}}    | **Heroine**  |  | hero (unique)  |  Manual description here.  |

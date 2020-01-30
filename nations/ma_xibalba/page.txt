@@ -1,0 +1,65 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:xibalba:chak_muuch_assassin.png?30&nolink}}    | **Chak Muuch Assassin**\ {{:misc:gui:gold.png?15&nolink}} 115\ {{:misc:gui:resources.png?15&nolink}} 27   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:xibalba:camazotz_2.png?30&nolink}}    | **Camazotz**\ {{:misc:gui:gold.png?15&nolink}} 165\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:xibalba:bacab.png?30&nolink}}    | **Bacab**\ {{:misc:gui:gold.png?15&nolink}} 455\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:xibalba:zotz_batab_2.png?30&nolink}}    | **Zotz Batab**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 3   |  | cmdr (cave)  |  Manual description here.  |
+| {{:nations:ma:xibalba:camazotz.png?30&nolink}}    | **Camazotz**\ {{:misc:gui:gold.png?15&nolink}} 165\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cave)  |  Manual description here.  |
+| {{:nations:ma:xibalba:muuch_scout.png?30&nolink}}    | **Muuch Scout**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (forest)  |  Manual description here.  |
+| {{:nations:ma:xibalba:zotz_batab.png?30&nolink}}    | **Zotz Batab**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 3   |  | cmdr (forest)  |  Manual description here.  |
+| {{:nations:ma:xibalba:muuch_batab.png?30&nolink}}    | **Muuch Batab**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 11   |  | cmdr (forest)  |  Manual description here.  |
+| {{:nations:ma:xibalba:way.png?30&nolink}}    | **Way**\ {{:misc:gui:gold.png?15&nolink}} 145\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (forest)  |  Manual description here.  |
+| {{:nations:ma:xibalba:ah_ha'_2.png?30&nolink}}    | **Ah Ha'**\ {{:misc:gui:gold.png?15&nolink}} 100\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (u-water)  |  Manual description here.  |
+| {{:nations:ma:xibalba:muuch_ajaw_2.png?30&nolink}}    | **Muuch Ajaw**\ {{:misc:gui:gold.png?15&nolink}} 115\ {{:misc:gui:resources.png?15&nolink}} 38   |  | cmdr (u-water)  |  Manual description here.  |
+| {{:nations:ma:xibalba:muuch_k'uhul_2.png?30&nolink}}    | **Muuch K'uhul**\ {{:misc:gui:gold.png?15&nolink}} 290\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (u-water)  |  Manual description here.  |
+| {{:nations:ma:xibalba:ah_itz.png?30&nolink}}    | **Ah Itz**\ {{:misc:gui:gold.png?15&nolink}} 65\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:xibalba:ah_ha'.png?30&nolink}}    | **Ah Ha'**\ {{:misc:gui:gold.png?15&nolink}} 100\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:xibalba:muuch_ajaw.png?30&nolink}}    | **Muuch Ajaw**\ {{:misc:gui:gold.png?15&nolink}} 115\ {{:misc:gui:resources.png?15&nolink}} 38   |  | commander  |  Manual description here.  |
+| {{:nations:ma:xibalba:muuch_k'uhul.png?30&nolink}}    | **Muuch K'uhul**\ {{:misc:gui:gold.png?15&nolink}} 290\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:xibalba:muuch_militia.png?30&nolink}}    | **Muuch Militia**\ {{:misc:gui:gold.png?15&nolink}} 7\ {{:misc:gui:resources.png?15&nolink}} 3   |  | unit  |  Manual description here.  |
+| {{:nations:ma:xibalba:muuch_dart_thrower.png?30&nolink}}    | **Muuch Dart Thrower**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 4   |  | unit  |  Manual description here.  |
+| {{:nations:ma:xibalba:muuch_warrior.png?30&nolink}}    | **Muuch Warrior**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 3   |  | unit  |  Manual description here.  |
+| {{:nations:ma:xibalba:muuch_warrior_2.png?30&nolink}}    | **Muuch Warrior**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 5   |  | unit  |  Manual description here.  |
+| {{:nations:ma:xibalba:muuch_warrior_3.png?30&nolink}}    | **Muuch Warrior**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 10   |  | unit  |  Manual description here.  |
+| {{:nations:ma:xibalba:muuch_warrior_4.png?30&nolink}}    | **Muuch Warrior**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 11   |  | unit  |  Manual description here.  |
+| {{:nations:ma:xibalba:chak_muuch_dart_thrower.png?30&nolink}}    | **Chak Muuch Dart Thrower**\ {{:misc:gui:gold.png?15&nolink}} 19\ {{:misc:gui:resources.png?15&nolink}} 5   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ma:xibalba:chak_muuch_obsidian_warrior.png?30&nolink}}    | **Chak Muuch Obsidian Warrior**\ {{:misc:gui:gold.png?15&nolink}} 26\ {{:misc:gui:resources.png?15&nolink}} 26   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ma:xibalba:wo'_muuch.png?30&nolink}}    | **Wo' Muuch**\ {{:misc:gui:gold.png?15&nolink}} 35\ {{:misc:gui:resources.png?15&nolink}} 38   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ma:xibalba:zotz_warrior_3.png?30&nolink}}    | **Zotz Warrior**\ {{:misc:gui:gold.png?15&nolink}} 8\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit (cave)  |  Manual description here.  |
+| {{:nations:ma:xibalba:zotz_warrior_4.png?30&nolink}}    | **Zotz Warrior**\ {{:misc:gui:gold.png?15&nolink}} 8\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit (cave)  |  Manual description here.  |
+| {{:nations:ma:xibalba:zotz_warrior.png?30&nolink}}    | **Zotz Warrior**\ {{:misc:gui:gold.png?15&nolink}} 8\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit (forest)  |  Manual description here.  |
+| {{:nations:ma:xibalba:zotz_warrior_2.png?30&nolink}}    | **Zotz Warrior**\ {{:misc:gui:gold.png?15&nolink}} 8\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit (forest)  |  Manual description here.  |
+| {{:nations:ma:xibalba:muuch_jungle_warrior.png?30&nolink}}    | **Muuch Jungle Warrior**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 5   |  | unit (forest)  |  Manual description here.  |
+| {{:nations:ma:xibalba:lakam_ha'_warrior.png?30&nolink}}    | **Lakam Ha' Warrior**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 5   |  | unit (u-water)  |  Manual description here.  |
+| {{:nations:ma:xibalba:lakam_ha'_warrior_2.png?30&nolink}}    | **Lakam Ha' Warrior**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 5   |  | unit (u-water)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:xibalba:balam_of_the_east.png?30&nolink}}    | **Balam of the East**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:xibalba:balam_of_the_east_2.png?30&nolink}}    | **Balam of the East**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:xibalba:balam_of_the_east_3.png?30&nolink}}    | **Balam of the East**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:xibalba:balam_of_the_north.png?30&nolink}}    | **Balam of the North**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:xibalba:balam_of_the_north_2.png?30&nolink}}    | **Balam of the North**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:xibalba:balam_of_the_north_3.png?30&nolink}}    | **Balam of the North**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:xibalba:balam_of_the_south.png?30&nolink}}    | **Balam of the South**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:xibalba:balam_of_the_south_2.png?30&nolink}}    | **Balam of the South**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:xibalba:balam_of_the_south_3.png?30&nolink}}    | **Balam of the South**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:xibalba:balam_of_the_west.png?30&nolink}}    | **Balam of the West**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:xibalba:balam_of_the_west_2.png?30&nolink}}    | **Balam of the West**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:xibalba:balam_of_the_west_3.png?30&nolink}}    | **Balam of the West**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:xibalba:chaac_of_the_east.png?30&nolink}}    | **Chaac of the East**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:xibalba:chaac_of_the_north.png?30&nolink}}    | **Chaac of the North**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:xibalba:chaac_of_the_south.png?30&nolink}}    | **Chaac of the South**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:xibalba:chaac_of_the_west.png?30&nolink}}    | **Chaac of the West**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:xibalba:jade_serpent.png?30&nolink}}    | **Jade Serpent**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:xibalba:jaguar_toad.png?30&nolink}}    | **Jaguar Toad**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:xibalba:monster_toad.png?30&nolink}}    | **Monster Toad**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:xibalba:red_face.png?30&nolink}}    | **Red Face**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:xibalba:grandmother_earth.png?30&nolink}}    | **Grandmother Earth**\ {{:misc:gui:gold.png?15&nolink}} 575\ {{:misc:gui:resources.png?15&nolink}} 1   |  | hero (unique)  |  Manual description here.  |

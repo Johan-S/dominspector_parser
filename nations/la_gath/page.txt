@@ -1,0 +1,47 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:gath:seren.png?30&nolink}}    | **Seren**\ {{:misc:gui:gold.png?15&nolink}} 200\ {{:misc:gui:resources.png?15&nolink}} 79   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:la:gath:kohen_gadol.png?30&nolink}}    | **Kohen Gadol**\ {{:misc:gui:gold.png?15&nolink}} 370\ {{:misc:gui:resources.png?15&nolink}} 31   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:la:gath:iassacharite_scout.png?30&nolink}}    | **Iassacharite Scout**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 6   |  | commander  |  Manual description here.  |
+| {{:nations:la:gath:benjaminite_commander.png?30&nolink}}    | **Benjaminite Commander**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 11   |  | commander  |  Manual description here.  |
+| {{:nations:la:gath:iassacharite_sage.png?30&nolink}}    | **Iassacharite Sage**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:la:gath:levite_priest.png?30&nolink}}    | **Levite Priest**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:la:gath:iassacharite_sibyl.png?30&nolink}}    | **Iassacharite Sibyl**\ {{:misc:gui:gold.png?15&nolink}} 65\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:la:gath:gittite_commander.png?30&nolink}}    | **Gittite Commander**\ {{:misc:gui:gold.png?15&nolink}} 85\ {{:misc:gui:resources.png?15&nolink}} 28   |  | commander  |  Manual description here.  |
+| {{:nations:la:gath:kohen.png?30&nolink}}    | **Kohen**\ {{:misc:gui:gold.png?15&nolink}} 130\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:la:gath:yeddeoni.png?30&nolink}}    | **Yeddeoni**\ {{:misc:gui:gold.png?15&nolink}} 130\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:la:gath:abba.png?30&nolink}}    | **Abba**\ {{:misc:gui:gold.png?15&nolink}} 195\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:la:gath:naphtali_spearman.png?30&nolink}}    | **Naphtali Spearman**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 11   |  | unit  |  Manual description here.  |
+| {{:nations:la:gath:reubenite_archer.png?30&nolink}}    | **Reubenite Archer**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 7   |  | unit  |  Manual description here.  |
+| {{:nations:la:gath:benjaminite_slinger.png?30&nolink}}    | **Benjaminite Slinger**\ {{:misc:gui:gold.png?15&nolink}} 11\ {{:misc:gui:resources.png?15&nolink}} 11   |  | unit  |  Manual description here.  |
+| {{:nations:la:gath:gadite_swordsman.png?30&nolink}}    | **Gadite Swordsman**\ {{:misc:gui:gold.png?15&nolink}} 12\ {{:misc:gui:resources.png?15&nolink}} 28   |  | unit  |  Manual description here.  |
+| {{:nations:la:gath:zebulunite_soldier.png?30&nolink}}    | **Zebulunite Soldier**\ {{:misc:gui:gold.png?15&nolink}} 13\ {{:misc:gui:resources.png?15&nolink}} 15   |  | unit  |  Manual description here.  |
+| {{:nations:la:gath:asherite_soldier.png?30&nolink}}    | **Asherite Soldier**\ {{:misc:gui:gold.png?15&nolink}} 15\ {{:misc:gui:resources.png?15&nolink}} 27   |  | unit  |  Manual description here.  |
+| {{:nations:la:gath:levite_zealot.png?30&nolink}}    | **Levite Zealot**\ {{:misc:gui:gold.png?15&nolink}} 15\ {{:misc:gui:resources.png?15&nolink}} 17   |  | unit  |  Manual description here.  |
+| {{:nations:la:gath:zebulunite_horn_blower.png?30&nolink}}    | **Zebulunite Horn Blower**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 16   |  | unit  |  Manual description here.  |
+| {{:nations:la:gath:gittite_soldier.png?30&nolink}}    | **Gittite Soldier**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 25   |  | unit  |  Manual description here.  |
+| {{:nations:la:gath:gibbor.png?30&nolink}}    | **Gibbor**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 43   |  | unit (cap only)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:gath:arel.png?30&nolink}}    | **Arel**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:gath:chayot.png?30&nolink}}    | **Chayot**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:gath:chayot_2.png?30&nolink}}    | **Chayot**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:gath:chayot_3.png?30&nolink}}    | **Chayot**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:gath:chayot_4.png?30&nolink}}    | **Chayot**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:gath:hashmal.png?30&nolink}}    | **Hashmal**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:gath:lilot.png?30&nolink}}    | **Lilot**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:gath:malakh.png?30&nolink}}    | **Malakh**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:gath:ophan.png?30&nolink}}    | **Ophan**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:gath:fossil_warrior.png?30&nolink}}    | **Fossil Warrior**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:gath:mazzik.png?30&nolink}}    | **Mazzik**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:gath:se'ir.png?30&nolink}}    | **Se'ir**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:gath:shed.png?30&nolink}}    | **Shed**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:gath:sibyl_of_hermon.png?30&nolink}}    | **Sibyl of Hermon**  |  | hero (unique)  |  Manual description here.  |

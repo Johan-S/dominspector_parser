@@ -1,0 +1,33 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:midgard:vanherse.png?30&nolink}}    | **Vanherse**\ {{:misc:gui:gold.png?15&nolink}} 140\ {{:misc:gui:resources.png?15&nolink}} 16   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:la:midgard:vanjarl.png?30&nolink}}    | **Vanjarl**\ {{:misc:gui:gold.png?15&nolink}} 275\ {{:misc:gui:resources.png?15&nolink}} 18   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:la:midgard:scout.png?30&nolink}}    | **Scout**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 4   |  | commander  |  Manual description here.  |
+| {{:nations:la:midgard:gode.png?30&nolink}}    | **Gode**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 5   |  | commander  |  Manual description here.  |
+| {{:nations:la:midgard:herse.png?30&nolink}}    | **Herse**\ {{:misc:gui:gold.png?15&nolink}} 55\ {{:misc:gui:resources.png?15&nolink}} 22   |  | commander  |  Manual description here.  |
+| {{:nations:la:midgard:völva.png?30&nolink}}    | **Völva**\ {{:misc:gui:gold.png?15&nolink}} 105\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:la:midgard:jarl.png?30&nolink}}    | **Jarl**\ {{:misc:gui:gold.png?15&nolink}} 130\ {{:misc:gui:resources.png?15&nolink}} 13   |  | commander  |  Manual description here.  |
+| {{:nations:la:midgard:galderman.png?30&nolink}}    | **Galderman**\ {{:misc:gui:gold.png?15&nolink}} 190\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:la:midgard:archer.png?30&nolink}}    | **Archer**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 5   |  | unit  |  Manual description here.  |
+| {{:nations:la:midgard:huskarl.png?30&nolink}}    | **Huskarl**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 12   |  | unit  |  Manual description here.  |
+| {{:nations:la:midgard:huskarl_2.png?30&nolink}}    | **Huskarl**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 12   |  | unit  |  Manual description here.  |
+| {{:nations:la:midgard:hirdman.png?30&nolink}}    | **Hirdman**\ {{:misc:gui:gold.png?15&nolink}} 12\ {{:misc:gui:resources.png?15&nolink}} 20   |  | unit  |  Manual description here.  |
+| {{:nations:la:midgard:hirdman_2.png?30&nolink}}    | **Hirdman**\ {{:misc:gui:gold.png?15&nolink}} 12\ {{:misc:gui:resources.png?15&nolink}} 22   |  | unit  |  Manual description here.  |
+| {{:nations:la:midgard:einhere.png?30&nolink}}    | **Einhere**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 21   |  | unit  |  Manual description here.  |
+| {{:nations:la:midgard:skinshifter.png?30&nolink}}    | **Skinshifter**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 7   |  | unit  |  Manual description here.  |
+| {{:nations:la:midgard:van.png?30&nolink}}    | **Van**\ {{:misc:gui:gold.png?15&nolink}} 65\ {{:misc:gui:resources.png?15&nolink}} 16   |  | unit (cap only)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:midgard:draug.png?30&nolink}}    | **Draug**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:midgard:great_bear.png?30&nolink}}    | **Great Bear**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:midgard:valkyrie.png?30&nolink}}    | **Valkyrie**\ {{:misc:gui:gold.png?15&nolink}} 50\ {{:misc:gui:resources.png?15&nolink}} 15   |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:midgard:einhere.png?30&nolink}}    | **Einhere**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:la:midgard:vanadrott.png?30&nolink}}    | **Vanadrott**  |  | hero (unique)  |  Manual description here.  |

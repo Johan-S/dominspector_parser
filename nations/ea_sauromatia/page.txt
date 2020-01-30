@@ -1,0 +1,43 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:sauromatia:hydra_tamer.png?30&nolink}}    | **Hydra Tamer**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 10   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ea:sauromatia:manflayer.png?30&nolink}}    | **Manflayer**\ {{:misc:gui:gold.png?15&nolink}} 145\ {{:misc:gui:resources.png?15&nolink}} 14   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ea:sauromatia:witch_king.png?30&nolink}}    | **Witch King**\ {{:misc:gui:gold.png?15&nolink}} 390\ {{:misc:gui:resources.png?15&nolink}} 13   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ea:sauromatia:chieftain_2.png?30&nolink}}    | **Chieftain**\ {{:misc:gui:gold.png?15&nolink}} 60\ {{:misc:gui:resources.png?15&nolink}} 14   |  | cmdr (foreign)  |  Manual description here.  |
+| {{:nations:ea:sauromatia:scout.png?30&nolink}}    | **Scout**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 4   |  | commander  |  Manual description here.  |
+| {{:nations:ea:sauromatia:soothsayer.png?30&nolink}}    | **Soothsayer**\ {{:misc:gui:gold.png?15&nolink}} 35\ {{:misc:gui:resources.png?15&nolink}} 4   |  | commander  |  Manual description here.  |
+| {{:nations:ea:sauromatia:spirit_guide.png?30&nolink}}    | **Spirit Guide**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ea:sauromatia:chieftain.png?30&nolink}}    | **Chieftain**\ {{:misc:gui:gold.png?15&nolink}} 60\ {{:misc:gui:resources.png?15&nolink}} 14   |  | commander  |  Manual description here.  |
+| {{:nations:ea:sauromatia:sauromatian_manflayer.png?30&nolink}}    | **Sauromatian Manflayer**\ {{:misc:gui:gold.png?15&nolink}} 90\ {{:misc:gui:resources.png?15&nolink}} 37   |  | commander  |  Manual description here.  |
+| {{:nations:ea:sauromatia:warrior_priestess.png?30&nolink}}    | **Warrior Priestess**\ {{:misc:gui:gold.png?15&nolink}} 130\ {{:misc:gui:resources.png?15&nolink}} 34   |  | commander  |  Manual description here.  |
+| {{:nations:ea:sauromatia:enarie.png?30&nolink}}    | **Enarie**\ {{:misc:gui:gold.png?15&nolink}} 145\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ea:sauromatia:warrior_queen.png?30&nolink}}    | **Warrior Queen**\ {{:misc:gui:gold.png?15&nolink}} 165\ {{:misc:gui:resources.png?15&nolink}} 34   |  | commander  |  Manual description here.  |
+| {{:nations:ea:sauromatia:warrior_sorceress.png?30&nolink}}    | **Warrior Sorceress**\ {{:misc:gui:gold.png?15&nolink}} 180\ {{:misc:gui:resources.png?15&nolink}} 16   |  | commander  |  Manual description here.  |
+| {{:nations:ea:sauromatia:sauromatian_archer.png?30&nolink}}    | **Sauromatian Archer**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 5   |  | unit  |  Manual description here.  |
+| {{:nations:ea:sauromatia:sauromatian_amazon.png?30&nolink}}    | **Sauromatian Amazon**\ {{:misc:gui:gold.png?15&nolink}} 12\ {{:misc:gui:resources.png?15&nolink}} 12   |  | unit  |  Manual description here.  |
+| {{:nations:ea:sauromatia:lancer.png?30&nolink}}    | **Lancer**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 14   |  | unit  |  Manual description here.  |
+| {{:nations:ea:sauromatia:raider.png?30&nolink}}    | **Raider**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 12   |  | unit  |  Manual description here.  |
+| {{:nations:ea:sauromatia:sauromatian_lancer.png?30&nolink}}    | **Sauromatian Lancer**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 23   |  | unit  |  Manual description here.  |
+| {{:nations:ea:sauromatia:sauromatian_raider.png?30&nolink}}    | **Sauromatian Raider**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 18   |  | unit  |  Manual description here.  |
+| {{:nations:ea:sauromatia:sauromatian_cataphract.png?30&nolink}}    | **Sauromatian Cataphract**\ {{:misc:gui:gold.png?15&nolink}} 30\ {{:misc:gui:resources.png?15&nolink}} 34   |  | unit  |  Manual description here.  |
+| {{:nations:ea:sauromatia:androphag_archer.png?30&nolink}}    | **Androphag Archer**\ {{:misc:gui:gold.png?15&nolink}} 12\ {{:misc:gui:resources.png?15&nolink}} 6   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ea:sauromatia:oiorpata.png?30&nolink}}    | **Oiorpata**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 16   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ea:sauromatia:androphag.png?30&nolink}}    | **Androphag**\ {{:misc:gui:gold.png?15&nolink}} 55\ {{:misc:gui:resources.png?15&nolink}} 14   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ea:sauromatia:hydra.png?30&nolink}}    | **Hydra**\ {{:misc:gui:gold.png?15&nolink}} 200\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ea:sauromatia:lancer_2.png?30&nolink}}    | **Lancer**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 14   |  | unit (foreign)  |  Manual description here.  |
+| {{:nations:ea:sauromatia:raider_2.png?30&nolink}}    | **Raider**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 12   |  | unit (foreign)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:sauromatia:daughter_of_typhon.png?30&nolink}}    | **Daughter of Typhon**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:sauromatia:ancestral_spirit.png?30&nolink}}    | **Ancestral Spirit**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:sauromatia:man_eater.png?30&nolink}}    | **Man Eater**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ea:sauromatia:partholonian_sorceress.png?30&nolink}}    | **Partholonian Sorceress**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ea:sauromatia:pharmakeia.png?30&nolink}}    | **Pharmakeia**  |  | hero (unique)  |  Manual description here.  |

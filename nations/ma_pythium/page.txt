@@ -1,0 +1,48 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:pythium:hydra_tamer.png?30&nolink}}    | **Hydra Tamer**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 10   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:pythium:arch_theurg.png?30&nolink}}    | **Arch Theurg**\ {{:misc:gui:gold.png?15&nolink}} 390\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:pythium:scout.png?30&nolink}}    | **Scout**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 4   |  | commander  |  Manual description here.  |
+| {{:nations:ma:pythium:battle_deacon.png?30&nolink}}    | **Battle Deacon**\ {{:misc:gui:gold.png?15&nolink}} 65\ {{:misc:gui:resources.png?15&nolink}} 19   |  | commander  |  Manual description here.  |
+| {{:nations:ma:pythium:centurion.png?30&nolink}}    | **Centurion**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 21   |  | commander  |  Manual description here.  |
+| {{:nations:ma:pythium:theurg_acolyte.png?30&nolink}}    | **Theurg Acolyte**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:pythium:serpent_lord.png?30&nolink}}    | **Serpent Lord**\ {{:misc:gui:gold.png?15&nolink}} 85\ {{:misc:gui:resources.png?15&nolink}} 56   |  | commander  |  Manual description here.  |
+| {{:nations:ma:pythium:emerald_lord.png?30&nolink}}    | **Emerald Lord**\ {{:misc:gui:gold.png?15&nolink}} 90\ {{:misc:gui:resources.png?15&nolink}} 30   |  | commander  |  Manual description here.  |
+| {{:nations:ma:pythium:legatus_legionis.png?30&nolink}}    | **Legatus Legionis**\ {{:misc:gui:gold.png?15&nolink}} 110\ {{:misc:gui:resources.png?15&nolink}} 21   |  | commander  |  Manual description here.  |
+| {{:nations:ma:pythium:theurg.png?30&nolink}}    | **Theurg**\ {{:misc:gui:gold.png?15&nolink}} 215\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:ma:pythium:slinger.png?30&nolink}}    | **Slinger**\ {{:misc:gui:gold.png?15&nolink}} 7\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit  |  Manual description here.  |
+| {{:nations:ma:pythium:alae_legionnaire.png?30&nolink}}    | **Alae Legionnaire**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 20   |  | unit  |  Manual description here.  |
+| {{:nations:ma:pythium:gladiator.png?30&nolink}}    | **Gladiator**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit  |  Manual description here.  |
+| {{:nations:ma:pythium:retiarius.png?30&nolink}}    | **Retiarius**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit  |  Manual description here.  |
+| {{:nations:ma:pythium:velite.png?30&nolink}}    | **Velite**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 10   |  | unit  |  Manual description here.  |
+| {{:nations:ma:pythium:hastatus.png?30&nolink}}    | **Hastatus**\ {{:misc:gui:gold.png?15&nolink}} 11\ {{:misc:gui:resources.png?15&nolink}} 21   |  | unit  |  Manual description here.  |
+| {{:nations:ma:pythium:principe.png?30&nolink}}    | **Principe**\ {{:misc:gui:gold.png?15&nolink}} 14\ {{:misc:gui:resources.png?15&nolink}} 21   |  | unit  |  Manual description here.  |
+| {{:nations:ma:pythium:triarius.png?30&nolink}}    | **Triarius**\ {{:misc:gui:gold.png?15&nolink}} 15\ {{:misc:gui:resources.png?15&nolink}} 29   |  | unit  |  Manual description here.  |
+| {{:nations:ma:pythium:emerald_guard.png?30&nolink}}    | **Emerald Guard**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 30   |  | unit  |  Manual description here.  |
+| {{:nations:ma:pythium:standard.png?30&nolink}}    | **Standard**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 21   |  | unit  |  Manual description here.  |
+| {{:nations:ma:pythium:theurg_communicant.png?30&nolink}}    | **Theurg Communicant**\ {{:misc:gui:gold.png?15&nolink}} 50\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit  |  Manual description here.  |
+| {{:nations:ma:pythium:serpent_cataphract.png?30&nolink}}    | **Serpent Cataphract**\ {{:misc:gui:gold.png?15&nolink}} 55\ {{:misc:gui:resources.png?15&nolink}} 56   |  | unit  |  Manual description here.  |
+| {{:nations:ma:pythium:battle_vestal.png?30&nolink}}    | **Battle Vestal**\ {{:misc:gui:gold.png?15&nolink}} 15\ {{:misc:gui:resources.png?15&nolink}} 4   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ma:pythium:hydra.png?30&nolink}}    | **Hydra**\ {{:misc:gui:gold.png?15&nolink}} 200\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit (cap only)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:pythium:angel_of_fury.png?30&nolink}}    | **Angel of Fury**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:pythium:angel_of_the_host.png?30&nolink}}    | **Angel of the Host**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:pythium:arch_angel.png?30&nolink}}    | **Arch Angel**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:pythium:hamadryad.png?30&nolink}}    | **Hamadryad**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:pythium:harbinger.png?30&nolink}}    | **Harbinger**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:pythium:lar.png?30&nolink}}    | **Lar**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:pythium:seraph.png?30&nolink}}    | **Seraph**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:pythium:angel_of_the_heavenly_choir.png?30&nolink}}    | **Angel of the Heavenly Choir**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:pythium:great_lion.png?30&nolink}}    | **Great Lion**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:pythium:hero.png?30&nolink}}    | **Hero**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:pythium:hero_2.png?30&nolink}}    | **Hero**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:pythium:patriarch.png?30&nolink}}    | **Patriarch**  |  | hero (unique)  |  Manual description here.  |

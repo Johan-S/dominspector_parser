@@ -1,0 +1,47 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:nazca:inca.png?30&nolink}}    | **Inca**\ {{:misc:gui:gold.png?15&nolink}} 290\ {{:misc:gui:resources.png?15&nolink}} 6   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:nazca:coya.png?30&nolink}}    | **Coya**\ {{:misc:gui:gold.png?15&nolink}} 295\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:nazca:royal_mallqui.png?30&nolink}}    | **Royal Mallqui**\ {{:misc:gui:gold.png?15&nolink}} 850\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:nazca:kuraka_2.png?30&nolink}}    | **Kuraka**  |  | cmdr (mountain)  |  Manual description here.  |
+| {{:nations:ma:nazca:paqo_of_the_earth_mother.png?30&nolink}}    | **Paqo of the Earth Mother**\ {{:misc:gui:gold.png?15&nolink}} 95\ {{:misc:gui:resources.png?15&nolink}} 2   |  | cmdr (mountain)  |  Manual description here.  |
+| {{:nations:ma:nazca:paqo_of_the_mountain_spirits.png?30&nolink}}    | **Paqo of the Mountain Spirits**\ {{:misc:gui:gold.png?15&nolink}} 105\ {{:misc:gui:resources.png?15&nolink}} 2   |  | cmdr (mountain)  |  Manual description here.  |
+| {{:nations:ma:nazca:runancha.png?30&nolink}}    | **Runancha**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 6   |  | commander  |  Manual description here.  |
+| {{:nations:ma:nazca:kuraka.png?30&nolink}}    | **Kuraka**  |  | commander  |  Manual description here.  |
+| {{:nations:ma:nazca:apu.png?30&nolink}}    | **Apu**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 7   |  | commander  |  Manual description here.  |
+| {{:nations:ma:nazca:apusqispay.png?30&nolink}}    | **Apusqispay**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 8   |  | commander  |  Manual description here.  |
+| {{:nations:ma:nazca:aclla.png?30&nolink}}    | **Aclla**\ {{:misc:gui:gold.png?15&nolink}} 100\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:nazca:mallqui.png?30&nolink}}    | **Mallqui**\ {{:misc:gui:gold.png?15&nolink}} 140\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:nazca:mallqui_priestess.png?30&nolink}}    | **Mallqui Priestess**\ {{:misc:gui:gold.png?15&nolink}} 175\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:nazca:hurin_priest.png?30&nolink}}    | **Hurin Priest**\ {{:misc:gui:gold.png?15&nolink}} 235\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:nazca:mallqui_priest.png?30&nolink}}    | **Mallqui Priest**\ {{:misc:gui:gold.png?15&nolink}} 350\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:nazca:hatun_runa.png?30&nolink}}    | **Hatun Runa**\ {{:misc:gui:gold.png?15&nolink}} 5\ {{:misc:gui:resources.png?15&nolink}} 3   |  | unit  |  Manual description here.  |
+| {{:nations:ma:nazca:human_warrior.png?30&nolink}}    | **Human Warrior**\ {{:misc:gui:gold.png?15&nolink}} 7\ {{:misc:gui:resources.png?15&nolink}} 3   |  | unit  |  Manual description here.  |
+| {{:nations:ma:nazca:human_warrior_2.png?30&nolink}}    | **Human Warrior**\ {{:misc:gui:gold.png?15&nolink}} 8\ {{:misc:gui:resources.png?15&nolink}} 3   |  | unit  |  Manual description here.  |
+| {{:nations:ma:nazca:human_warrior_3.png?30&nolink}}    | **Human Warrior**\ {{:misc:gui:gold.png?15&nolink}} 8\ {{:misc:gui:resources.png?15&nolink}} 3   |  | unit  |  Manual description here.  |
+| {{:nations:ma:nazca:human_warrior_4.png?30&nolink}}    | **Human Warrior**\ {{:misc:gui:gold.png?15&nolink}} 8\ {{:misc:gui:resources.png?15&nolink}} 7   |  | unit  |  Manual description here.  |
+| {{:nations:ma:nazca:aucac_runa_archer.png?30&nolink}}    | **Aucac Runa Archer**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 9   |  | unit  |  Manual description here.  |
+| {{:nations:ma:nazca:aucac_runa_axeman.png?30&nolink}}    | **Aucac Runa Axeman**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 7   |  | unit  |  Manual description here.  |
+| {{:nations:ma:nazca:aucac_runa_maceman.png?30&nolink}}    | **Aucac Runa Maceman**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 7   |  | unit  |  Manual description here.  |
+| {{:nations:ma:nazca:aucac_runa_spearman.png?30&nolink}}    | **Aucac Runa Spearman**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 7   |  | unit  |  Manual description here.  |
+| {{:nations:ma:nazca:condor_warrior.png?30&nolink}}    | **Condor Warrior**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 8   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ma:nazca:sun_guard.png?30&nolink}}    | **Sun Guard**\ {{:misc:gui:gold.png?15&nolink}} 23\ {{:misc:gui:resources.png?15&nolink}} 14   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ma:nazca:human_warrior_5.png?30&nolink}}    | **Human Warrior**\ {{:misc:gui:gold.png?15&nolink}} 7\ {{:misc:gui:resources.png?15&nolink}} 3   |  | unit (mountain)  |  Manual description here.  |
+| {{:nations:ma:nazca:human_warrior_6.png?30&nolink}}    | **Human Warrior**\ {{:misc:gui:gold.png?15&nolink}} 8\ {{:misc:gui:resources.png?15&nolink}} 3   |  | unit (mountain)  |  Manual description here.  |
+| {{:nations:ma:nazca:human_warrior_7.png?30&nolink}}    | **Human Warrior**\ {{:misc:gui:gold.png?15&nolink}} 8\ {{:misc:gui:resources.png?15&nolink}} 3   |  | unit (mountain)  |  Manual description here.  |
+| {{:nations:ma:nazca:human_warrior_8.png?30&nolink}}    | **Human Warrior**\ {{:misc:gui:gold.png?15&nolink}} 8\ {{:misc:gui:resources.png?15&nolink}} 7   |  | unit (mountain)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:nazca:condor.png?30&nolink}}    | **Condor**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:nazca:huaca.png?30&nolink}}    | **Huaca**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:nazca:supaya.png?30&nolink}}    | **Supaya**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:nazca:apostate_seraph.png?30&nolink}}    | **Apostate Seraph**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:nazca:first_couple.png?30&nolink}}    | **First Couple**\ {{:misc:gui:gold.png?15&nolink}} 1000\ {{:misc:gui:resources.png?15&nolink}} 1   |  | hero (unique)  |  Manual description here.  |

@@ -1,0 +1,33 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:atlantis:basalt_queen.png?30&nolink}}    | **Basalt Queen**\ {{:misc:gui:gold.png?15&nolink}} 325\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ea:atlantis:basalt_king.png?30&nolink}}    | **Basalt King**\ {{:misc:gui:gold.png?15&nolink}} 445\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ea:atlantis:coral_priest_2.png?30&nolink}}    | **Coral Priest**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 3   |  | cmdr (coast)  |  Manual description here.  |
+| {{:nations:ea:atlantis:scout.png?30&nolink}}    | **Scout**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ea:atlantis:coral_priest.png?30&nolink}}    | **Coral Priest**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 3   |  | commander  |  Manual description here.  |
+| {{:nations:ea:atlantis:shambler_chief.png?30&nolink}}    | **Shambler Chief**\ {{:misc:gui:gold.png?15&nolink}} 50\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:ea:atlantis:coral_commander.png?30&nolink}}    | **Coral Commander**\ {{:misc:gui:gold.png?15&nolink}} 80\ {{:misc:gui:resources.png?15&nolink}} 26   |  | commander  |  Manual description here.  |
+| {{:nations:ea:atlantis:mother_of_the_deep.png?30&nolink}}    | **Mother of the Deep**\ {{:misc:gui:gold.png?15&nolink}} 95\ {{:misc:gui:resources.png?15&nolink}} 5   |  | commander  |  Manual description here.  |
+| {{:nations:ea:atlantis:mage_of_the_deep.png?30&nolink}}    | **Mage of the Deep**\ {{:misc:gui:gold.png?15&nolink}} 215\ {{:misc:gui:resources.png?15&nolink}} 4   |  | commander  |  Manual description here.  |
+| {{:nations:ea:atlantis:atlantian_spearman.png?30&nolink}}    | **Atlantian Spearman**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 4   |  | unit  |  Manual description here.  |
+| {{:nations:ea:atlantis:deep_one.png?30&nolink}}    | **Deep One**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit  |  Manual description here.  |
+| {{:nations:ea:atlantis:deep_one_spearman.png?30&nolink}}    | **Deep One Spearman**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 7   |  | unit  |  Manual description here.  |
+| {{:nations:ea:atlantis:reef_dweller.png?30&nolink}}    | **Reef Dweller**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 10   |  | unit  |  Manual description here.  |
+| {{:nations:ea:atlantis:shambler.png?30&nolink}}    | **Shambler**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit  |  Manual description here.  |
+| {{:nations:ea:atlantis:shambler_of_the_deep.png?30&nolink}}    | **Shambler of the Deep**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit  |  Manual description here.  |
+| {{:nations:ea:atlantis:war_shambler.png?30&nolink}}    | **War Shambler**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 7   |  | unit  |  Manual description here.  |
+| {{:nations:ea:atlantis:warrior_of_the_deep.png?30&nolink}}    | **Warrior of the Deep**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 11   |  | unit  |  Manual description here.  |
+| {{:nations:ea:atlantis:coral_guard.png?30&nolink}}    | **Coral Guard**\ {{:misc:gui:gold.png?15&nolink}} 30\ {{:misc:gui:resources.png?15&nolink}} 26   |  | unit  |  Manual description here.  |
+| {{:nations:ea:atlantis:living_pillar.png?30&nolink}}    | **Living Pillar**\ {{:misc:gui:gold.png?15&nolink}} 35\ {{:misc:gui:resources.png?15&nolink}} 56   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ea:atlantis:reef_dweller_2.png?30&nolink}}    | **Reef Dweller**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 10   |  | unit (coast)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:atlantis:monster_fish.png?30&nolink}}    | **Monster Fish**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^

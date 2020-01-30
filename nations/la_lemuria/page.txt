@@ -1,0 +1,21 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:lemuria:grand_lemur.png?30&nolink}}    | **Grand Lemur**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:lemuria:lemur_acolyte.png?30&nolink}}    | **Lemur Acolyte**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:lemuria:lemur_centurion.png?30&nolink}}    | **Lemur Centurion**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:lemuria:lemur_consul.png?30&nolink}}    | **Lemur Consul**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:lemuria:lemur_senator.png?30&nolink}}    | **Lemur Senator**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:lemuria:lemur_thaumaturg.png?30&nolink}}    | **Lemur Thaumaturg**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:lemuria:shadow_tribune.png?30&nolink}}    | **Shadow Tribune**  |  | cmdr (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:lemuria:shade_king.png?30&nolink}}    | **Shade King**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:la:lemuria:wraith_lord.png?30&nolink}}    | **Wraith Lord**  |  | hero (unique)  |  Manual description here.  |

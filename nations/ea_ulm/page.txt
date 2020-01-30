@@ -1,0 +1,45 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:ulm:antlered_shaman.png?30&nolink}}    | **Antlered Shaman**\ {{:misc:gui:gold.png?15&nolink}} 220\ {{:misc:gui:resources.png?15&nolink}} 5   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ea:ulm:warrior_scout_2.png?30&nolink}}    | **Warrior Scout**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 10   |  | cmdr (forest)  |  Manual description here.  |
+| {{:nations:ea:ulm:warrior_chief_2.png?30&nolink}}    | **Warrior Chief**\ {{:misc:gui:gold.png?15&nolink}} 75\ {{:misc:gui:resources.png?15&nolink}} 17   |  | cmdr (forest)  |  Manual description here.  |
+| {{:nations:ea:ulm:shaman_2.png?30&nolink}}    | **Shaman**\ {{:misc:gui:gold.png?15&nolink}} 100\ {{:misc:gui:resources.png?15&nolink}} 5   |  | cmdr (forest)  |  Manual description here.  |
+| {{:nations:ea:ulm:warrior_scout_3.png?30&nolink}}    | **Warrior Scout**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 10   |  | cmdr (mountain)  |  Manual description here.  |
+| {{:nations:ea:ulm:warrior_chief_3.png?30&nolink}}    | **Warrior Chief**\ {{:misc:gui:gold.png?15&nolink}} 75\ {{:misc:gui:resources.png?15&nolink}} 17   |  | cmdr (mountain)  |  Manual description here.  |
+| {{:nations:ea:ulm:shaman_3.png?30&nolink}}    | **Shaman**\ {{:misc:gui:gold.png?15&nolink}} 100\ {{:misc:gui:resources.png?15&nolink}} 5   |  | cmdr (mountain)  |  Manual description here.  |
+| {{:nations:ea:ulm:warrior_scout.png?30&nolink}}    | **Warrior Scout**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 10   |  | commander  |  Manual description here.  |
+| {{:nations:ea:ulm:warrior_chief.png?30&nolink}}    | **Warrior Chief**\ {{:misc:gui:gold.png?15&nolink}} 75\ {{:misc:gui:resources.png?15&nolink}} 17   |  | commander  |  Manual description here.  |
+| {{:nations:ea:ulm:warrior_smith.png?30&nolink}}    | **Warrior Smith**\ {{:misc:gui:gold.png?15&nolink}} 85\ {{:misc:gui:resources.png?15&nolink}} 13   |  | commander  |  Manual description here.  |
+| {{:nations:ea:ulm:shaman.png?30&nolink}}    | **Shaman**\ {{:misc:gui:gold.png?15&nolink}} 100\ {{:misc:gui:resources.png?15&nolink}} 5   |  | commander  |  Manual description here.  |
+| {{:nations:ea:ulm:archer.png?30&nolink}}    | **Archer**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 6   |  | unit  |  Manual description here.  |
+| {{:nations:ea:ulm:axe_warrior.png?30&nolink}}    | **Axe Warrior**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 10   |  | unit  |  Manual description here.  |
+| {{:nations:ea:ulm:warrior.png?30&nolink}}    | **Warrior**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 10   |  | unit  |  Manual description here.  |
+| {{:nations:ea:ulm:forest_warrior.png?30&nolink}}    | **Forest Warrior**\ {{:misc:gui:gold.png?15&nolink}} 12\ {{:misc:gui:resources.png?15&nolink}} 16   |  | unit  |  Manual description here.  |
+| {{:nations:ea:ulm:mountain_warrior.png?30&nolink}}    | **Mountain Warrior**\ {{:misc:gui:gold.png?15&nolink}} 12\ {{:misc:gui:resources.png?15&nolink}} 16   |  | unit  |  Manual description here.  |
+| {{:nations:ea:ulm:warrior_maiden.png?30&nolink}}    | **Warrior Maiden**\ {{:misc:gui:gold.png?15&nolink}} 12\ {{:misc:gui:resources.png?15&nolink}} 13   |  | unit  |  Manual description here.  |
+| {{:nations:ea:ulm:shield_maiden.png?30&nolink}}    | **Shield Maiden**\ {{:misc:gui:gold.png?15&nolink}} 13\ {{:misc:gui:resources.png?15&nolink}} 13   |  | unit  |  Manual description here.  |
+| {{:nations:ea:ulm:iron_warrior.png?30&nolink}}    | **Iron Warrior**\ {{:misc:gui:gold.png?15&nolink}} 14\ {{:misc:gui:resources.png?15&nolink}} 13   |  | unit  |  Manual description here.  |
+| {{:nations:ea:ulm:steel_maiden.png?30&nolink}}    | **Steel Maiden**\ {{:misc:gui:gold.png?15&nolink}} 14\ {{:misc:gui:resources.png?15&nolink}} 13   |  | unit  |  Manual description here.  |
+| {{:nations:ea:ulm:steel_warrior.png?30&nolink}}    | **Steel Warrior**\ {{:misc:gui:gold.png?15&nolink}} 28\ {{:misc:gui:resources.png?15&nolink}} 17   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ea:ulm:archer_2.png?30&nolink}}    | **Archer**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 6   |  | unit (forest)  |  Manual description here.  |
+| {{:nations:ea:ulm:axe_warrior_2.png?30&nolink}}    | **Axe Warrior**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 10   |  | unit (forest)  |  Manual description here.  |
+| {{:nations:ea:ulm:warrior_2.png?30&nolink}}    | **Warrior**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 10   |  | unit (forest)  |  Manual description here.  |
+| {{:nations:ea:ulm:forest_warrior_2.png?30&nolink}}    | **Forest Warrior**\ {{:misc:gui:gold.png?15&nolink}} 12\ {{:misc:gui:resources.png?15&nolink}} 16   |  | unit (forest)  |  Manual description here.  |
+| {{:nations:ea:ulm:archer_3.png?30&nolink}}    | **Archer**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 6   |  | unit (mountain)  |  Manual description here.  |
+| {{:nations:ea:ulm:axe_warrior_3.png?30&nolink}}    | **Axe Warrior**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 10   |  | unit (mountain)  |  Manual description here.  |
+| {{:nations:ea:ulm:warrior_3.png?30&nolink}}    | **Warrior**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 10   |  | unit (mountain)  |  Manual description here.  |
+| {{:nations:ea:ulm:mountain_warrior_2.png?30&nolink}}    | **Mountain Warrior**\ {{:misc:gui:gold.png?15&nolink}} 12\ {{:misc:gui:resources.png?15&nolink}} 16   |  | unit (mountain)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:ulm:great_bear.png?30&nolink}}    | **Great Bear**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:ulm:guardian_of_the_tree.png?30&nolink}}    | **Guardian of the Tree**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ea:ulm:maker_of_heroes.png?30&nolink}}    | **Maker of Heroes**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ea:ulm:son_of_steel.png?30&nolink}}    | **Son of Steel**  |  | hero (unique)  |  Manual description here.  |

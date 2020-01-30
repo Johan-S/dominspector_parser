@@ -1,0 +1,45 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:machaka:sorceress.png?30&nolink}}    | **Sorceress**\ {{:misc:gui:gold.png?15&nolink}} 85\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:machaka:bane_spider.png?30&nolink}}    | **Bane Spider**\ {{:misc:gui:gold.png?15&nolink}} 110\ {{:misc:gui:resources.png?15&nolink}} 38   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:machaka:hunter_lord.png?30&nolink}}    | **Hunter Lord**\ {{:misc:gui:gold.png?15&nolink}} 140\ {{:misc:gui:resources.png?15&nolink}} 36   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:machaka:black_sorcerer.png?30&nolink}}    | **Black Sorcerer**\ {{:misc:gui:gold.png?15&nolink}} 210\ {{:misc:gui:resources.png?15&nolink}} 6   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:machaka:witch_doctor_2.png?30&nolink}}    | **Witch Doctor**\ {{:misc:gui:gold.png?15&nolink}} 80\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (forest)  |  Manual description here.  |
+| {{:nations:ma:machaka:machaka_scout.png?30&nolink}}    | **Machaka Scout**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 3   |  | commander  |  Manual description here.  |
+| {{:nations:ma:machaka:machaka_chief.png?30&nolink}}    | **Machaka Chief**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:ma:machaka:eye_of_the_lord.png?30&nolink}}    | **Eye of the Lord**\ {{:misc:gui:gold.png?15&nolink}} 65\ {{:misc:gui:resources.png?15&nolink}} 4   |  | commander  |  Manual description here.  |
+| {{:nations:ma:machaka:machaka_commander.png?30&nolink}}    | **Machaka Commander**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 27   |  | commander  |  Manual description here.  |
+| {{:nations:ma:machaka:witch_doctor.png?30&nolink}}    | **Witch Doctor**\ {{:misc:gui:gold.png?15&nolink}} 80\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:machaka:ear_of_the_lord.png?30&nolink}}    | **Ear of the Lord**\ {{:misc:gui:gold.png?15&nolink}} 90\ {{:misc:gui:resources.png?15&nolink}} 3   |  | commander  |  Manual description here.  |
+| {{:nations:ma:machaka:spider_lord.png?30&nolink}}    | **Spider Lord**\ {{:misc:gui:gold.png?15&nolink}} 110\ {{:misc:gui:resources.png?15&nolink}} 26   |  | commander  |  Manual description here.  |
+| {{:nations:ma:machaka:voice_of_the_lord.png?30&nolink}}    | **Voice of the Lord**\ {{:misc:gui:gold.png?15&nolink}} 115\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:ma:machaka:sorcerer.png?30&nolink}}    | **Sorcerer**\ {{:misc:gui:gold.png?15&nolink}} 195\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:machaka:pygmy.png?30&nolink}}    | **Pygmy**\ {{:misc:gui:gold.png?15&nolink}} 5\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit  |  Manual description here.  |
+| {{:nations:ma:machaka:machaka_militia.png?30&nolink}}    | **Machaka Militia**\ {{:misc:gui:gold.png?15&nolink}} 7\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit  |  Manual description here.  |
+| {{:nations:ma:machaka:machaka_archer.png?30&nolink}}    | **Machaka Archer**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 3   |  | unit  |  Manual description here.  |
+| {{:nations:ma:machaka:machaka_warrior.png?30&nolink}}    | **Machaka Warrior**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 3   |  | unit  |  Manual description here.  |
+| {{:nations:ma:machaka:machaka_warrior_2.png?30&nolink}}    | **Machaka Warrior**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 4   |  | unit  |  Manual description here.  |
+| {{:nations:ma:machaka:machaka_hoplite.png?30&nolink}}    | **Machaka Hoplite**\ {{:misc:gui:gold.png?15&nolink}} 14\ {{:misc:gui:resources.png?15&nolink}} 27   |  | unit  |  Manual description here.  |
+| {{:nations:ma:machaka:spider_rider.png?30&nolink}}    | **Spider Rider**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 4   |  | unit  |  Manual description here.  |
+| {{:nations:ma:machaka:spider_knight.png?30&nolink}}    | **Spider Knight**\ {{:misc:gui:gold.png?15&nolink}} 35\ {{:misc:gui:resources.png?15&nolink}} 26   |  | unit  |  Manual description here.  |
+| {{:nations:ma:machaka:spider_archer_2.png?30&nolink}}    | **Spider Archer**\ {{:misc:gui:gold.png?15&nolink}} 12\ {{:misc:gui:resources.png?15&nolink}} 4   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ma:machaka:spider_warrior.png?30&nolink}}    | **Spider Warrior**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 36   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ma:machaka:black_hunter.png?30&nolink}}    | **Black Hunter**\ {{:misc:gui:gold.png?15&nolink}} 115\ {{:misc:gui:resources.png?15&nolink}} 36   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ma:machaka:spider_archer.png?30&nolink}}    | **Spider Archer**\ {{:misc:gui:gold.png?15&nolink}} 12\ {{:misc:gui:resources.png?15&nolink}} 4   |  | unit (forest)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:machaka:elephant.png?30&nolink}}    | **Elephant**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:machaka:great_lion.png?30&nolink}}    | **Great Lion**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:machaka:ape_oracle.png?30&nolink}}    | **Ape Oracle**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:machaka:crowned_ape.png?30&nolink}}    | **Crowned Ape**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:machaka:hero.png?30&nolink}}    | **Hero**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:machaka:king_triumphant.png?30&nolink}}    | **King Triumphant**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:machaka:lady_of_spiders.png?30&nolink}}    | **Lady of Spiders**  |  | hero (unique)  |  Manual description here.  |

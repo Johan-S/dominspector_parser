@@ -1,0 +1,40 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:pelagia:conqueror_of_the_closed_realm.png?30&nolink}}    | **Conqueror of the Closed Realm**\ {{:misc:gui:gold.png?15&nolink}} 130\ {{:misc:gui:resources.png?15&nolink}} 32   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:pelagia:triton_prince.png?30&nolink}}    | **Triton Prince**\ {{:misc:gui:gold.png?15&nolink}} 200\ {{:misc:gui:resources.png?15&nolink}} 32   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:pelagia:triton_king.png?30&nolink}}    | **Triton King**\ {{:misc:gui:gold.png?15&nolink}} 390\ {{:misc:gui:resources.png?15&nolink}} 7   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:pelagia:merman_commander.png?30&nolink}}    | **Merman Commander**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 30   |  | cmdr (coast)  |  Manual description here.  |
+| {{:nations:ma:pelagia:merman_priest_2.png?30&nolink}}    | **Merman Priest**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (coast)  |  Manual description here.  |
+| {{:nations:ma:pelagia:daduchos.png?30&nolink}}    | **Daduchos**\ {{:misc:gui:gold.png?15&nolink}} 65\ {{:misc:gui:resources.png?15&nolink}} 2   |  | cmdr (coast)  |  Manual description here.  |
+| {{:nations:ma:pelagia:merman_scout.png?30&nolink}}    | **Merman Scout**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 4   |  | commander  |  Manual description here.  |
+| {{:nations:ma:pelagia:pelagian_captain.png?30&nolink}}    | **Pelagian Captain**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 26   |  | commander  |  Manual description here.  |
+| {{:nations:ma:pelagia:wave_lord.png?30&nolink}}    | **Wave Lord**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 21   |  | commander  |  Manual description here.  |
+| {{:nations:ma:pelagia:merman_priest.png?30&nolink}}    | **Merman Priest**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:pelagia:amber_clan_priest.png?30&nolink}}    | **Amber Clan Priest**\ {{:misc:gui:gold.png?15&nolink}} 65\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:ma:pelagia:amber_clan_noble.png?30&nolink}}    | **Amber Clan Noble**\ {{:misc:gui:gold.png?15&nolink}} 80\ {{:misc:gui:resources.png?15&nolink}} 36   |  | commander  |  Manual description here.  |
+| {{:nations:ma:pelagia:pearl_clan_priest.png?30&nolink}}    | **Pearl Clan Priest**\ {{:misc:gui:gold.png?15&nolink}} 80\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:ma:pelagia:pelagian_mermage.png?30&nolink}}    | **Pelagian Mermage**\ {{:misc:gui:gold.png?15&nolink}} 95\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:pelagia:pelagian_mystic.png?30&nolink}}    | **Pelagian Mystic**\ {{:misc:gui:gold.png?15&nolink}} 130\ {{:misc:gui:resources.png?15&nolink}} 3   |  | commander  |  Manual description here.  |
+| {{:nations:ma:pelagia:pearl_mage.png?30&nolink}}    | **Pearl Mage**\ {{:misc:gui:gold.png?15&nolink}} 175\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:pelagia:amber_clan_mage.png?30&nolink}}    | **Amber Clan Mage**\ {{:misc:gui:gold.png?15&nolink}} 185\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:pelagia:merman.png?30&nolink}}    | **Merman**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 3   |  | unit  |  Manual description here.  |
+| {{:nations:ma:pelagia:pelagian_soldier.png?30&nolink}}    | **Pelagian Soldier**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 21   |  | unit  |  Manual description here.  |
+| {{:nations:ma:pelagia:coral_clan_hoplite.png?30&nolink}}    | **Coral Clan Hoplite**\ {{:misc:gui:gold.png?15&nolink}} 13\ {{:misc:gui:resources.png?15&nolink}} 27   |  | unit  |  Manual description here.  |
+| {{:nations:ma:pelagia:wave_warrior.png?30&nolink}}    | **Wave Warrior**\ {{:misc:gui:gold.png?15&nolink}} 13\ {{:misc:gui:resources.png?15&nolink}} 20   |  | unit  |  Manual description here.  |
+| {{:nations:ma:pelagia:amber_clan_guard.png?30&nolink}}    | **Amber Clan Guard**\ {{:misc:gui:gold.png?15&nolink}} 14\ {{:misc:gui:resources.png?15&nolink}} 35   |  | unit  |  Manual description here.  |
+| {{:nations:ma:pelagia:champion_of_the_closed_realm.png?30&nolink}}    | **Champion of the Closed Realm**\ {{:misc:gui:gold.png?15&nolink}} 23\ {{:misc:gui:resources.png?15&nolink}} 30   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ma:pelagia:knight_of_the_deeps.png?30&nolink}}    | **Knight of the Deeps**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 25   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ma:pelagia:merman_hoplite.png?30&nolink}}    | **Merman Hoplite**\ {{:misc:gui:gold.png?15&nolink}} 13\ {{:misc:gui:resources.png?15&nolink}} 29   |  | unit (coast)  |  Manual description here.  |
+| {{:nations:ma:pelagia:apostate_of_the_closed_realm.png?30&nolink}}    | **Apostate of the Closed Realm**\ {{:misc:gui:gold.png?15&nolink}} 15\ {{:misc:gui:resources.png?15&nolink}} 21   |  | unit (coast)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:pelagia:daktyl.png?30&nolink}}    | **Daktyl**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 2   |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:pelagia:hekateride.png?30&nolink}}    | **Hekateride**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^

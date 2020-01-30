@@ -1,0 +1,38 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:atlantis:deep_seer.png?30&nolink}}    | **Deep Seer**\ {{:misc:gui:gold.png?15&nolink}} 315\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:atlantis:initiate_of_the_deep.png?30&nolink}}    | **Initiate of the Deep**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (coast)  |  Manual description here.  |
+| {{:nations:ma:atlantis:shambler_chief_2.png?30&nolink}}    | **Shambler Chief**\ {{:misc:gui:gold.png?15&nolink}} 50\ {{:misc:gui:resources.png?15&nolink}} 2   |  | cmdr (coast)  |  Manual description here.  |
+| {{:nations:ma:atlantis:witness_of_the_deep.png?30&nolink}}    | **Witness of the Deep**\ {{:misc:gui:gold.png?15&nolink}} 165\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (coast)  |  Manual description here.  |
+| {{:nations:ma:atlantis:scout.png?30&nolink}}    | **Scout**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:atlantis:shambler_chief.png?30&nolink}}    | **Shambler Chief**\ {{:misc:gui:gold.png?15&nolink}} 50\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:ma:atlantis:consort.png?30&nolink}}    | **Consort**\ {{:misc:gui:gold.png?15&nolink}} 115\ {{:misc:gui:resources.png?15&nolink}} 26   |  | commander  |  Manual description here.  |
+| {{:nations:ma:atlantis:mage_of_the_deep.png?30&nolink}}    | **Mage of the Deep**\ {{:misc:gui:gold.png?15&nolink}} 165\ {{:misc:gui:resources.png?15&nolink}} 4   |  | commander  |  Manual description here.  |
+| {{:nations:ma:atlantis:coral_queen.png?30&nolink}}    | **Coral Queen**\ {{:misc:gui:gold.png?15&nolink}} 265\ {{:misc:gui:resources.png?15&nolink}} 19   |  | commander  |  Manual description here.  |
+| {{:nations:ma:atlantis:king_of_the_deep.png?30&nolink}}    | **King of the Deep**\ {{:misc:gui:gold.png?15&nolink}} 275\ {{:misc:gui:resources.png?15&nolink}} 5   |  | commander  |  Manual description here.  |
+| {{:nations:ma:atlantis:atlantian_militia.png?30&nolink}}    | **Atlantian Militia**\ {{:misc:gui:gold.png?15&nolink}} 7\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit  |  Manual description here.  |
+| {{:nations:ma:atlantis:atlantian_infantry.png?30&nolink}}    | **Atlantian Infantry**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 12   |  | unit  |  Manual description here.  |
+| {{:nations:ma:atlantis:atlantian_light_infantry.png?30&nolink}}    | **Atlantian Light Infantry**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 9   |  | unit  |  Manual description here.  |
+| {{:nations:ma:atlantis:atlantian_shield_bearer.png?30&nolink}}    | **Atlantian Shield Bearer**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 3   |  | unit  |  Manual description here.  |
+| {{:nations:ma:atlantis:reef_warrior.png?30&nolink}}    | **Reef Warrior**\ {{:misc:gui:gold.png?15&nolink}} 12\ {{:misc:gui:resources.png?15&nolink}} 11   |  | unit  |  Manual description here.  |
+| {{:nations:ma:atlantis:coral_guard.png?30&nolink}}    | **Coral Guard**\ {{:misc:gui:gold.png?15&nolink}} 15\ {{:misc:gui:resources.png?15&nolink}} 15   |  | unit  |  Manual description here.  |
+| {{:nations:ma:atlantis:coral_guard_2.png?30&nolink}}    | **Coral Guard**\ {{:misc:gui:gold.png?15&nolink}} 15\ {{:misc:gui:resources.png?15&nolink}} 17   |  | unit  |  Manual description here.  |
+| {{:nations:ma:atlantis:shambler_guard.png?30&nolink}}    | **Shambler Guard**\ {{:misc:gui:gold.png?15&nolink}} 22\ {{:misc:gui:resources.png?15&nolink}} 8   |  | unit  |  Manual description here.  |
+| {{:nations:ma:atlantis:war_shambler.png?30&nolink}}    | **War Shambler**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 19   |  | unit  |  Manual description here.  |
+| {{:nations:ma:atlantis:war_lobster.png?30&nolink}}    | **War Lobster**\ {{:misc:gui:gold.png?15&nolink}} 50\ {{:misc:gui:resources.png?15&nolink}} 6   |  | unit  |  Manual description here.  |
+| {{:nations:ma:atlantis:mother_guard.png?30&nolink}}    | **Mother Guard**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 26   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ma:atlantis:atlantian_light_infantry_2.png?30&nolink}}    | **Atlantian Light Infantry**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 9   |  | unit (coast)  |  Manual description here.  |
+| {{:nations:ma:atlantis:soldier_of_the_deep.png?30&nolink}}    | **Soldier of the Deep**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 6   |  | unit (coast)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:atlantis:monster_fish.png?30&nolink}}    | **Monster Fish**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:atlantis:coral_prince.png?30&nolink}}    | **Coral Prince**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:atlantis:seer_king.png?30&nolink}}    | **Seer King**  |  | hero (unique)  |  Manual description here.  |

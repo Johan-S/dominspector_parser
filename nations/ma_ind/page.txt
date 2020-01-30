@@ -1,0 +1,79 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:ind:bishop_general.png?30&nolink}}    | **Bishop General**\ {{:misc:gui:gold.png?15&nolink}} 115\ {{:misc:gui:resources.png?15&nolink}} 15   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:ind:archbishop_marshal.png?30&nolink}}    | **Archbishop Marshal**\ {{:misc:gui:gold.png?15&nolink}} 165\ {{:misc:gui:resources.png?15&nolink}} 15   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:ind:primate_king.png?30&nolink}}    | **Primate King**\ {{:misc:gui:gold.png?15&nolink}} 200\ {{:misc:gui:resources.png?15&nolink}} 20   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:ind:abbot_magus.png?30&nolink}}    | **Abbot Magus**\ {{:misc:gui:gold.png?15&nolink}} 240\ {{:misc:gui:resources.png?15&nolink}} 18   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:ind:abbot_magus_supreme.png?30&nolink}}    | **Abbot Magus Supreme**\ {{:misc:gui:gold.png?15&nolink}} 335\ {{:misc:gui:resources.png?15&nolink}} 18   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:ind:cannibal_warlord.png?30&nolink}}    | **Cannibal Warlord**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 8   |  | cmdr (foreign)  |  Manual description here.  |
+| {{:nations:ma:ind:cannibal_shaman_chief.png?30&nolink}}    | **Cannibal Shaman Chief**\ {{:misc:gui:gold.png?15&nolink}} 100\ {{:misc:gui:resources.png?15&nolink}} 5   |  | cmdr (foreign)  |  Manual description here.  |
+| {{:nations:ma:ind:bishop_vicomte.png?30&nolink}}    | **Bishop Vicomte**\ {{:misc:gui:gold.png?15&nolink}} 115\ {{:misc:gui:resources.png?15&nolink}} 3   |  | cmdr (foreign)  |  Manual description here.  |
+| {{:nations:ma:ind:viceroy_primate.png?30&nolink}}    | **Viceroy Primate**\ {{:misc:gui:gold.png?15&nolink}} 165\ {{:misc:gui:resources.png?15&nolink}} 8   |  | cmdr (foreign)  |  Manual description here.  |
+| {{:nations:ma:ind:great_huntress.png?30&nolink}}    | **Great Huntress**\ {{:misc:gui:gold.png?15&nolink}} 50\ {{:misc:gui:resources.png?15&nolink}} 5   |  | cmdr (forest)  |  Manual description here.  |
+| {{:nations:ma:ind:orionde_king.png?30&nolink}}    | **Orionde King**\ {{:misc:gui:gold.png?15&nolink}} 130\ {{:misc:gui:resources.png?15&nolink}} 38   |  | cmdr (forest)  |  Manual description here.  |
+| {{:nations:ma:ind:cynocephalian_chieftain.png?30&nolink}}    | **Cynocephalian Chieftain**\ {{:misc:gui:gold.png?15&nolink}} 55\ {{:misc:gui:resources.png?15&nolink}} 14   |  | cmdr (mountain)  |  Manual description here.  |
+| {{:nations:ma:ind:cynocephalian_shaman.png?30&nolink}}    | **Cynocephalian Shaman**\ {{:misc:gui:gold.png?15&nolink}} 65\ {{:misc:gui:resources.png?15&nolink}} 2   |  | cmdr (mountain)  |  Manual description here.  |
+| {{:nations:ma:ind:bishop_vicomte_2.png?30&nolink}}    | **Bishop Vicomte**\ {{:misc:gui:gold.png?15&nolink}} 115\ {{:misc:gui:resources.png?15&nolink}} 3   |  | cmdr (mountain)  |  Manual description here.  |
+| {{:nations:ma:ind:gog_dog-father.png?30&nolink}}    | **Gog Dog-Father**\ {{:misc:gui:gold.png?15&nolink}} 130\ {{:misc:gui:resources.png?15&nolink}} 16   |  | cmdr (mountain)  |  Manual description here.  |
+| {{:nations:ma:ind:viceroy_primate_2.png?30&nolink}}    | **Viceroy Primate**\ {{:misc:gui:gold.png?15&nolink}} 165\ {{:misc:gui:resources.png?15&nolink}} 8   |  | cmdr (mountain)  |  Manual description here.  |
+| {{:nations:ma:ind:magog_bitch-mother.png?30&nolink}}    | **Magog Bitch-Mother**\ {{:misc:gui:gold.png?15&nolink}} 225\ {{:misc:gui:resources.png?15&nolink}} 2   |  | cmdr (mountain)  |  Manual description here.  |
+| {{:nations:ma:ind:piconye_king.png?30&nolink}}    | **Piconye King**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 10   |  | cmdr (plains)  |  Manual description here.  |
+| {{:nations:ma:ind:piconye_scholar.png?30&nolink}}    | **Piconye Scholar**\ {{:misc:gui:gold.png?15&nolink}} 80\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (plains)  |  Manual description here.  |
+| {{:nations:ma:ind:feminie_queen.png?30&nolink}}    | **Feminie Queen**\ {{:misc:gui:gold.png?15&nolink}} 140\ {{:misc:gui:resources.png?15&nolink}} 44   |  | cmdr (plains)  |  Manual description here.  |
+| {{:nations:ma:ind:feminie_sorceress.png?30&nolink}}    | **Feminie Sorceress**\ {{:misc:gui:gold.png?15&nolink}} 145\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (plains)  |  Manual description here.  |
+| {{:nations:ma:ind:king_of_the_lost_tribe.png?30&nolink}}    | **King of the Lost Tribe**\ {{:misc:gui:gold.png?15&nolink}} 195\ {{:misc:gui:resources.png?15&nolink}} 101   |  | cmdr (waste)  |  Manual description here.  |
+| {{:nations:ma:ind:abbot_sage.png?30&nolink}}    | **Abbot Sage**\ {{:misc:gui:gold.png?15&nolink}} 110\ {{:misc:gui:resources.png?15&nolink}} 11   |  | commander  |  Manual description here.  |
+| {{:nations:ma:ind:archer_priest.png?30&nolink}}    | **Archer Priest**\ {{:misc:gui:gold.png?15&nolink}} 13\ {{:misc:gui:resources.png?15&nolink}} 4   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ma:ind:soldier_priest.png?30&nolink}}    | **Soldier Priest**\ {{:misc:gui:gold.png?15&nolink}} 15\ {{:misc:gui:resources.png?15&nolink}} 18   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ma:ind:baculite.png?30&nolink}}    | **Baculite**\ {{:misc:gui:gold.png?15&nolink}} 19\ {{:misc:gui:resources.png?15&nolink}} 14   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ma:ind:mirror_guard.png?30&nolink}}    | **Mirror Guard**\ {{:misc:gui:gold.png?15&nolink}} 19\ {{:misc:gui:resources.png?15&nolink}} 21   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ma:ind:satyr_slave.png?30&nolink}}    | **Satyr Slave**\ {{:misc:gui:gold.png?15&nolink}} 7\ {{:misc:gui:resources.png?15&nolink}} 3   |  | unit (forest)  |  Manual description here.  |
+| {{:nations:ma:ind:orionde_crossbowman.png?30&nolink}}    | **Orionde Crossbowman**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 15   |  | unit (forest)  |  Manual description here.  |
+| {{:nations:ma:ind:orionde_warrior.png?30&nolink}}    | **Orionde Warrior**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 20   |  | unit (forest)  |  Manual description here.  |
+| {{:nations:ma:ind:centaur_slave.png?30&nolink}}    | **Centaur Slave**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 4   |  | unit (forest)  |  Manual description here.  |
+| {{:nations:ma:ind:centaur_chariot.png?30&nolink}}    | **Centaur Chariot**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 25   |  | unit (forest)  |  Manual description here.  |
+| {{:nations:ma:ind:orionde_knight.png?30&nolink}}    | **Orionde Knight**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 41   |  | unit (forest)  |  Manual description here.  |
+| {{:nations:ma:ind:cynocephalian_hunter.png?30&nolink}}    | **Cynocephalian Hunter**\ {{:misc:gui:gold.png?15&nolink}} 14\ {{:misc:gui:resources.png?15&nolink}} 5   |  | unit (mountain)  |  Manual description here.  |
+| {{:nations:ma:ind:cynocephalian_flesh-eater.png?30&nolink}}    | **Cynocephalian Flesh-Eater**\ {{:misc:gui:gold.png?15&nolink}} 18\ {{:misc:gui:resources.png?15&nolink}} 5   |  | unit (mountain)  |  Manual description here.  |
+| {{:nations:ma:ind:magog_flesh-hunter.png?30&nolink}}    | **Magog Flesh-Hunter**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 5   |  | unit (mountain)  |  Manual description here.  |
+| {{:nations:ma:ind:gog_reaver.png?30&nolink}}    | **Gog Reaver**\ {{:misc:gui:gold.png?15&nolink}} 28\ {{:misc:gui:resources.png?15&nolink}} 16   |  | unit (mountain)  |  Manual description here.  |
+| {{:nations:ma:ind:piconye_peasant.png?30&nolink}}    | **Piconye Peasant**\ {{:misc:gui:gold.png?15&nolink}} 6\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit (plains)  |  Manual description here.  |
+| {{:nations:ma:ind:piconye_slinger.png?30&nolink}}    | **Piconye Slinger**\ {{:misc:gui:gold.png?15&nolink}} 6\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit (plains)  |  Manual description here.  |
+| {{:nations:ma:ind:piconye_spearman.png?30&nolink}}    | **Piconye Spearman**\ {{:misc:gui:gold.png?15&nolink}} 7\ {{:misc:gui:resources.png?15&nolink}} 11   |  | unit (plains)  |  Manual description here.  |
+| {{:nations:ma:ind:piconye_soldier.png?30&nolink}}    | **Piconye Soldier**\ {{:misc:gui:gold.png?15&nolink}} 8\ {{:misc:gui:resources.png?15&nolink}} 11   |  | unit (plains)  |  Manual description here.  |
+| {{:nations:ma:ind:lady_archer.png?30&nolink}}    | **Lady Archer**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 6   |  | unit (plains)  |  Manual description here.  |
+| {{:nations:ma:ind:lady_warrior.png?30&nolink}}    | **Lady Warrior**\ {{:misc:gui:gold.png?15&nolink}} 12\ {{:misc:gui:resources.png?15&nolink}} 26   |  | unit (plains)  |  Manual description here.  |
+| {{:nations:ma:ind:lady_knight.png?30&nolink}}    | **Lady Knight**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 47   |  | unit (plains)  |  Manual description here.  |
+| {{:nations:ma:ind:giant_of_the_lost_tribe.png?30&nolink}}    | **Giant of the Lost Tribe**\ {{:misc:gui:gold.png?15&nolink}} 50\ {{:misc:gui:resources.png?15&nolink}} 53   |  | unit (waste)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:ind:arel.png?30&nolink}}    | **Arel**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:ind:chayot.png?30&nolink}}    | **Chayot**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:ind:chayot_2.png?30&nolink}}    | **Chayot**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:ind:chayot_3.png?30&nolink}}    | **Chayot**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:ind:chayot_4.png?30&nolink}}    | **Chayot**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:ind:grigori.png?30&nolink}}    | **Grigori**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:ind:grigori_2.png?30&nolink}}    | **Grigori**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:ind:grigori_3.png?30&nolink}}    | **Grigori**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:ind:grigori_4.png?30&nolink}}    | **Grigori**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:ind:grigori_5.png?30&nolink}}    | **Grigori**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:ind:grigori_6.png?30&nolink}}    | **Grigori**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:ind:hashmal.png?30&nolink}}    | **Hashmal**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:ind:malakh.png?30&nolink}}    | **Malakh**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:ind:ophan.png?30&nolink}}    | **Ophan**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:ind:yllerion.png?30&nolink}}    | **Yllerion**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:ind:buffalo.png?30&nolink}}    | **Buffalo**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:ind:cyclops.png?30&nolink}}    | **Cyclops**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:ind:elephant.png?30&nolink}}    | **Elephant**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:ind:great_lion.png?30&nolink}}    | **Great Lion**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:ind:tiger.png?30&nolink}}    | **Tiger**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:ind:protopope.png?30&nolink}}    | **Protopope**\ {{:misc:gui:gold.png?15&nolink}} 260\ {{:misc:gui:resources.png?15&nolink}} 18   |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:ind:arch_pope.png?30&nolink}}    | **Arch Pope**\ {{:misc:gui:gold.png?15&nolink}} 455\ {{:misc:gui:resources.png?15&nolink}} 18   |  | hero (unique)  |  Manual description here.  |

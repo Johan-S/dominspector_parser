@@ -1,0 +1,41 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:ctis:lizard_heir.png?30&nolink}}    | **Lizard Heir**\ {{:misc:gui:gold.png?15&nolink}} 145\ {{:misc:gui:resources.png?15&nolink}} 26   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ea:ctis:lizard_king.png?30&nolink}}    | **Lizard King**\ {{:misc:gui:gold.png?15&nolink}} 230\ {{:misc:gui:resources.png?15&nolink}} 5   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ea:ctis:hierodule.png?30&nolink}}    | **Hierodule**  |  | commander  |  Manual description here.  |
+| {{:nations:ea:ctis:taskmaster.png?30&nolink}}    | **Taskmaster**  |  | commander  |  Manual description here.  |
+| {{:nations:ea:ctis:commander_of_c'tis.png?30&nolink}}    | **Commander of C'tis**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 15   |  | commander  |  Manual description here.  |
+| {{:nations:ea:ctis:lizard_lord.png?30&nolink}}    | **Lizard Lord**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 21   |  | commander  |  Manual description here.  |
+| {{:nations:ea:ctis:high_priest_of_c'tis.png?30&nolink}}    | **High Priest of C'tis**\ {{:misc:gui:gold.png?15&nolink}} 80\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ea:ctis:shaman.png?30&nolink}}    | **Shaman**\ {{:misc:gui:gold.png?15&nolink}} 90\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:ea:ctis:reborn.png?30&nolink}}    | **Reborn**\ {{:misc:gui:gold.png?15&nolink}} 105\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ea:ctis:sauromancer.png?30&nolink}}    | **Sauromancer**\ {{:misc:gui:gold.png?15&nolink}} 210\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ea:ctis:militia.png?30&nolink}}    | **Militia**\ {{:misc:gui:gold.png?15&nolink}} 7\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit  |  Manual description here.  |
+| {{:nations:ea:ctis:city_guard.png?30&nolink}}    | **City Guard**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 10   |  | unit  |  Manual description here.  |
+| {{:nations:ea:ctis:heavy_infantry.png?30&nolink}}    | **Heavy Infantry**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 15   |  | unit  |  Manual description here.  |
+| {{:nations:ea:ctis:light_infantry.png?30&nolink}}    | **Light Infantry**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 5   |  | unit  |  Manual description here.  |
+| {{:nations:ea:ctis:falchioneer.png?30&nolink}}    | **Falchioneer**\ {{:misc:gui:gold.png?15&nolink}} 13\ {{:misc:gui:resources.png?15&nolink}} 17   |  | unit  |  Manual description here.  |
+| {{:nations:ea:ctis:runner.png?30&nolink}}    | **Runner**\ {{:misc:gui:gold.png?15&nolink}} 13\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit  |  Manual description here.  |
+| {{:nations:ea:ctis:slave_warrior.png?30&nolink}}    | **Slave Warrior**\ {{:misc:gui:gold.png?15&nolink}} 13\ {{:misc:gui:resources.png?15&nolink}} 3   |  | unit  |  Manual description here.  |
+| {{:nations:ea:ctis:elite_warrior.png?30&nolink}}    | **Elite Warrior**\ {{:misc:gui:gold.png?15&nolink}} 15\ {{:misc:gui:resources.png?15&nolink}} 9   |  | unit  |  Manual description here.  |
+| {{:nations:ea:ctis:lizard_chariot.png?30&nolink}}    | **Lizard Chariot**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 26   |  | unit  |  Manual description here.  |
+| {{:nations:ea:ctis:serpent_dancer.png?30&nolink}}    | **Serpent Dancer**\ {{:misc:gui:gold.png?15&nolink}} 19\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit (cap only)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:ctis:couatl.png?30&nolink}}    | **Couatl**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:ctis:great_lion.png?30&nolink}}    | **Great Lion**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:ctis:monster_toad.png?30&nolink}}    | **Monster Toad**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:ctis:sacred_crocodile.png?30&nolink}}    | **Sacred Crocodile**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:ctis:scorpion_man.png?30&nolink}}    | **Scorpion Man**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:ctis:ancient_shaman.png?30&nolink}}    | **Ancient Shaman**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ea:ctis:consort_of_the_dead.png?30&nolink}}    | **Consort of the Dead**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ea:ctis:lizard_hero.png?30&nolink}}    | **Lizard Hero**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ea:ctis:reassembled_prince.png?30&nolink}}    | **Reassembled Prince**  |  | hero (unique)  |  Manual description here.  |

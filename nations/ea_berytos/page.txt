@@ -1,0 +1,40 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:berytos:bride-in-waiting.png?30&nolink}}    | **Bride-in-Waiting**\ {{:misc:gui:gold.png?15&nolink}} 415\ {{:misc:gui:resources.png?15&nolink}} 8   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ea:berytos:mage_pilot.png?30&nolink}}    | **Mage Pilot**\ {{:misc:gui:gold.png?15&nolink}} 80\ {{:misc:gui:resources.png?15&nolink}} 2   |  | cmdr (coast)  |  Manual description here.  |
+| {{:nations:ea:berytos:storm_caller.png?30&nolink}}    | **Storm Caller**\ {{:misc:gui:gold.png?15&nolink}} 205\ {{:misc:gui:resources.png?15&nolink}} 2   |  | cmdr (coast)  |  Manual description here.  |
+| {{:nations:ea:berytos:berytian_scout.png?30&nolink}}    | **Berytian Scout**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 3   |  | commander  |  Manual description here.  |
+| {{:nations:ea:berytos:berytian_sage.png?30&nolink}}    | **Berytian Sage**\ {{:misc:gui:gold.png?15&nolink}} 80\ {{:misc:gui:resources.png?15&nolink}} 4   |  | commander  |  Manual description here.  |
+| {{:nations:ea:berytos:berytian_captain.png?30&nolink}}    | **Berytian Captain**\ {{:misc:gui:gold.png?15&nolink}} 100\ {{:misc:gui:resources.png?15&nolink}} 17   |  | commander  |  Manual description here.  |
+| {{:nations:ea:berytos:berytian_priest.png?30&nolink}}    | **Berytian Priest**\ {{:misc:gui:gold.png?15&nolink}} 140\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:ea:berytos:berytian_militia.png?30&nolink}}    | **Berytian Militia**\ {{:misc:gui:gold.png?15&nolink}} 7\ {{:misc:gui:resources.png?15&nolink}} 5   |  | unit  |  Manual description here.  |
+| {{:nations:ea:berytos:berytian_archer.png?30&nolink}}    | **Berytian Archer**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 7   |  | unit  |  Manual description here.  |
+| {{:nations:ea:berytos:berytian_soldier.png?30&nolink}}    | **Berytian Soldier**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 14   |  | unit  |  Manual description here.  |
+| {{:nations:ea:berytos:berytian_spearman.png?30&nolink}}    | **Berytian Spearman**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 9   |  | unit  |  Manual description here.  |
+| {{:nations:ea:berytos:berytian_heavy_spearman.png?30&nolink}}    | **Berytian Heavy Spearman**\ {{:misc:gui:gold.png?15&nolink}} 12\ {{:misc:gui:resources.png?15&nolink}} 19   |  | unit  |  Manual description here.  |
+| {{:nations:ea:berytos:berytian_elite_soldier.png?30&nolink}}    | **Berytian Elite Soldier**\ {{:misc:gui:gold.png?15&nolink}} 14\ {{:misc:gui:resources.png?15&nolink}} 19   |  | unit  |  Manual description here.  |
+| {{:nations:ea:berytos:berytian_lancer.png?30&nolink}}    | **Berytian Lancer**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 13   |  | unit  |  Manual description here.  |
+| {{:nations:ea:berytos:colossi_warrior.png?30&nolink}}    | **Colossi Warrior**\ {{:misc:gui:gold.png?15&nolink}} 35\ {{:misc:gui:resources.png?15&nolink}} 25   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ea:berytos:war_elephant.png?30&nolink}}    | **War Elephant**\ {{:misc:gui:gold.png?15&nolink}} 100\ {{:misc:gui:resources.png?15&nolink}} 20   |  | unit  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:berytos:lilot.png?30&nolink}}    | **Lilot**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:berytos:telkhine.png?30&nolink}}    | **Telkhine**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:berytos:telkhine_2.png?30&nolink}}    | **Telkhine**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:berytos:melqart.png?30&nolink}}    | **Melqart**\ {{:misc:gui:gold.png?15&nolink}} 140\ {{:misc:gui:resources.png?15&nolink}} 101   |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:berytos:elephant.png?30&nolink}}    | **Elephant**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:berytos:great_lion.png?30&nolink}}    | **Great Lion**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:berytos:mazzik.png?30&nolink}}    | **Mazzik**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:berytos:se'ir.png?30&nolink}}    | **Se'ir**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:berytos:shed.png?30&nolink}}    | **Shed**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:berytos:bride_of_the_gods.png?30&nolink}}    | **Bride of the Gods**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ea:berytos:king_of_the_city.png?30&nolink}}    | **King of the City**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ea:berytos:queen_of_the_city.png?30&nolink}}    | **Queen of the City**  |  | hero (unique)  |  Manual description here.  |

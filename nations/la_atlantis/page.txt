@@ -1,0 +1,37 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:atlantis:angakok.png?30&nolink}}    | **Angakok**\ {{:misc:gui:gold.png?15&nolink}} 425\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:la:atlantis:shambler_chief.png?30&nolink}}    | **Shambler Chief**\ {{:misc:gui:gold.png?15&nolink}} 50\ {{:misc:gui:resources.png?15&nolink}} 2   |  | cmdr (u-water)  |  Manual description here.  |
+| {{:nations:la:atlantis:merciful_mother.png?30&nolink}}    | **Merciful Mother**\ {{:misc:gui:gold.png?15&nolink}} 95\ {{:misc:gui:resources.png?15&nolink}} 5   |  | cmdr (u-water)  |  Manual description here.  |
+| {{:nations:la:atlantis:unsleeping_consort.png?30&nolink}}    | **Unsleeping Consort**\ {{:misc:gui:gold.png?15&nolink}} 115\ {{:misc:gui:resources.png?15&nolink}} 26   |  | cmdr (u-water)  |  Manual description here.  |
+| {{:nations:la:atlantis:forgiving_father.png?30&nolink}}    | **Forgiving Father**\ {{:misc:gui:gold.png?15&nolink}} 185\ {{:misc:gui:resources.png?15&nolink}} 4   |  | cmdr (u-water)  |  Manual description here.  |
+| {{:nations:la:atlantis:tent_owner.png?30&nolink}}    | **Tent Owner**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 6   |  | commander  |  Manual description here.  |
+| {{:nations:la:atlantis:snow_captain.png?30&nolink}}    | **Snow Captain**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 26   |  | commander  |  Manual description here.  |
+| {{:nations:la:atlantis:ice_captain.png?30&nolink}}    | **Ice Captain**\ {{:misc:gui:gold.png?15&nolink}} 110\ {{:misc:gui:resources.png?15&nolink}} 32   |  | commander  |  Manual description here.  |
+| {{:nations:la:atlantis:tungalik.png?30&nolink}}    | **Tungalik**\ {{:misc:gui:gold.png?15&nolink}} 110\ {{:misc:gui:resources.png?15&nolink}} 4   |  | commander  |  Manual description here.  |
+| {{:nations:la:atlantis:seal_hunter.png?30&nolink}}    | **Seal Hunter**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 5   |  | unit  |  Manual description here.  |
+| {{:nations:la:atlantis:snow_warrior.png?30&nolink}}    | **Snow Warrior**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 22   |  | unit  |  Manual description here.  |
+| {{:nations:la:atlantis:snow_warrior_2.png?30&nolink}}    | **Snow Warrior**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 26   |  | unit  |  Manual description here.  |
+| {{:nations:la:atlantis:ice_warrior.png?30&nolink}}    | **Ice Warrior**\ {{:misc:gui:gold.png?15&nolink}} 13\ {{:misc:gui:resources.png?15&nolink}} 37   |  | unit  |  Manual description here.  |
+| {{:nations:la:atlantis:ice_guard.png?30&nolink}}    | **Ice Guard**\ {{:misc:gui:gold.png?15&nolink}} 16\ {{:misc:gui:resources.png?15&nolink}} 39   |  | unit  |  Manual description here.  |
+| {{:nations:la:atlantis:ice_guard_2.png?30&nolink}}    | **Ice Guard**\ {{:misc:gui:gold.png?15&nolink}} 16\ {{:misc:gui:resources.png?15&nolink}} 32   |  | unit  |  Manual description here.  |
+| {{:nations:la:atlantis:mournful.png?30&nolink}}    | **Mournful**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 14   |  | unit  |  Manual description here.  |
+| {{:nations:la:atlantis:arssartut.png?30&nolink}}    | **Arssartut**\ {{:misc:gui:gold.png?15&nolink}} 23\ {{:misc:gui:resources.png?15&nolink}} 10   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:la:atlantis:atlantian_infantry.png?30&nolink}}    | **Atlantian Infantry**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 12   |  | unit (u-water)  |  Manual description here.  |
+| {{:nations:la:atlantis:atlantian_light_infantry.png?30&nolink}}    | **Atlantian Light Infantry**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 9   |  | unit (u-water)  |  Manual description here.  |
+| {{:nations:la:atlantis:atlantian_shield_bearer.png?30&nolink}}    | **Atlantian Shield Bearer**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 3   |  | unit (u-water)  |  Manual description here.  |
+| {{:nations:la:atlantis:unsleeping.png?30&nolink}}    | **Unsleeping**\ {{:misc:gui:gold.png?15&nolink}} 35\ {{:misc:gui:resources.png?15&nolink}} 26   |  | unit (u-water)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:atlantis:tupilak.png?30&nolink}}    | **Tupilak**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:atlantis:monster_fish.png?30&nolink}}    | **Monster Fish**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:atlantis:kivigtok.png?30&nolink}}    | **Kivigtok**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:la:atlantis:once_and_future_queen.png?30&nolink}}    | **Once and Future Queen**  |  | hero (unique)  |  Manual description here.  |

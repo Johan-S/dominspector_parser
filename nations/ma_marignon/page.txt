@@ -1,0 +1,42 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:marignon:architect.png?30&nolink}}    | **Architect**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 52   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:marignon:high_inquisitor.png?30&nolink}}    | **High Inquisitor**\ {{:misc:gui:gold.png?15&nolink}} 190\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:marignon:grand_master.png?30&nolink}}    | **Grand Master**\ {{:misc:gui:gold.png?15&nolink}} 370\ {{:misc:gui:resources.png?15&nolink}} 2   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:marignon:friar_2.png?30&nolink}}    | **Friar**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (foreign)  |  Manual description here.  |
+| {{:nations:ma:marignon:scout.png?30&nolink}}    | **Scout**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 4   |  | commander  |  Manual description here.  |
+| {{:nations:ma:marignon:friar.png?30&nolink}}    | **Friar**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:marignon:initiate.png?30&nolink}}    | **Initiate**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:marignon:troubadour.png?30&nolink}}    | **Troubadour**\ {{:misc:gui:gold.png?15&nolink}} 80\ {{:misc:gui:resources.png?15&nolink}} 5   |  | commander  |  Manual description here.  |
+| {{:nations:ma:marignon:inquisitor.png?30&nolink}}    | **Inquisitor**\ {{:misc:gui:gold.png?15&nolink}} 135\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:marignon:paladin.png?30&nolink}}    | **Paladin**\ {{:misc:gui:gold.png?15&nolink}} 145\ {{:misc:gui:resources.png?15&nolink}} 61   |  | commander  |  Manual description here.  |
+| {{:nations:ma:marignon:witch_hunter.png?30&nolink}}    | **Witch Hunter**\ {{:misc:gui:gold.png?15&nolink}} 185\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:ma:marignon:crossbowman.png?30&nolink}}    | **Crossbowman**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 8   |  | unit  |  Manual description here.  |
+| {{:nations:ma:marignon:flagellant.png?30&nolink}}    | **Flagellant**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 4   |  | unit  |  Manual description here.  |
+| {{:nations:ma:marignon:halberdier.png?30&nolink}}    | **Halberdier**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 22   |  | unit  |  Manual description here.  |
+| {{:nations:ma:marignon:pikeneer.png?30&nolink}}    | **Pikeneer**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 20   |  | unit  |  Manual description here.  |
+| {{:nations:ma:marignon:swordsman.png?30&nolink}}    | **Swordsman**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 23   |  | unit  |  Manual description here.  |
+| {{:nations:ma:marignon:man_at_arms.png?30&nolink}}    | **Man at Arms**\ {{:misc:gui:gold.png?15&nolink}} 14\ {{:misc:gui:resources.png?15&nolink}} 22   |  | unit  |  Manual description here.  |
+| {{:nations:ma:marignon:royal_guard.png?30&nolink}}    | **Royal Guard**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 59   |  | unit  |  Manual description here.  |
+| {{:nations:ma:marignon:knight_of_the_chalice.png?30&nolink}}    | **Knight of the Chalice**\ {{:misc:gui:gold.png?15&nolink}} 50\ {{:misc:gui:resources.png?15&nolink}} 56   |  | unit  |  Manual description here.  |
+| {{:nations:ma:marignon:flagellant_2.png?30&nolink}}    | **Flagellant**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 4   |  | unit (foreign)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:marignon:angel_of_fury.png?30&nolink}}    | **Angel of Fury**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:marignon:angel_of_the_host.png?30&nolink}}    | **Angel of the Host**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:marignon:arch_angel.png?30&nolink}}    | **Arch Angel**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:marignon:harbinger.png?30&nolink}}    | **Harbinger**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:marignon:seraph.png?30&nolink}}    | **Seraph**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:marignon:angel_of_the_heavenly_choir.png?30&nolink}}    | **Angel of the Heavenly Choir**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:marignon:cardinal.png?30&nolink}}    | **Cardinal**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:marignon:heroine.png?30&nolink}}    | **Heroine**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:marignon:rephaite_scholar.png?30&nolink}}    | **Rephaite Scholar**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:marignon:witch_hunter_general.png?30&nolink}}    | **Witch Hunter General**  |  | hero (unique)  |  Manual description here.  |

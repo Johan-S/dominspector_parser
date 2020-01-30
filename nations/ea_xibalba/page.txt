@@ -1,0 +1,66 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:xibalba:ah_k'in_kan_ek'.png?30&nolink}}    | **Ah K'in Kan Ek'**\ {{:misc:gui:gold.png?15&nolink}} 275\ {{:misc:gui:resources.png?15&nolink}} 8   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ea:xibalba:onaqui.png?30&nolink}}    | **Onaqui**\ {{:misc:gui:gold.png?15&nolink}} 565\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ea:xibalba:batab_3.png?30&nolink}}    | **Batab**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 3   |  | cmdr (cave)  |  Manual description here.  |
+| {{:nations:ea:xibalba:chilan_2.png?30&nolink}}    | **Chilan**\ {{:misc:gui:gold.png?15&nolink}} 100\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cave)  |  Manual description here.  |
+| {{:nations:ea:xibalba:batab_2.png?30&nolink}}    | **Batab**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 3   |  | cmdr (forest)  |  Manual description here.  |
+| {{:nations:ea:xibalba:batab.png?30&nolink}}    | **Batab**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 3   |  | commander  |  Manual description here.  |
+| {{:nations:ea:xibalba:xibalban_scorpion_trainer.png?30&nolink}}    | **Xibalban Scorpion Trainer**\ {{:misc:gui:gold.png?15&nolink}} 60\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ea:xibalba:ah_nakom.png?30&nolink}}    | **Ah Nakom**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ea:xibalba:chilan.png?30&nolink}}    | **Chilan**\ {{:misc:gui:gold.png?15&nolink}} 100\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ea:xibalba:ajaw.png?30&nolink}}    | **Ajaw**\ {{:misc:gui:gold.png?15&nolink}} 105\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:ea:xibalba:ah_k'in.png?30&nolink}}    | **Ah K'in**\ {{:misc:gui:gold.png?15&nolink}} 110\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ea:xibalba:ah_itz.png?30&nolink}}    | **Ah Itz**\ {{:misc:gui:gold.png?15&nolink}} 120\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ea:xibalba:camazotz.png?30&nolink}}    | **Camazotz**\ {{:misc:gui:gold.png?15&nolink}} 160\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ea:xibalba:ajaw_kan_ek'.png?30&nolink}}    | **Ajaw Kan Ek'**\ {{:misc:gui:gold.png?15&nolink}} 170\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ea:xibalba:large_scorpion.png?30&nolink}}    | **Large Scorpion**\ {{:misc:gui:gold.png?15&nolink}} 1\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit  |  Manual description here.  |
+| {{:nations:ea:xibalba:giant_scorpion.png?30&nolink}}    | **Giant Scorpion**\ {{:misc:gui:gold.png?15&nolink}} 5\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit  |  Manual description here.  |
+| {{:nations:ea:xibalba:xibalban_dart_thrower.png?30&nolink}}    | **Xibalban Dart Thrower**\ {{:misc:gui:gold.png?15&nolink}} 8\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit  |  Manual description here.  |
+| {{:nations:ea:xibalba:xibalban_warrior.png?30&nolink}}    | **Xibalban Warrior**\ {{:misc:gui:gold.png?15&nolink}} 8\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit  |  Manual description here.  |
+| {{:nations:ea:xibalba:xibalban_warrior_2.png?30&nolink}}    | **Xibalban Warrior**\ {{:misc:gui:gold.png?15&nolink}} 8\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit  |  Manual description here.  |
+| {{:nations:ea:xibalba:xibalban_guard.png?30&nolink}}    | **Xibalban Guard**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 4   |  | unit  |  Manual description here.  |
+| {{:nations:ea:xibalba:xibalban_scorpion.png?30&nolink}}    | **Xibalban Scorpion**\ {{:misc:gui:gold.png?15&nolink}} 15\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit  |  Manual description here.  |
+| {{:nations:ea:xibalba:sun_guide.png?30&nolink}}    | **Sun Guide**\ {{:misc:gui:gold.png?15&nolink}} 18\ {{:misc:gui:resources.png?15&nolink}} 15   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ea:xibalba:xibalban_warrior_5.png?30&nolink}}    | **Xibalban Warrior**\ {{:misc:gui:gold.png?15&nolink}} 8\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit (cave)  |  Manual description here.  |
+| {{:nations:ea:xibalba:xibalban_warrior_6.png?30&nolink}}    | **Xibalban Warrior**\ {{:misc:gui:gold.png?15&nolink}} 8\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit (cave)  |  Manual description here.  |
+| {{:nations:ea:xibalba:xibalban_warrior_3.png?30&nolink}}    | **Xibalban Warrior**\ {{:misc:gui:gold.png?15&nolink}} 8\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit (forest)  |  Manual description here.  |
+| {{:nations:ea:xibalba:xibalban_warrior_4.png?30&nolink}}    | **Xibalban Warrior**\ {{:misc:gui:gold.png?15&nolink}} 8\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit (forest)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:xibalba:balam_of_the_east.png?30&nolink}}    | **Balam of the East**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:xibalba:balam_of_the_east_2.png?30&nolink}}    | **Balam of the East**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:xibalba:balam_of_the_east_3.png?30&nolink}}    | **Balam of the East**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:xibalba:balam_of_the_north.png?30&nolink}}    | **Balam of the North**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:xibalba:balam_of_the_north_2.png?30&nolink}}    | **Balam of the North**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:xibalba:balam_of_the_north_3.png?30&nolink}}    | **Balam of the North**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:xibalba:balam_of_the_south.png?30&nolink}}    | **Balam of the South**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:xibalba:balam_of_the_south_2.png?30&nolink}}    | **Balam of the South**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:xibalba:balam_of_the_south_3.png?30&nolink}}    | **Balam of the South**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:xibalba:balam_of_the_west.png?30&nolink}}    | **Balam of the West**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:xibalba:balam_of_the_west_2.png?30&nolink}}    | **Balam of the West**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:xibalba:balam_of_the_west_3.png?30&nolink}}    | **Balam of the West**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:xibalba:chaac_of_the_east.png?30&nolink}}    | **Chaac of the East**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:xibalba:chaac_of_the_north.png?30&nolink}}    | **Chaac of the North**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:xibalba:chaac_of_the_south.png?30&nolink}}    | **Chaac of the South**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:xibalba:chaac_of_the_west.png?30&nolink}}    | **Chaac of the West**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:xibalba:onaqui.png?30&nolink}}    | **Onaqui**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:xibalba:beast_bat.png?30&nolink}}    | **Beast Bat**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:xibalba:jaguar.png?30&nolink}}    | **Jaguar**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:xibalba:ozelotl.png?30&nolink}}    | **Ozelotl**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:xibalba:sacred_scorpion.png?30&nolink}}    | **Sacred Scorpion**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:xibalba:stabbing_demon.png?30&nolink}}    | **Stabbing Demon**  |  | hero (multi)  |  Manual description here.  |
+| {{:nations:ea:xibalba:demon_of_pus.png?30&nolink}}    | **Demon of Pus**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ea:xibalba:demon_of_the_bone_staff.png?30&nolink}}    | **Demon of the Bone Staff**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ea:xibalba:demon_of_the_skull_staff.png?30&nolink}}    | **Demon of the Skull Staff**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ea:xibalba:halach_uinic.png?30&nolink}}    | **Halach Uinic**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ea:xibalba:jaundice_demon.png?30&nolink}}    | **Jaundice Demon**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ea:xibalba:sweeping_demon.png?30&nolink}}    | **Sweeping Demon**  |  | hero (unique)  |  Manual description here.  |

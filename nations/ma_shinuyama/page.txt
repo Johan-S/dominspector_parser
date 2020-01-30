@@ -1,0 +1,82 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:shinuyama:bakemono_scout_2.png?30&nolink}}    | **Bakemono Scout**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 5   |  | cmdr (mountain)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:bakemono_chief_2.png?30&nolink}}    | **Bakemono Chief**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 6   |  | cmdr (mountain)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:bakemono_shaman_2.png?30&nolink}}    | **Bakemono Shaman**\ {{:misc:gui:gold.png?15&nolink}} 80\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (mountain)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:kappa_chief_2.png?30&nolink}}    | **Kappa Chief**\ {{:misc:gui:gold.png?15&nolink}} 50\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (u-water)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:bakemono_scout.png?30&nolink}}    | **Bakemono Scout**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 5   |  | commander  |  Manual description here.  |
+| {{:nations:ma:shinuyama:bakemono_chief.png?30&nolink}}    | **Bakemono Chief**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 6   |  | commander  |  Manual description here.  |
+| {{:nations:ma:shinuyama:bandit_leader.png?30&nolink}}    | **Bandit Leader**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 16   |  | commander  |  Manual description here.  |
+| {{:nations:ma:shinuyama:kappa_chief.png?30&nolink}}    | **Kappa Chief**\ {{:misc:gui:gold.png?15&nolink}} 50\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:shinuyama:bakemono_shaman.png?30&nolink}}    | **Bakemono Shaman**\ {{:misc:gui:gold.png?15&nolink}} 80\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:shinuyama:bakemono_general.png?30&nolink}}    | **Bakemono General**\ {{:misc:gui:gold.png?15&nolink}} 85\ {{:misc:gui:resources.png?15&nolink}} 31   |  | commander  |  Manual description here.  |
+| {{:nations:ma:shinuyama:noppera-bo.png?30&nolink}}    | **Noppera-bo**\ {{:misc:gui:gold.png?15&nolink}} 100\ {{:misc:gui:resources.png?15&nolink}} 5   |  | commander  |  Manual description here.  |
+| {{:nations:ma:shinuyama:shuten-doji.png?30&nolink}}    | **Shuten-doji**\ {{:misc:gui:gold.png?15&nolink}} 100\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:shinuyama:uba.png?30&nolink}}    | **Uba**\ {{:misc:gui:gold.png?15&nolink}} 135\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:shinuyama:bakemono_sorcerer.png?30&nolink}}    | **Bakemono Sorcerer**\ {{:misc:gui:gold.png?15&nolink}} 390\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:ma:shinuyama:bakemono_archer_2.png?30&nolink}}    | **Bakemono Archer**\ {{:misc:gui:gold.png?15&nolink}} 7\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit  |  Manual description here.  |
+| {{:nations:ma:shinuyama:bakemono-sho_2.png?30&nolink}}    | **Bakemono-Sho**\ {{:misc:gui:gold.png?15&nolink}} 7\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit  |  Manual description here.  |
+| {{:nations:ma:shinuyama:bakemono-sho_3.png?30&nolink}}    | **Bakemono-Sho**\ {{:misc:gui:gold.png?15&nolink}} 7\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit  |  Manual description here.  |
+| {{:nations:ma:shinuyama:bakemono_archer.png?30&nolink}}    | **Bakemono Archer**\ {{:misc:gui:gold.png?15&nolink}} 8\ {{:misc:gui:resources.png?15&nolink}} 5   |  | unit  |  Manual description here.  |
+| {{:nations:ma:shinuyama:bakemono-sho.png?30&nolink}}    | **Bakemono-Sho**\ {{:misc:gui:gold.png?15&nolink}} 8\ {{:misc:gui:resources.png?15&nolink}} 5   |  | unit  |  Manual description here.  |
+| {{:nations:ma:shinuyama:bakemono_warrior.png?30&nolink}}    | **Bakemono Warrior**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 6   |  | unit  |  Manual description here.  |
+| {{:nations:ma:shinuyama:bandit.png?30&nolink}}    | **Bandit**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 11   |  | unit  |  Manual description here.  |
+| {{:nations:ma:shinuyama:bandit_2.png?30&nolink}}    | **Bandit**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 16   |  | unit  |  Manual description here.  |
+| {{:nations:ma:shinuyama:kappa.png?30&nolink}}    | **Kappa**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit  |  Manual description here.  |
+| {{:nations:ma:shinuyama:dai_bakemono.png?30&nolink}}    | **Dai Bakemono**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 31   |  | unit  |  Manual description here.  |
+| {{:nations:ma:shinuyama:dai_bakemono_2.png?30&nolink}}    | **Dai Bakemono**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 35   |  | unit  |  Manual description here.  |
+| {{:nations:ma:shinuyama:o-bakemono.png?30&nolink}}    | **O-bakemono**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit  |  Manual description here.  |
+| {{:nations:ma:shinuyama:bakemono_archer_3.png?30&nolink}}    | **Bakemono Archer**\ {{:misc:gui:gold.png?15&nolink}} 7\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit (mountain)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:bakemono-sho_4.png?30&nolink}}    | **Bakemono-Sho**\ {{:misc:gui:gold.png?15&nolink}} 7\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit (mountain)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:bakemono-sho_5.png?30&nolink}}    | **Bakemono-Sho**\ {{:misc:gui:gold.png?15&nolink}} 7\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit (mountain)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:kappa_2.png?30&nolink}}    | **Kappa**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit (u-water)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:shinuyama:bakeneko.png?30&nolink}}    | **Bakeneko**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:bakeneko_2.png?30&nolink}}    | **Bakeneko**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:dai_tengu.png?30&nolink}}    | **Dai Tengu**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:jorogumo.png?30&nolink}}    | **Jorogumo**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:jorogumo_2.png?30&nolink}}    | **Jorogumo**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:kitsune.png?30&nolink}}    | **Kitsune**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:kitsune_2.png?30&nolink}}    | **Kitsune**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:mujina_2.png?30&nolink}}    | **Mujina**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:nushi.png?30&nolink}}    | **Nushi**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:oni_spirit_6.png?30&nolink}}    | **Oni Spirit**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:oni_spirit_7.png?30&nolink}}    | **Oni Spirit**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:shura.png?30&nolink}}    | **Shura**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:swamp_serpent.png?30&nolink}}    | **Swamp Serpent**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:tanuki.png?30&nolink}}    | **Tanuki**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:tanuki_2.png?30&nolink}}    | **Tanuki**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:oni_shugo.png?30&nolink}}    | **Oni Shugo**\ {{:misc:gui:gold.png?15&nolink}} 50\ {{:misc:gui:resources.png?15&nolink}} 38   |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:mujina.png?30&nolink}}    | **Mujina**\ {{:misc:gui:gold.png?15&nolink}} 100\ {{:misc:gui:resources.png?15&nolink}} 5   |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:dai_oni.png?30&nolink}}    | **Dai Oni**\ {{:misc:gui:gold.png?15&nolink}} 105\ {{:misc:gui:resources.png?15&nolink}} 45   |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:aka-oni.png?30&nolink}}    | **Aka-Oni**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:ao-oni.png?30&nolink}}    | **Ao-Oni**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:horse-face.png?30&nolink}}    | **Horse-face**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:karasu_tengu.png?30&nolink}}    | **Karasu Tengu**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:ko-oni.png?30&nolink}}    | **Ko-Oni**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:konoha_tengu.png?30&nolink}}    | **Konoha Tengu**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:kuro-oni.png?30&nolink}}    | **Kuro-Oni**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:okami.png?30&nolink}}    | **Okami**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:omukade.png?30&nolink}}    | **Omukade**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:oni.png?30&nolink}}    | **Oni**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:oni_spirit_2.png?30&nolink}}    | **Oni Spirit**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:oni_spirit_3.png?30&nolink}}    | **Oni Spirit**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:oni_spirit_4.png?30&nolink}}    | **Oni Spirit**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:oni_spirit_5.png?30&nolink}}    | **Oni Spirit**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:oni_spirit.png?30&nolink}}    | **Oni spirit**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:ox-head.png?30&nolink}}    | **Ox-head**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:tengu_warrior.png?30&nolink}}    | **Tengu Warrior**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:tiger.png?30&nolink}}    | **Tiger**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:shinuyama:dragon_of_the_cave.png?30&nolink}}    | **Dragon of the Cave**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:heart_hider.png?30&nolink}}    | **Heart Hider**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:kitsune.png?30&nolink}}    | **Kitsune**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:shinuyama:tengu_king.png?30&nolink}}    | **Tengu King**  |  | hero (unique)  |  Manual description here.  |

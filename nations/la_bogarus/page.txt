@@ -1,0 +1,58 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:bogarus:eparch.png?30&nolink}}    | **Eparch**\ {{:misc:gui:gold.png?15&nolink}} 145\ {{:misc:gui:resources.png?15&nolink}} 2   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:la:bogarus:starets.png?30&nolink}}    | **Starets**\ {{:misc:gui:gold.png?15&nolink}} 255\ {{:misc:gui:resources.png?15&nolink}} 2   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:la:bogarus:bogarusian_scout.png?30&nolink}}    | **Bogarusian Scout**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 4   |  | commander  |  Manual description here.  |
+| {{:nations:la:bogarus:voivode.png?30&nolink}}    | **Voivode**  |  | commander  |  Manual description here.  |
+| {{:nations:la:bogarus:exarch.png?30&nolink}}    | **Exarch**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:la:bogarus:skopets.png?30&nolink}}    | **Skopets**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:la:bogarus:knyaz.png?30&nolink}}    | **Knyaz**\ {{:misc:gui:gold.png?15&nolink}} 90\ {{:misc:gui:resources.png?15&nolink}} 14   |  | commander  |  Manual description here.  |
+| {{:nations:la:bogarus:occultist.png?30&nolink}}    | **Occultist**\ {{:misc:gui:gold.png?15&nolink}} 100\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:la:bogarus:kalendologist.png?30&nolink}}    | **Kalendologist**\ {{:misc:gui:gold.png?15&nolink}} 105\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:la:bogarus:astrapelagist.png?30&nolink}}    | **Astrapelagist**\ {{:misc:gui:gold.png?15&nolink}} 125\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:la:bogarus:veliki_knyaz.png?30&nolink}}    | **Veliki Knyaz**\ {{:misc:gui:gold.png?15&nolink}} 130\ {{:misc:gui:resources.png?15&nolink}} 21   |  | commander  |  Manual description here.  |
+| {{:nations:la:bogarus:alchemist.png?30&nolink}}    | **Alchemist**\ {{:misc:gui:gold.png?15&nolink}} 135\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:la:bogarus:master_of_names.png?30&nolink}}    | **Master of Names**\ {{:misc:gui:gold.png?15&nolink}} 155\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:la:bogarus:fivefold_angel.png?30&nolink}}    | **Fivefold Angel**\ {{:misc:gui:gold.png?15&nolink}} 225\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:la:bogarus:voi_archer.png?30&nolink}}    | **Voi Archer**\ {{:misc:gui:gold.png?15&nolink}} 8\ {{:misc:gui:resources.png?15&nolink}} 5   |  | unit  |  Manual description here.  |
+| {{:nations:la:bogarus:voi_axeman.png?30&nolink}}    | **Voi Axeman**\ {{:misc:gui:gold.png?15&nolink}} 8\ {{:misc:gui:resources.png?15&nolink}} 7   |  | unit  |  Manual description here.  |
+| {{:nations:la:bogarus:voi_spearman.png?30&nolink}}    | **Voi Spearman**\ {{:misc:gui:gold.png?15&nolink}} 8\ {{:misc:gui:resources.png?15&nolink}} 8   |  | unit  |  Manual description here.  |
+| {{:nations:la:bogarus:peshtsi_axeman.png?30&nolink}}    | **Peshtsi Axeman**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 18   |  | unit  |  Manual description here.  |
+| {{:nations:la:bogarus:peshtsi_spearman.png?30&nolink}}    | **Peshtsi Spearman**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 15   |  | unit  |  Manual description here.  |
+| {{:nations:la:bogarus:peshtsi_city_guard.png?30&nolink}}    | **Peshtsi City Guard**\ {{:misc:gui:gold.png?15&nolink}} 11\ {{:misc:gui:resources.png?15&nolink}} 20   |  | unit  |  Manual description here.  |
+| {{:nations:la:bogarus:grid_druzhina.png?30&nolink}}    | **Grid Druzhina**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 28   |  | unit  |  Manual description here.  |
+| {{:nations:la:bogarus:malaia_druzhina.png?30&nolink}}    | **Malaia Druzhina**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 42   |  | unit  |  Manual description here.  |
+| {{:nations:la:bogarus:black_hood.png?30&nolink}}    | **Black Hood**\ {{:misc:gui:gold.png?15&nolink}} 18\ {{:misc:gui:resources.png?15&nolink}} 16   |  | unit (foreign)  |  Manual description here.  |
+| {{:nations:la:bogarus:styag.png?30&nolink}}    | **Styag**\ {{:misc:gui:gold.png?15&nolink}} 30\ {{:misc:gui:resources.png?15&nolink}} 23   |  | unit (foreign)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:bogarus:alkonost.png?30&nolink}}    | **Alkonost**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:bogarus:beregina.png?30&nolink}}    | **Beregina**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:bogarus:bukavac.png?30&nolink}}    | **Bukavac**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:bogarus:cloud_vila.png?30&nolink}}    | **Cloud Vila**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:bogarus:gamayun.png?30&nolink}}    | **Gamayun**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:bogarus:great_forest_bear.png?30&nolink}}    | **Great Forest Bear**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:bogarus:lady_midday.png?30&nolink}}    | **Lady Midday**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:bogarus:leshiy.png?30&nolink}}    | **Leshiy**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:bogarus:leshiy_2.png?30&nolink}}    | **Leshiy**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:bogarus:likho.png?30&nolink}}    | **Likho**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:bogarus:mountain_vila.png?30&nolink}}    | **Mountain Vila**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:bogarus:rusalka.png?30&nolink}}    | **Rusalka**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:bogarus:sirin.png?30&nolink}}    | **Sirin**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:bogarus:vodyanoy.png?30&nolink}}    | **Vodyanoy**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:bogarus:firebird.png?30&nolink}}    | **Firebird**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:bogarus:great_bear.png?30&nolink}}    | **Great Bear**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:bogarus:simargl.png?30&nolink}}    | **Simargl**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:bogarus:zmey.png?30&nolink}}    | **Zmey**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:bogarus:khlyst.png?30&nolink}}    | **Khlyst**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 3   |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:bogarus:deathless.png?30&nolink}}    | **Deathless**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:la:bogarus:hag.png?30&nolink}}    | **Hag**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:la:bogarus:patriarch.png?30&nolink}}    | **Patriarch**  |  | hero (unique)  |  Manual description here.  |

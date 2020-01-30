@@ -1,0 +1,29 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:tir_na_nog:ri.png?30&nolink}}    | **Ri**\ {{:misc:gui:gold.png?15&nolink}} 370\ {{:misc:gui:resources.png?15&nolink}} 22   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ea:tir_na_nog:tuatha_sorceress.png?30&nolink}}    | **Tuatha Sorceress**\ {{:misc:gui:gold.png?15&nolink}} 385\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ea:tir_na_nog:fir_bolg_scout.png?30&nolink}}    | **Fir Bolg Scout**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 12   |  | commander  |  Manual description here.  |
+| {{:nations:ea:tir_na_nog:fir_bolg_champion.png?30&nolink}}    | **Fir Bolg Champion**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 12   |  | commander  |  Manual description here.  |
+| {{:nations:ea:tir_na_nog:fir_bolg_druid.png?30&nolink}}    | **Fir Bolg Druid**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:ea:tir_na_nog:baobhan_sidhe.png?30&nolink}}    | **Baobhan Sidhe**\ {{:misc:gui:gold.png?15&nolink}} 145\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ea:tir_na_nog:sidhe_champion.png?30&nolink}}    | **Sidhe Champion**\ {{:misc:gui:gold.png?15&nolink}} 160\ {{:misc:gui:resources.png?15&nolink}} 19   |  | commander  |  Manual description here.  |
+| {{:nations:ea:tir_na_nog:bean_sidhe.png?30&nolink}}    | **Bean Sidhe**\ {{:misc:gui:gold.png?15&nolink}} 200\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ea:tir_na_nog:sidhe_lord.png?30&nolink}}    | **Sidhe Lord**\ {{:misc:gui:gold.png?15&nolink}} 260\ {{:misc:gui:resources.png?15&nolink}} 16   |  | commander  |  Manual description here.  |
+| {{:nations:ea:tir_na_nog:fir_bolg_militia.png?30&nolink}}    | **Fir Bolg Militia**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 5   |  | unit  |  Manual description here.  |
+| {{:nations:ea:tir_na_nog:fir_bolg_slinger.png?30&nolink}}    | **Fir Bolg Slinger**\ {{:misc:gui:gold.png?15&nolink}} 11\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit  |  Manual description here.  |
+| {{:nations:ea:tir_na_nog:fir_bolg_warrior.png?30&nolink}}    | **Fir Bolg Warrior**\ {{:misc:gui:gold.png?15&nolink}} 13\ {{:misc:gui:resources.png?15&nolink}} 10   |  | unit  |  Manual description here.  |
+| {{:nations:ea:tir_na_nog:fir_bolg_warrior_2.png?30&nolink}}    | **Fir Bolg Warrior**\ {{:misc:gui:gold.png?15&nolink}} 13\ {{:misc:gui:resources.png?15&nolink}} 10   |  | unit  |  Manual description here.  |
+| {{:nations:ea:tir_na_nog:sidhe_warrior.png?30&nolink}}    | **Sidhe Warrior**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 12   |  | unit  |  Manual description here.  |
+| {{:nations:ea:tir_na_nog:tuatha_warrior.png?30&nolink}}    | **Tuatha Warrior**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 22   |  | unit (cap only)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:tir_na_nog:cu_sidhe.png?30&nolink}}    | **Cu Sidhe**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:tir_na_nog:long_handed.png?30&nolink}}    | **Long Handed**  |  | hero (unique)  |  Manual description here.  |

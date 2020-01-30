@@ -1,0 +1,44 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:asphodel:black_harpy_2.png?30&nolink}}    | **Black Harpy**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (forest)  |  Manual description here.  |
+| {{:nations:ma:asphodel:minotaur_lord_2.png?30&nolink}}    | **Minotaur Lord**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 10   |  | cmdr (forest)  |  Manual description here.  |
+| {{:nations:ma:asphodel:centaur_hierophant_2.png?30&nolink}}    | **Centaur Hierophant**\ {{:misc:gui:gold.png?15&nolink}} 120\ {{:misc:gui:resources.png?15&nolink}} 4   |  | cmdr (forest)  |  Manual description here.  |
+| {{:nations:ma:asphodel:centauride_hierophantide_2.png?30&nolink}}    | **Centauride Hierophantide**\ {{:misc:gui:gold.png?15&nolink}} 120\ {{:misc:gui:resources.png?15&nolink}} 3   |  | cmdr (forest)  |  Manual description here.  |
+| {{:nations:ma:asphodel:black_harpy.png?30&nolink}}    | **Black Harpy**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:asphodel:minotaur_lord.png?30&nolink}}    | **Minotaur Lord**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 10   |  | commander  |  Manual description here.  |
+| {{:nations:ma:asphodel:centaur_hierophant.png?30&nolink}}    | **Centaur Hierophant**\ {{:misc:gui:gold.png?15&nolink}} 120\ {{:misc:gui:resources.png?15&nolink}} 4   |  | commander  |  Manual description here.  |
+| {{:nations:ma:asphodel:centauride_hierophantide.png?30&nolink}}    | **Centauride Hierophantide**\ {{:misc:gui:gold.png?15&nolink}} 120\ {{:misc:gui:resources.png?15&nolink}} 3   |  | commander  |  Manual description here.  |
+| {{:nations:ma:asphodel:black_dryad.png?30&nolink}}    | **Black Dryad**\ {{:misc:gui:gold.png?15&nolink}} 140\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:asphodel:dryad_hag.png?30&nolink}}    | **Dryad Hag**\ {{:misc:gui:gold.png?15&nolink}} 255\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:asphodel:panic_apostate.png?30&nolink}}    | **Panic Apostate**\ {{:misc:gui:gold.png?15&nolink}} 300\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:asphodel:harpy.png?30&nolink}}    | **Harpy**\ {{:misc:gui:gold.png?15&nolink}} 7\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit  |  Manual description here.  |
+| {{:nations:ma:asphodel:satyr.png?30&nolink}}    | **Satyr**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 4   |  | unit  |  Manual description here.  |
+| {{:nations:ma:asphodel:satyr_sneak.png?30&nolink}}    | **Satyr Sneak**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 3   |  | unit  |  Manual description here.  |
+| {{:nations:ma:asphodel:satyr_warrior.png?30&nolink}}    | **Satyr Warrior**\ {{:misc:gui:gold.png?15&nolink}} 13\ {{:misc:gui:resources.png?15&nolink}} 5   |  | unit  |  Manual description here.  |
+| {{:nations:ma:asphodel:centaur.png?30&nolink}}    | **Centaur**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 4   |  | unit  |  Manual description here.  |
+| {{:nations:ma:asphodel:centauride.png?30&nolink}}    | **Centauride**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 3   |  | unit  |  Manual description here.  |
+| {{:nations:ma:asphodel:centauride_warrior.png?30&nolink}}    | **Centauride Warrior**\ {{:misc:gui:gold.png?15&nolink}} 30\ {{:misc:gui:resources.png?15&nolink}} 11   |  | unit  |  Manual description here.  |
+| {{:nations:ma:asphodel:centaur_warrior.png?30&nolink}}    | **Centaur Warrior**\ {{:misc:gui:gold.png?15&nolink}} 35\ {{:misc:gui:resources.png?15&nolink}} 11   |  | unit  |  Manual description here.  |
+| {{:nations:ma:asphodel:minotaur_warrior.png?30&nolink}}    | **Minotaur Warrior**\ {{:misc:gui:gold.png?15&nolink}} 50\ {{:misc:gui:resources.png?15&nolink}} 10   |  | unit  |  Manual description here.  |
+| {{:nations:ma:asphodel:black_centaur.png?30&nolink}}    | **Black Centaur**\ {{:misc:gui:gold.png?15&nolink}} 55\ {{:misc:gui:resources.png?15&nolink}} 12   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ma:asphodel:harpy_2.png?30&nolink}}    | **Harpy**\ {{:misc:gui:gold.png?15&nolink}} 7\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit (forest)  |  Manual description here.  |
+| {{:nations:ma:asphodel:satyr_2.png?30&nolink}}    | **Satyr**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 4   |  | unit (forest)  |  Manual description here.  |
+| {{:nations:ma:asphodel:satyr_sneak_2.png?30&nolink}}    | **Satyr Sneak**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 3   |  | unit (forest)  |  Manual description here.  |
+| {{:nations:ma:asphodel:centaur_2.png?30&nolink}}    | **Centaur**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 4   |  | unit (forest)  |  Manual description here.  |
+| {{:nations:ma:asphodel:centauride_2.png?30&nolink}}    | **Centauride**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 3   |  | unit (forest)  |  Manual description here.  |
+| {{:nations:ma:asphodel:minotaur.png?30&nolink}}    | **Minotaur**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 8   |  | unit (forest)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:asphodel:carrion_centaur.png?30&nolink}}    | **Carrion Centaur**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:asphodel:carrion_lady.png?30&nolink}}    | **Carrion Lady**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:asphodel:carrion_lord.png?30&nolink}}    | **Carrion Lord**  |  | cmdr (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:asphodel:apostatic_warrior.png?30&nolink}}    | **Apostatic Warrior**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:asphodel:ettin_mandragora.png?30&nolink}}    | **Ettin Mandragora**  |  | hero (unique)  |  Manual description here.  |

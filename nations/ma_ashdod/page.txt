@@ -1,0 +1,46 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:ashdod:adon.png?30&nolink}}    | **Adon**\ {{:misc:gui:gold.png?15&nolink}} 305\ {{:misc:gui:resources.png?15&nolink}} 91   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:ashdod:zamzummite.png?30&nolink}}    | **Zamzummite**\ {{:misc:gui:gold.png?15&nolink}} 315\ {{:misc:gui:resources.png?15&nolink}} 3   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:ashdod:talmai_elder.png?30&nolink}}    | **Talmai Elder**\ {{:misc:gui:gold.png?15&nolink}} 375\ {{:misc:gui:resources.png?15&nolink}} 3   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:ashdod:edomite_scout.png?30&nolink}}    | **Edomite Scout**\ {{:misc:gui:gold.png?15&nolink}} 35\ {{:misc:gui:resources.png?15&nolink}} 19   |  | commander  |  Manual description here.  |
+| {{:nations:ma:ashdod:kohen.png?30&nolink}}    | **Kohen**\ {{:misc:gui:gold.png?15&nolink}} 85\ {{:misc:gui:resources.png?15&nolink}} 3   |  | commander  |  Manual description here.  |
+| {{:nations:ma:ashdod:rephaite_commander.png?30&nolink}}    | **Rephaite Commander**\ {{:misc:gui:gold.png?15&nolink}} 100\ {{:misc:gui:resources.png?15&nolink}} 35   |  | commander  |  Manual description here.  |
+| {{:nations:ma:ashdod:emite.png?30&nolink}}    | **Emite**\ {{:misc:gui:gold.png?15&nolink}} 125\ {{:misc:gui:resources.png?15&nolink}} 3   |  | commander  |  Manual description here.  |
+| {{:nations:ma:ashdod:rephaite_sage.png?30&nolink}}    | **Rephaite Sage**\ {{:misc:gui:gold.png?15&nolink}} 155\ {{:misc:gui:resources.png?15&nolink}} 3   |  | commander  |  Manual description here.  |
+| {{:nations:ma:ashdod:human_slave.png?30&nolink}}    | **Human Slave**\ {{:misc:gui:gold.png?15&nolink}} 7\ {{:misc:gui:resources.png?15&nolink}} 3   |  | unit  |  Manual description here.  |
+| {{:nations:ma:ashdod:human_slinger.png?30&nolink}}    | **Human Slinger**\ {{:misc:gui:gold.png?15&nolink}} 7\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit  |  Manual description here.  |
+| {{:nations:ma:ashdod:edomite.png?30&nolink}}    | **Edomite**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 17   |  | unit  |  Manual description here.  |
+| {{:nations:ma:ashdod:amorite.png?30&nolink}}    | **Amorite**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 27   |  | unit  |  Manual description here.  |
+| {{:nations:ma:ashdod:gileadite.png?30&nolink}}    | **Gileadite**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 29   |  | unit  |  Manual description here.  |
+| {{:nations:ma:ashdod:gileadite_archer.png?30&nolink}}    | **Gileadite Archer**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 47   |  | unit  |  Manual description here.  |
+| {{:nations:ma:ashdod:bashanite.png?30&nolink}}    | **Bashanite**\ {{:misc:gui:gold.png?15&nolink}} 50\ {{:misc:gui:resources.png?15&nolink}} 33   |  | unit  |  Manual description here.  |
+| {{:nations:ma:ashdod:ahiman_anakite.png?30&nolink}}    | **Ahiman Anakite**\ {{:misc:gui:gold.png?15&nolink}} 130\ {{:misc:gui:resources.png?15&nolink}} 96   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ma:ashdod:sheshai_anakite.png?30&nolink}}    | **Sheshai Anakite**\ {{:misc:gui:gold.png?15&nolink}} 130\ {{:misc:gui:resources.png?15&nolink}} 53   |  | unit (cap only)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:ashdod:arel.png?30&nolink}}    | **Arel**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:ashdod:chayot.png?30&nolink}}    | **Chayot**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:ashdod:chayot_2.png?30&nolink}}    | **Chayot**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:ashdod:chayot_3.png?30&nolink}}    | **Chayot**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:ashdod:chayot_4.png?30&nolink}}    | **Chayot**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:ashdod:ditanu.png?30&nolink}}    | **Ditanu**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:ashdod:hashmal.png?30&nolink}}    | **Hashmal**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:ashdod:lilot.png?30&nolink}}    | **Lilot**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:ashdod:malakh.png?30&nolink}}    | **Malakh**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:ashdod:malik.png?30&nolink}}    | **Malik**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:ashdod:ophan.png?30&nolink}}    | **Ophan**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:ashdod:mazzik.png?30&nolink}}    | **Mazzik**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:ashdod:se'ir.png?30&nolink}}    | **Se'ir**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:ashdod:shed.png?30&nolink}}    | **Shed**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:ashdod:first_son_of_anak.png?30&nolink}}    | **First Son of Anak**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:ashdod:second_son_of_anak.png?30&nolink}}    | **Second Son of Anak**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:ashdod:third_son_of_anak.png?30&nolink}}    | **Third Son of Anak**  |  | hero (unique)  |  Manual description here.  |

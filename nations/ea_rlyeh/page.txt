@@ -1,0 +1,36 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:rlyeh:abodai.png?30&nolink}}    | **Abodai**\ {{:misc:gui:gold.png?15&nolink}} 265\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ea:rlyeh:mind_lord.png?30&nolink}}    | **Mind Lord**\ {{:misc:gui:gold.png?15&nolink}} 420\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ea:rlyeh:androdai.png?30&nolink}}    | **Androdai**\ {{:misc:gui:gold.png?15&nolink}} 190\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (coast)  |  Manual description here.  |
+| {{:nations:ea:rlyeh:polypal_mother.png?30&nolink}}    | **Polypal Mother**\ {{:misc:gui:gold.png?15&nolink}} 100\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (foreign)  |  Manual description here.  |
+| {{:nations:ea:rlyeh:scout.png?30&nolink}}    | **Scout**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ea:rlyeh:slave_priest.png?30&nolink}}    | **Slave Priest**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ea:rlyeh:slave_prince.png?30&nolink}}    | **Slave Prince**\ {{:misc:gui:gold.png?15&nolink}} 80\ {{:misc:gui:resources.png?15&nolink}} 49   |  | commander  |  Manual description here.  |
+| {{:nations:ea:rlyeh:slave_mage.png?30&nolink}}    | **Slave Mage**\ {{:misc:gui:gold.png?15&nolink}} 175\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ea:rlyeh:aboleth.png?30&nolink}}    | **Aboleth**\ {{:misc:gui:gold.png?15&nolink}} 215\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ea:rlyeh:grandmother.png?30&nolink}}    | **Grandmother**\ {{:misc:gui:gold.png?15&nolink}} 300\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ea:rlyeh:lobo_guard.png?30&nolink}}    | **Lobo Guard**\ {{:misc:gui:gold.png?15&nolink}} 5\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit  |  Manual description here.  |
+| {{:nations:ea:rlyeh:slave_guardian.png?30&nolink}}    | **Slave Guardian**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 11   |  | unit  |  Manual description here.  |
+| {{:nations:ea:rlyeh:slave_guardian_2.png?30&nolink}}    | **Slave Guardian**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 10   |  | unit  |  Manual description here.  |
+| {{:nations:ea:rlyeh:slave_guardian_3.png?30&nolink}}    | **Slave Guardian**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 11   |  | unit  |  Manual description here.  |
+| {{:nations:ea:rlyeh:slave_guardian_4.png?30&nolink}}    | **Slave Guardian**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 10   |  | unit  |  Manual description here.  |
+| {{:nations:ea:rlyeh:slave_trooper.png?30&nolink}}    | **Slave Trooper**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit  |  Manual description here.  |
+| {{:nations:ea:rlyeh:slave_trooper_2.png?30&nolink}}    | **Slave Trooper**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit  |  Manual description here.  |
+| {{:nations:ea:rlyeh:slave_trooper_3.png?30&nolink}}    | **Slave Trooper**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit  |  Manual description here.  |
+| {{:nations:ea:rlyeh:shambler_thrall.png?30&nolink}}    | **Shambler Thrall**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit  |  Manual description here.  |
+| {{:nations:ea:rlyeh:giboleth.png?30&nolink}}    | **Giboleth**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit  |  Manual description here.  |
+| {{:nations:ea:rlyeh:gibodai.png?30&nolink}}    | **Gibodai**\ {{:misc:gui:gold.png?15&nolink}} 50\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ea:rlyeh:androleth.png?30&nolink}}    | **Androleth**\ {{:misc:gui:gold.png?15&nolink}} 50\ {{:misc:gui:resources.png?15&nolink}} 16   |  | unit (coast)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:rlyeh:slave_troll.png?30&nolink}}    | **Slave Troll**\ {{:misc:gui:gold.png?15&nolink}} 60\ {{:misc:gui:resources.png?15&nolink}} 27   |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:rlyeh:mind_lord.png?30&nolink}}    | **Mind Lord**  |  | hero (unique)  |  Manual description here.  |

@@ -1,0 +1,40 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:rlyeh:starspawn.png?30&nolink}}    | **Starspawn**\ {{:misc:gui:gold.png?15&nolink}} 290\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:la:rlyeh:hybrid_commander.png?30&nolink}}    | **Hybrid Commander**\ {{:misc:gui:gold.png?15&nolink}} 50\ {{:misc:gui:resources.png?15&nolink}} 19   |  | cmdr (coast)  |  Manual description here.  |
+| {{:nations:la:rlyeh:star_child_2.png?30&nolink}}    | **Star Child**\ {{:misc:gui:gold.png?15&nolink}} 85\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (coast)  |  Manual description here.  |
+| {{:nations:la:rlyeh:void_cultist.png?30&nolink}}    | **Void Cultist**\ {{:misc:gui:gold.png?15&nolink}} 50\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (land)  |  Manual description here.  |
+| {{:nations:la:rlyeh:scout.png?30&nolink}}    | **Scout**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:la:rlyeh:slave_priest.png?30&nolink}}    | **Slave Priest**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:la:rlyeh:traitor_prince.png?30&nolink}}    | **Traitor Prince**\ {{:misc:gui:gold.png?15&nolink}} 80\ {{:misc:gui:resources.png?15&nolink}} 49   |  | commander  |  Manual description here.  |
+| {{:nations:la:rlyeh:star_child.png?30&nolink}}    | **Star Child**\ {{:misc:gui:gold.png?15&nolink}} 85\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:la:rlyeh:slave_mage.png?30&nolink}}    | **Slave Mage**\ {{:misc:gui:gold.png?15&nolink}} 175\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:la:rlyeh:starspawn_2.png?30&nolink}}    | **Starspawn**\ {{:misc:gui:gold.png?15&nolink}} 200\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:la:rlyeh:lobo_guard.png?30&nolink}}    | **Lobo Guard**\ {{:misc:gui:gold.png?15&nolink}} 5\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit  |  Manual description here.  |
+| {{:nations:la:rlyeh:slave_guardian.png?30&nolink}}    | **Slave Guardian**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 11   |  | unit  |  Manual description here.  |
+| {{:nations:la:rlyeh:slave_guardian_2.png?30&nolink}}    | **Slave Guardian**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 10   |  | unit  |  Manual description here.  |
+| {{:nations:la:rlyeh:slave_guardian_3.png?30&nolink}}    | **Slave Guardian**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 11   |  | unit  |  Manual description here.  |
+| {{:nations:la:rlyeh:slave_guardian_4.png?30&nolink}}    | **Slave Guardian**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 10   |  | unit  |  Manual description here.  |
+| {{:nations:la:rlyeh:slave_trooper.png?30&nolink}}    | **Slave Trooper**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit  |  Manual description here.  |
+| {{:nations:la:rlyeh:slave_trooper_2.png?30&nolink}}    | **Slave Trooper**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit  |  Manual description here.  |
+| {{:nations:la:rlyeh:slave_trooper_3.png?30&nolink}}    | **Slave Trooper**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit  |  Manual description here.  |
+| {{:nations:la:rlyeh:meteorite_guard.png?30&nolink}}    | **Meteorite Guard**\ {{:misc:gui:gold.png?15&nolink}} 13\ {{:misc:gui:resources.png?15&nolink}} 33   |  | unit  |  Manual description here.  |
+| {{:nations:la:rlyeh:shambler_thrall.png?30&nolink}}    | **Shambler Thrall**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit  |  Manual description here.  |
+| {{:nations:la:rlyeh:crab_hybrid.png?30&nolink}}    | **Crab Hybrid**\ {{:misc:gui:gold.png?15&nolink}} 35\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit  |  Manual description here.  |
+| {{:nations:la:rlyeh:illithid_soldier.png?30&nolink}}    | **Illithid Soldier**\ {{:misc:gui:gold.png?15&nolink}} 50\ {{:misc:gui:resources.png?15&nolink}} 51   |  | unit  |  Manual description here.  |
+| {{:nations:la:rlyeh:hybrid_soldier.png?30&nolink}}    | **Hybrid Soldier**\ {{:misc:gui:gold.png?15&nolink}} 14\ {{:misc:gui:resources.png?15&nolink}} 19   |  | unit (coast)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:rlyeh:void_spectre.png?30&nolink}}    | **Void Spectre**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:rlyeh:hybrid.png?30&nolink}}    | **Hybrid**\ {{:misc:gui:gold.png?15&nolink}} 12\ {{:misc:gui:resources.png?15&nolink}} 3   |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:rlyeh:hybrid_trooper.png?30&nolink}}    | **Hybrid Trooper**\ {{:misc:gui:gold.png?15&nolink}} 13\ {{:misc:gui:resources.png?15&nolink}} 6   |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:rlyeh:aboleth.png?30&nolink}}    | **Aboleth**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:la:rlyeh:stargazer.png?30&nolink}}    | **Stargazer**  |  | hero (unique)  |  Manual description here.  |

@@ -1,0 +1,50 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:hinnom:ba'al.png?30&nolink}}    | **Ba'al**\ {{:misc:gui:gold.png?15&nolink}} 455\ {{:misc:gui:resources.png?15&nolink}} 3   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ea:hinnom:melqart.png?30&nolink}}    | **Melqart**\ {{:misc:gui:gold.png?15&nolink}} 485\ {{:misc:gui:resources.png?15&nolink}} 101   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ea:hinnom:avvite_scout.png?30&nolink}}    | **Avvite Scout**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 16   |  | commander  |  Manual description here.  |
+| {{:nations:ea:hinnom:qedesim.png?30&nolink}}    | **Qedesim**\ {{:misc:gui:gold.png?15&nolink}} 65\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:ea:hinnom:qedesot.png?30&nolink}}    | **Qedesot**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:ea:hinnom:avvite_commander.png?30&nolink}}    | **Avvite Commander**\ {{:misc:gui:gold.png?15&nolink}} 85\ {{:misc:gui:resources.png?15&nolink}} 26   |  | commander  |  Manual description here.  |
+| {{:nations:ea:hinnom:horite_shaman.png?30&nolink}}    | **Horite Shaman**\ {{:misc:gui:gold.png?15&nolink}} 90\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:ea:hinnom:ammi.png?30&nolink}}    | **Ammi**\ {{:misc:gui:gold.png?15&nolink}} 120\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:ea:hinnom:acha.png?30&nolink}}    | **Acha**\ {{:misc:gui:gold.png?15&nolink}} 170\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:ea:hinnom:kohen.png?30&nolink}}    | **Kohen**\ {{:misc:gui:gold.png?15&nolink}} 250\ {{:misc:gui:resources.png?15&nolink}} 8   |  | commander  |  Manual description here.  |
+| {{:nations:ea:hinnom:enkidu_slave.png?30&nolink}}    | **Enkidu Slave**\ {{:misc:gui:gold.png?15&nolink}} 11\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit  |  Manual description here.  |
+| {{:nations:ea:hinnom:horite.png?30&nolink}}    | **Horite**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit  |  Manual description here.  |
+| {{:nations:ea:hinnom:horite_hunter.png?30&nolink}}    | **Horite Hunter**\ {{:misc:gui:gold.png?15&nolink}} 23\ {{:misc:gui:resources.png?15&nolink}} 4   |  | unit  |  Manual description here.  |
+| {{:nations:ea:hinnom:avvite_heavy_archer.png?30&nolink}}    | **Avvite Heavy Archer**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 35   |  | unit  |  Manual description here.  |
+| {{:nations:ea:hinnom:avvite_light_infantry.png?30&nolink}}    | **Avvite Light Infantry**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 14   |  | unit  |  Manual description here.  |
+| {{:nations:ea:hinnom:avvite_spearman.png?30&nolink}}    | **Avvite Spearman**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 23   |  | unit  |  Manual description here.  |
+| {{:nations:ea:hinnom:avvite_swordsman.png?30&nolink}}    | **Avvite Swordsman**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 25   |  | unit  |  Manual description here.  |
+| {{:nations:ea:hinnom:horite_champion.png?30&nolink}}    | **Horite Champion**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit  |  Manual description here.  |
+| {{:nations:ea:hinnom:avvite_horn_blower.png?30&nolink}}    | **Avvite Horn Blower**\ {{:misc:gui:gold.png?15&nolink}} 35\ {{:misc:gui:resources.png?15&nolink}} 25   |  | unit  |  Manual description here.  |
+| {{:nations:ea:hinnom:dawn_guard.png?30&nolink}}    | **Dawn Guard**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 32   |  | unit  |  Manual description here.  |
+| {{:nations:ea:hinnom:avvite_charioteer.png?30&nolink}}    | **Avvite Charioteer**\ {{:misc:gui:gold.png?15&nolink}} 75\ {{:misc:gui:resources.png?15&nolink}} 31   |  | unit  |  Manual description here.  |
+| {{:nations:ea:hinnom:rephaite_warrior.png?30&nolink}}    | **Rephaite Warrior**\ {{:misc:gui:gold.png?15&nolink}} 130\ {{:misc:gui:resources.png?15&nolink}} 53   |  | unit (cap only)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:hinnom:grigori.png?30&nolink}}    | **Grigori**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:hinnom:grigori_2.png?30&nolink}}    | **Grigori**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:hinnom:grigori_3.png?30&nolink}}    | **Grigori**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:hinnom:grigori_4.png?30&nolink}}    | **Grigori**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:hinnom:grigori_5.png?30&nolink}}    | **Grigori**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:hinnom:grigori_6.png?30&nolink}}    | **Grigori**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:hinnom:lilot.png?30&nolink}}    | **Lilot**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:hinnom:mazzik.png?30&nolink}}    | **Mazzik**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:hinnom:se'ir.png?30&nolink}}    | **Se'ir**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:hinnom:shed.png?30&nolink}}    | **Shed**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:hinnom:son_of_arakiel.png?30&nolink}}    | **Son of Arakiel**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ea:hinnom:son_of_azazel.png?30&nolink}}    | **Son of Azazel**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ea:hinnom:son_of_ezekiel.png?30&nolink}}    | **Son of Ezekiel**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ea:hinnom:son_of_kokabel.png?30&nolink}}    | **Son of Kokabel**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ea:hinnom:son_of_semyaza.png?30&nolink}}    | **Son of Semyaza**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ea:hinnom:son_of_shamshiel.png?30&nolink}}    | **Son of Shamshiel**  |  | hero (unique)  |  Manual description here.  |

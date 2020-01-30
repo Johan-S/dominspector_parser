@@ -1,0 +1,70 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:ragha:zhayedan_spahbed.png?30&nolink}}    | **Zhayedan Spahbed**\ {{:misc:gui:gold.png?15&nolink}} 195\ {{:misc:gui:resources.png?15&nolink}} 60   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:la:ragha:airya_scout.png?30&nolink}}    | **Airya Scout**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 13   |  | commander  |  Manual description here.  |
+| {{:nations:la:ragha:paighan-salar.png?30&nolink}}    | **Paighan-Salar**\ {{:misc:gui:gold.png?15&nolink}} 35\ {{:misc:gui:resources.png?15&nolink}} 18   |  | commander  |  Manual description here.  |
+| {{:nations:la:ragha:airya_spahbed.png?30&nolink}}    | **Airya Spahbed**\ {{:misc:gui:gold.png?15&nolink}} 50\ {{:misc:gui:resources.png?15&nolink}} 38   |  | commander  |  Manual description here.  |
+| {{:nations:la:ragha:turan_spahbed.png?30&nolink}}    | **Turan Spahbed**\ {{:misc:gui:gold.png?15&nolink}} 95\ {{:misc:gui:resources.png?15&nolink}} 44   |  | commander  |  Manual description here.  |
+| {{:nations:la:ragha:athravan.png?30&nolink}}    | **Athravan**\ {{:misc:gui:gold.png?15&nolink}} 100\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:la:ragha:karapan.png?30&nolink}}    | **Karapan**\ {{:misc:gui:gold.png?15&nolink}} 100\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:la:ragha:airya_shah.png?30&nolink}}    | **Airya Shah**\ {{:misc:gui:gold.png?15&nolink}} 130\ {{:misc:gui:resources.png?15&nolink}} 32   |  | commander  |  Manual description here.  |
+| {{:nations:la:ragha:turan_shah.png?30&nolink}}    | **Turan Shah**\ {{:misc:gui:gold.png?15&nolink}} 165\ {{:misc:gui:resources.png?15&nolink}} 39   |  | commander  |  Manual description here.  |
+| {{:nations:la:ragha:zaotar.png?30&nolink}}    | **Zaotar**\ {{:misc:gui:gold.png?15&nolink}} 210\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:la:ragha:dastur.png?30&nolink}}    | **Dastur**\ {{:misc:gui:gold.png?15&nolink}} 215\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:la:ragha:airya_seraph.png?30&nolink}}    | **Airya Seraph**\ {{:misc:gui:gold.png?15&nolink}} 225\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:la:ragha:turan_sorcerer.png?30&nolink}}    | **Turan Sorcerer**\ {{:misc:gui:gold.png?15&nolink}} 225\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:la:ragha:paighan.png?30&nolink}}    | **Paighan**\ {{:misc:gui:gold.png?15&nolink}} 8\ {{:misc:gui:resources.png?15&nolink}} 9   |  | unit  |  Manual description here.  |
+| {{:nations:la:ragha:airya_archer.png?30&nolink}}    | **Airya Archer**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 7   |  | unit  |  Manual description here.  |
+| {{:nations:la:ragha:airya_infantry.png?30&nolink}}    | **Airya Infantry**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 16   |  | unit  |  Manual description here.  |
+| {{:nations:la:ragha:airya_light_infantry.png?30&nolink}}    | **Airya Light Infantry**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 11   |  | unit  |  Manual description here.  |
+| {{:nations:la:ragha:turan_infantry.png?30&nolink}}    | **Turan Infantry**\ {{:misc:gui:gold.png?15&nolink}} 11\ {{:misc:gui:resources.png?15&nolink}} 19   |  | unit  |  Manual description here.  |
+| {{:nations:la:ragha:turan_heavy_infantry.png?30&nolink}}    | **Turan Heavy Infantry**\ {{:misc:gui:gold.png?15&nolink}} 13\ {{:misc:gui:resources.png?15&nolink}} 22   |  | unit  |  Manual description here.  |
+| {{:nations:la:ragha:turan_horse_archer.png?30&nolink}}    | **Turan Horse Archer**\ {{:misc:gui:gold.png?15&nolink}} 22\ {{:misc:gui:resources.png?15&nolink}} 12   |  | unit  |  Manual description here.  |
+| {{:nations:la:ragha:turan_cavalry.png?30&nolink}}    | **Turan Cavalry**\ {{:misc:gui:gold.png?15&nolink}} 27\ {{:misc:gui:resources.png?15&nolink}} 30   |  | unit  |  Manual description here.  |
+| {{:nations:la:ragha:savaran_cataphract.png?30&nolink}}    | **Savaran Cataphract**\ {{:misc:gui:gold.png?15&nolink}} 35\ {{:misc:gui:resources.png?15&nolink}} 43   |  | unit  |  Manual description here.  |
+| {{:nations:la:ragha:savaran_guard.png?30&nolink}}    | **Savaran Guard**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 47   |  | unit  |  Manual description here.  |
+| {{:nations:la:ragha:iceclad_zhayedan.png?30&nolink}}    | **Iceclad Zhayedan**\ {{:misc:gui:gold.png?15&nolink}} 19\ {{:misc:gui:resources.png?15&nolink}} 40   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:la:ragha:zhayedan.png?30&nolink}}    | **Zhayedan**\ {{:misc:gui:gold.png?15&nolink}} 125\ {{:misc:gui:resources.png?15&nolink}} 60   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:la:ragha:turan_war_elephant.png?30&nolink}}    | **Turan War Elephant**\ {{:misc:gui:gold.png?15&nolink}} 100\ {{:misc:gui:resources.png?15&nolink}} 62   |  | unit  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:ragha:ahurani.png?30&nolink}}    | **Ahurani**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:ragha:ancestral_fravashi.png?30&nolink}}    | **Ancestral Fravashi**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:ragha:daeva_of_aging.png?30&nolink}}    | **Daeva of Aging**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:ragha:daeva_of_destruction.png?30&nolink}}    | **Daeva of Destruction**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:ragha:daeva_of_discontent.png?30&nolink}}    | **Daeva of Discontent**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:ragha:daeva_of_evil_intentions.png?30&nolink}}    | **Daeva of Evil Intentions**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:ragha:daeva_of_frost_and_snow.png?30&nolink}}    | **Daeva of Frost and Snow**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:ragha:daeva_of_frozen_minds.png?30&nolink}}    | **Daeva of Frozen Minds**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:ragha:daeva_of_oppression.png?30&nolink}}    | **Daeva of Oppression**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:ragha:daeva_of_shooting_stars.png?30&nolink}}    | **Daeva of Shooting Stars**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:ragha:jahi.png?30&nolink}}    | **Jahi**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:ragha:pairika.png?30&nolink}}    | **Pairika**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:ragha:spenta_of_animals.png?30&nolink}}    | **Spenta of Animals**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:ragha:spenta_of_fire.png?30&nolink}}    | **Spenta of Fire**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:ragha:spenta_of_plants.png?30&nolink}}    | **Spenta of Plants**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:ragha:spenta_of_sky_and_metals.png?30&nolink}}    | **Spenta of Sky and Metals**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:ragha:spenta_of_waters.png?30&nolink}}    | **Spenta of Waters**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:ragha:spenta_of_the_earth.png?30&nolink}}    | **Spenta of the Earth**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:ragha:yata.png?30&nolink}}    | **Yata**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:ragha:yazad_of_fire.png?30&nolink}}    | **Yazad of Fire**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:ragha:yazad_of_justice.png?30&nolink}}    | **Yazad of Justice**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:ragha:yazad_of_water.png?30&nolink}}    | **Yazad of Water**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:ragha:yazad_of_the_earth.png?30&nolink}}    | **Yazad of the Earth**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:ragha:yazad_of_the_sky.png?30&nolink}}    | **Yazad of the Sky**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:ragha:yazad_of_the_stars.png?30&nolink}}    | **Yazad of the Stars**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:ragha:black_hawk.png?30&nolink}}    | **Black Hawk**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:ragha:buffalo.png?30&nolink}}    | **Buffalo**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:ragha:daeva.png?30&nolink}}    | **Daeva**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:ragha:elephant.png?30&nolink}}    | **Elephant**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:ragha:tiger.png?30&nolink}}    | **Tiger**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:ragha:yazad.png?30&nolink}}    | **Yazad**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:ragha:fatherslayer.png?30&nolink}}    | **Fatherslayer**  |  | hero (unique)  |  Manual description here.  |

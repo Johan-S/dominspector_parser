@@ -1,0 +1,44 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:ulm:wolfherd.png?30&nolink}}    | **Wolfherd**\ {{:misc:gui:gold.png?15&nolink}} 50\ {{:misc:gui:resources.png?15&nolink}} 2   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:la:ulm:fortune_teller.png?30&nolink}}    | **Fortune Teller**\ {{:misc:gui:gold.png?15&nolink}} 95\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:la:ulm:ghoul_commander.png?30&nolink}}    | **Ghoul Commander**\ {{:misc:gui:gold.png?15&nolink}} 100\ {{:misc:gui:resources.png?15&nolink}} 42   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:la:ulm:hochmeister.png?30&nolink}}    | **Hochmeister**\ {{:misc:gui:gold.png?15&nolink}} 115\ {{:misc:gui:resources.png?15&nolink}} 73   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:la:ulm:illuminated_one_2.png?30&nolink}}    | **Illuminated One**\ {{:misc:gui:gold.png?15&nolink}} 75\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (foreign)  |  Manual description here.  |
+| {{:nations:la:ulm:member_of_the_second_tier_2.png?30&nolink}}    | **Member of the Second Tier**\ {{:misc:gui:gold.png?15&nolink}} 150\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (foreign)  |  Manual description here.  |
+| {{:nations:la:ulm:black_acolyte.png?30&nolink}}    | **Black Acolyte**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:la:ulm:ranger_captain.png?30&nolink}}    | **Ranger Captain**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 8   |  | commander  |  Manual description here.  |
+| {{:nations:la:ulm:commander_of_ulm.png?30&nolink}}    | **Commander of Ulm**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 24   |  | commander  |  Manual description here.  |
+| {{:nations:la:ulm:illuminated_one.png?30&nolink}}    | **Illuminated One**\ {{:misc:gui:gold.png?15&nolink}} 75\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:la:ulm:member_of_the_second_tier.png?30&nolink}}    | **Member of the Second Tier**\ {{:misc:gui:gold.png?15&nolink}} 150\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:la:ulm:black_priest.png?30&nolink}}    | **Black Priest**\ {{:misc:gui:gold.png?15&nolink}} 160\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:la:ulm:halberdier.png?30&nolink}}    | **Halberdier**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 22   |  | unit  |  Manual description here.  |
+| {{:nations:la:ulm:infantry_of_ulm.png?30&nolink}}    | **Infantry of Ulm**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 23   |  | unit  |  Manual description here.  |
+| {{:nations:la:ulm:pikeneer.png?30&nolink}}    | **Pikeneer**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 20   |  | unit  |  Manual description here.  |
+| {{:nations:la:ulm:ranger_of_ulm.png?30&nolink}}    | **Ranger of Ulm**\ {{:misc:gui:gold.png?15&nolink}} 12\ {{:misc:gui:resources.png?15&nolink}} 8   |  | unit  |  Manual description here.  |
+| {{:nations:la:ulm:zweihander.png?30&nolink}}    | **Zweihander**\ {{:misc:gui:gold.png?15&nolink}} 14\ {{:misc:gui:resources.png?15&nolink}} 36   |  | unit  |  Manual description here.  |
+| {{:nations:la:ulm:ghoul_guardian.png?30&nolink}}    | **Ghoul Guardian**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 42   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:la:ulm:black_templar.png?30&nolink}}    | **Black Templar**\ {{:misc:gui:gold.png?15&nolink}} 65\ {{:misc:gui:resources.png?15&nolink}} 73   |  | unit (cap only)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:ulm:blood_countess.png?30&nolink}}    | **Blood Countess**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:ulm:blood_graf.png?30&nolink}}    | **Blood Graf**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:ulm:blood_marshal.png?30&nolink}}    | **Blood Marshal**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:ulm:vampire_count.png?30&nolink}}    | **Vampire Count**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:ulm:vampire_count_2.png?30&nolink}}    | **Vampire Count**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:ulm:vampire_count_3.png?30&nolink}}    | **Vampire Count**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:ulm:vampire_countess.png?30&nolink}}    | **Vampire Countess**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:ulm:vivisectionist.png?30&nolink}}    | **Vivisectionist**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:ulm:great_bear.png?30&nolink}}    | **Great Bear**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:ulm:ghoul_baron.png?30&nolink}}    | **Ghoul Baron**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:la:ulm:member_of_the_third_tier.png?30&nolink}}    | **Member of the Third Tier**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:la:ulm:member_of_the_third_tier_2.png?30&nolink}}    | **Member of the Third Tier**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:la:ulm:member_of_the_third_tier_3.png?30&nolink}}    | **Member of the Third Tier**  |  | hero (unique)  |  Manual description here.  |

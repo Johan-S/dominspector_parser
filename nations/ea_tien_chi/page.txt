@@ -1,0 +1,42 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:tien_chi:master_of_the_five_elements.png?30&nolink}}    | **Master of the Five Elements**\ {{:misc:gui:gold.png?15&nolink}} 255\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ea:tien_chi:celestial_master.png?30&nolink}}    | **Celestial Master**\ {{:misc:gui:gold.png?15&nolink}} 320\ {{:misc:gui:resources.png?15&nolink}} 2   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ea:tien_chi:master_of_the_way.png?30&nolink}}    | **Master of the Way**\ {{:misc:gui:gold.png?15&nolink}} 135\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (foreign)  |  Manual description here.  |
+| {{:nations:ea:tien_chi:scout.png?30&nolink}}    | **Scout**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 4   |  | commander  |  Manual description here.  |
+| {{:nations:ea:tien_chi:master_of_the_dead.png?30&nolink}}    | **Master of the Dead**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:ea:tien_chi:noble_commander.png?30&nolink}}    | **Noble Commander**\ {{:misc:gui:gold.png?15&nolink}} 105\ {{:misc:gui:resources.png?15&nolink}} 45   |  | commander  |  Manual description here.  |
+| {{:nations:ea:tien_chi:archer.png?30&nolink}}    | **Archer**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 12   |  | unit  |  Manual description here.  |
+| {{:nations:ea:tien_chi:footman.png?30&nolink}}    | **Footman**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 9   |  | unit  |  Manual description here.  |
+| {{:nations:ea:tien_chi:footman_2.png?30&nolink}}    | **Footman**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 11   |  | unit  |  Manual description here.  |
+| {{:nations:ea:tien_chi:footman_3.png?30&nolink}}    | **Footman**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 11   |  | unit  |  Manual description here.  |
+| {{:nations:ea:tien_chi:heavy_footman.png?30&nolink}}    | **Heavy Footman**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 20   |  | unit  |  Manual description here.  |
+| {{:nations:ea:tien_chi:heavy_footman_2.png?30&nolink}}    | **Heavy Footman**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 20   |  | unit  |  Manual description here.  |
+| {{:nations:ea:tien_chi:medium_footman.png?30&nolink}}    | **Medium Footman**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 14   |  | unit  |  Manual description here.  |
+| {{:nations:ea:tien_chi:medium_footman_2.png?30&nolink}}    | **Medium Footman**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 14   |  | unit  |  Manual description here.  |
+| {{:nations:ea:tien_chi:horseman.png?30&nolink}}    | **Horseman**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 11   |  | unit  |  Manual description here.  |
+| {{:nations:ea:tien_chi:noble.png?30&nolink}}    | **Noble**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 45   |  | unit  |  Manual description here.  |
+| {{:nations:ea:tien_chi:warrior_of_the_five_elements.png?30&nolink}}    | **Warrior of the Five Elements**\ {{:misc:gui:gold.png?15&nolink}} 35\ {{:misc:gui:resources.png?15&nolink}} 6   |  | unit (cap only)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:tien_chi:huli_jing.png?30&nolink}}    | **Huli Jing**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:tien_chi:huli_jing_2.png?30&nolink}}    | **Huli Jing**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:tien_chi:ancestral_spirit.png?30&nolink}}    | **Ancestral Spirit**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:tien_chi:buffalo.png?30&nolink}}    | **Buffalo**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:tien_chi:celestial_hound.png?30&nolink}}    | **Celestial Hound**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:tien_chi:celestial_servant.png?30&nolink}}    | **Celestial Servant**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:tien_chi:celestial_soldier.png?30&nolink}}    | **Celestial Soldier**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:tien_chi:demon_of_heavenly_fires.png?30&nolink}}    | **Demon of Heavenly Fires**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:tien_chi:demon_of_heavenly_rivers.png?30&nolink}}    | **Demon of Heavenly Rivers**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:tien_chi:tiger.png?30&nolink}}    | **Tiger**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:tien_chi:immortal.png?30&nolink}}    | **Immortal**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ea:tien_chi:immortal_2.png?30&nolink}}    | **Immortal**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ea:tien_chi:master_with_the_iron_crutch.png?30&nolink}}    | **Master With The Iron Crutch**  |  | hero (unique)  |  Manual description here.  |

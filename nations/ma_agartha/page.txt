@@ -1,0 +1,59 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:agartha:ancient_lord.png?30&nolink}}    | **Ancient Lord**\ {{:misc:gui:gold.png?15&nolink}} 125\ {{:misc:gui:resources.png?15&nolink}} 23   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:agartha:oracle_of_the_ancients.png?30&nolink}}    | **Oracle of the Ancients**\ {{:misc:gui:gold.png?15&nolink}} 375\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:agartha:pale_one_captain_2.png?30&nolink}}    | **Pale One Captain**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 20   |  | cmdr (cave)  |  Manual description here.  |
+| {{:nations:ma:agartha:wet_one_captain.png?30&nolink}}    | **Wet One Captain**\ {{:misc:gui:gold.png?15&nolink}} 35\ {{:misc:gui:resources.png?15&nolink}} 7   |  | cmdr (u-water)  |  Manual description here.  |
+| {{:nations:ma:agartha:agarthan_scout.png?30&nolink}}    | **Agarthan Scout**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 4   |  | commander  |  Manual description here.  |
+| {{:nations:ma:agartha:attendant_of_the_oracles.png?30&nolink}}    | **Attendant of the Oracles**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:agartha:pale_one_captain.png?30&nolink}}    | **Pale One Captain**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 20   |  | commander  |  Manual description here.  |
+| {{:nations:ma:agartha:troglodyte_trainer.png?30&nolink}}    | **Troglodyte Trainer**\ {{:misc:gui:gold.png?15&nolink}} 50\ {{:misc:gui:resources.png?15&nolink}} 15   |  | commander  |  Manual description here.  |
+| {{:nations:ma:agartha:cave_captain.png?30&nolink}}    | **Cave Captain**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 22   |  | commander  |  Manual description here.  |
+| {{:nations:ma:agartha:earth_reader.png?30&nolink}}    | **Earth Reader**\ {{:misc:gui:gold.png?15&nolink}} 80\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:agartha:golem_crafter.png?30&nolink}}    | **Golem Crafter**\ {{:misc:gui:gold.png?15&nolink}} 210\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:ma:agartha:pale_one_soldier.png?30&nolink}}    | **Pale One Soldier**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 16   |  | unit  |  Manual description here.  |
+| {{:nations:ma:agartha:wet_one.png?30&nolink}}    | **Wet One**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit  |  Manual description here.  |
+| {{:nations:ma:agartha:agarthan_heavy_infantry.png?30&nolink}}    | **Agarthan Heavy Infantry**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 27   |  | unit  |  Manual description here.  |
+| {{:nations:ma:agartha:agarthan_infantry.png?30&nolink}}    | **Agarthan Infantry**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 22   |  | unit  |  Manual description here.  |
+| {{:nations:ma:agartha:agarthan_light_infantry.png?30&nolink}}    | **Agarthan Light Infantry**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 10   |  | unit  |  Manual description here.  |
+| {{:nations:ma:agartha:defender_of_the_halls.png?30&nolink}}    | **Defender of the Halls**\ {{:misc:gui:gold.png?15&nolink}} 13\ {{:misc:gui:resources.png?15&nolink}} 26   |  | unit  |  Manual description here.  |
+| {{:nations:ma:agartha:troglodyte_slave.png?30&nolink}}    | **Troglodyte Slave**\ {{:misc:gui:gold.png?15&nolink}} 50\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit  |  Manual description here.  |
+| {{:nations:ma:agartha:ancient_one.png?30&nolink}}    | **Ancient One**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 27   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ma:agartha:ancient_stone_hurler.png?30&nolink}}    | **Ancient Stone Hurler**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 13   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ma:agartha:shard_guard.png?30&nolink}}    | **Shard Guard**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 31   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ma:agartha:pale_one_soldier_2.png?30&nolink}}    | **Pale One Soldier**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 16   |  | unit (cave)  |  Manual description here.  |
+| {{:nations:ma:agartha:wet_one_4.png?30&nolink}}    | **Wet One**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit (cave)  |  Manual description here.  |
+| {{:nations:ma:agartha:wet_one_2.png?30&nolink}}    | **Wet One**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit (u-water)  |  Manual description here.  |
+| {{:nations:ma:agartha:wet_one_3.png?30&nolink}}    | **Wet One**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 5   |  | unit (u-water)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:agartha:marble_oracle.png?30&nolink}}    | **Marble Oracle**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:agartha:olm_sage.png?30&nolink}}    | **Olm Sage**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:agartha:attentive_statue.png?30&nolink}}    | **Attentive Statue**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:agartha:earth_elemental.png?30&nolink}}    | **Earth Elemental**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:agartha:earth_elemental_2.png?30&nolink}}    | **Earth Elemental**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:agartha:earth_elemental_3.png?30&nolink}}    | **Earth Elemental**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:agartha:earth_elemental_4.png?30&nolink}}    | **Earth Elemental**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:agartha:granite_guardian.png?30&nolink}}    | **Granite Guardian**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:agartha:great_olm.png?30&nolink}}    | **Great Olm**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:agartha:living_mercury.png?30&nolink}}    | **Living Mercury**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:agartha:living_mercury_2.png?30&nolink}}    | **Living Mercury**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:agartha:living_mercury_3.png?30&nolink}}    | **Living Mercury**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:agartha:living_mercury_4.png?30&nolink}}    | **Living Mercury**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:agartha:living_mercury_5.png?30&nolink}}    | **Living Mercury**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:agartha:magma_child.png?30&nolink}}    | **Magma Child**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:agartha:penumbral.png?30&nolink}}    | **Penumbral**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:agartha:sentinel.png?30&nolink}}    | **Sentinel**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:agartha:shard_wight.png?30&nolink}}    | **Shard Wight**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:agartha:umbral.png?30&nolink}}    | **Umbral**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:agartha:decrepit.png?30&nolink}}    | **Decrepit**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:agartha:mason_of_the_underworld.png?30&nolink}}    | **Mason of the Underworld**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:agartha:onyx_oracle.png?30&nolink}}    | **Onyx Oracle**  |  | hero (unique)  |  Manual description here.  |

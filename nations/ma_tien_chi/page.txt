@@ -1,0 +1,55 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:tien_chi:imperial_alchemist.png?30&nolink}}    | **Imperial Alchemist**\ {{:misc:gui:gold.png?15&nolink}} 220\ {{:misc:gui:resources.png?15&nolink}} 4   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:tien_chi:prince_general.png?30&nolink}}    | **Prince General**\ {{:misc:gui:gold.png?15&nolink}} 230\ {{:misc:gui:resources.png?15&nolink}} 38   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:tien_chi:celestial_master.png?30&nolink}}    | **Celestial Master**\ {{:misc:gui:gold.png?15&nolink}} 275\ {{:misc:gui:resources.png?15&nolink}} 5   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:tien_chi:master_of_the_way.png?30&nolink}}    | **Master of the Way**\ {{:misc:gui:gold.png?15&nolink}} 135\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (foreign)  |  Manual description here.  |
+| {{:nations:ma:tien_chi:scout.png?30&nolink}}    | **Scout**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 4   |  | commander  |  Manual description here.  |
+| {{:nations:ma:tien_chi:eunuch.png?30&nolink}}    | **Eunuch**\ {{:misc:gui:gold.png?15&nolink}} 35\ {{:misc:gui:resources.png?15&nolink}} 5   |  | commander  |  Manual description here.  |
+| {{:nations:ma:tien_chi:ceremonial_master.png?30&nolink}}    | **Ceremonial Master**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 3   |  | commander  |  Manual description here.  |
+| {{:nations:ma:tien_chi:apothecary.png?30&nolink}}    | **Apothecary**\ {{:misc:gui:gold.png?15&nolink}} 65\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:ma:tien_chi:imperial_geomancer.png?30&nolink}}    | **Imperial Geomancer**\ {{:misc:gui:gold.png?15&nolink}} 65\ {{:misc:gui:resources.png?15&nolink}} 4   |  | commander  |  Manual description here.  |
+| {{:nations:ma:tien_chi:imperial_consort.png?30&nolink}}    | **Imperial Consort**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:tien_chi:minister_of_rituals.png?30&nolink}}    | **Minister of Rituals**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 5   |  | commander  |  Manual description here.  |
+| {{:nations:ma:tien_chi:general.png?30&nolink}}    | **General**\ {{:misc:gui:gold.png?15&nolink}} 80\ {{:misc:gui:resources.png?15&nolink}} 41   |  | commander  |  Manual description here.  |
+| {{:nations:ma:tien_chi:alchemist_of_the_five_elements.png?30&nolink}}    | **Alchemist of the Five Elements**\ {{:misc:gui:gold.png?15&nolink}} 85\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:ma:tien_chi:archer.png?30&nolink}}    | **Archer**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 12   |  | unit  |  Manual description here.  |
+| {{:nations:ma:tien_chi:footman.png?30&nolink}}    | **Footman**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 9   |  | unit  |  Manual description here.  |
+| {{:nations:ma:tien_chi:footman_2.png?30&nolink}}    | **Footman**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 11   |  | unit  |  Manual description here.  |
+| {{:nations:ma:tien_chi:footman_3.png?30&nolink}}    | **Footman**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 11   |  | unit  |  Manual description here.  |
+| {{:nations:ma:tien_chi:ministry_footman.png?30&nolink}}    | **Ministry Footman**\ {{:misc:gui:gold.png?15&nolink}} 12\ {{:misc:gui:resources.png?15&nolink}} 14   |  | unit  |  Manual description here.  |
+| {{:nations:ma:tien_chi:ministry_guardsman.png?30&nolink}}    | **Ministry Guardsman**\ {{:misc:gui:gold.png?15&nolink}} 12\ {{:misc:gui:resources.png?15&nolink}} 14   |  | unit  |  Manual description here.  |
+| {{:nations:ma:tien_chi:imperial_archer.png?30&nolink}}    | **Imperial Archer**\ {{:misc:gui:gold.png?15&nolink}} 13\ {{:misc:gui:resources.png?15&nolink}} 21   |  | unit  |  Manual description here.  |
+| {{:nations:ma:tien_chi:imperial_crossbowman.png?30&nolink}}    | **Imperial Crossbowman**\ {{:misc:gui:gold.png?15&nolink}} 13\ {{:misc:gui:resources.png?15&nolink}} 21   |  | unit  |  Manual description here.  |
+| {{:nations:ma:tien_chi:imperial_footman.png?30&nolink}}    | **Imperial Footman**\ {{:misc:gui:gold.png?15&nolink}} 13\ {{:misc:gui:resources.png?15&nolink}} 20   |  | unit  |  Manual description here.  |
+| {{:nations:ma:tien_chi:imperial_city_guard.png?30&nolink}}    | **Imperial City Guard**\ {{:misc:gui:gold.png?15&nolink}} 14\ {{:misc:gui:resources.png?15&nolink}} 20   |  | unit  |  Manual description here.  |
+| {{:nations:ma:tien_chi:imperial_guard.png?30&nolink}}    | **Imperial Guard**\ {{:misc:gui:gold.png?15&nolink}} 15\ {{:misc:gui:resources.png?15&nolink}} 23   |  | unit  |  Manual description here.  |
+| {{:nations:ma:tien_chi:horseman.png?30&nolink}}    | **Horseman**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 11   |  | unit  |  Manual description here.  |
+| {{:nations:ma:tien_chi:heavy_horseman.png?30&nolink}}    | **Heavy Horseman**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 21   |  | unit  |  Manual description here.  |
+| {{:nations:ma:tien_chi:imperial_horseman.png?30&nolink}}    | **Imperial Horseman**\ {{:misc:gui:gold.png?15&nolink}} 35\ {{:misc:gui:resources.png?15&nolink}} 29   |  | unit  |  Manual description here.  |
+| {{:nations:ma:tien_chi:red_guard.png?30&nolink}}    | **Red Guard**\ {{:misc:gui:gold.png?15&nolink}} 50\ {{:misc:gui:resources.png?15&nolink}} 38   |  | unit (cap only)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:tien_chi:huli_jing.png?30&nolink}}    | **Huli Jing**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:tien_chi:huli_jing_2.png?30&nolink}}    | **Huli Jing**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:tien_chi:buffalo.png?30&nolink}}    | **Buffalo**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:tien_chi:celestial_hound.png?30&nolink}}    | **Celestial Hound**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:tien_chi:celestial_servant.png?30&nolink}}    | **Celestial Servant**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:tien_chi:celestial_soldier.png?30&nolink}}    | **Celestial Soldier**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:tien_chi:living_mercury.png?30&nolink}}    | **Living Mercury**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:tien_chi:living_mercury_2.png?30&nolink}}    | **Living Mercury**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:tien_chi:living_mercury_3.png?30&nolink}}    | **Living Mercury**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:tien_chi:living_mercury_4.png?30&nolink}}    | **Living Mercury**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:tien_chi:living_mercury_5.png?30&nolink}}    | **Living Mercury**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:tien_chi:tiger.png?30&nolink}}    | **Tiger**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:tien_chi:immortal.png?30&nolink}}    | **Immortal**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:tien_chi:immortal_2.png?30&nolink}}    | **Immortal**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:tien_chi:master_with_the_iron_crutch.png?30&nolink}}    | **Master With The Iron Crutch**  |  | hero (unique)  |  Manual description here.  |

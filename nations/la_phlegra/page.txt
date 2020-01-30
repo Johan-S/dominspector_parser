@@ -1,0 +1,33 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:phlegra:cyclope_smith.png?30&nolink}}    | **Cyclope Smith**\ {{:misc:gui:gold.png?15&nolink}} 240\ {{:misc:gui:resources.png?15&nolink}} 3   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:la:phlegra:oppressor_archon.png?30&nolink}}    | **Oppressor Archon**\ {{:misc:gui:gold.png?15&nolink}} 260\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:la:phlegra:phlegran_commander.png?30&nolink}}    | **Phlegran Commander**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 26   |  | commander  |  Manual description here.  |
+| {{:nations:la:phlegra:phlegran_priest.png?30&nolink}}    | **Phlegran Priest**\ {{:misc:gui:gold.png?15&nolink}} 65\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:la:phlegra:shackled_mage.png?30&nolink}}    | **Shackled Mage**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:la:phlegra:cyclope_commander.png?30&nolink}}    | **Cyclope Commander**\ {{:misc:gui:gold.png?15&nolink}} 75\ {{:misc:gui:resources.png?15&nolink}} 83   |  | commander  |  Manual description here.  |
+| {{:nations:la:phlegra:phlegran_cataphract_commander.png?30&nolink}}    | **Phlegran Cataphract Commander**\ {{:misc:gui:gold.png?15&nolink}} 90\ {{:misc:gui:resources.png?15&nolink}} 47   |  | commander  |  Manual description here.  |
+| {{:nations:la:phlegra:phlegran_oppressor.png?30&nolink}}    | **Phlegran Oppressor**\ {{:misc:gui:gold.png?15&nolink}} 115\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:la:phlegra:oppressor_general.png?30&nolink}}    | **Oppressor General**\ {{:misc:gui:gold.png?15&nolink}} 135\ {{:misc:gui:resources.png?15&nolink}} 21   |  | commander  |  Manual description here.  |
+| {{:nations:la:phlegra:helote_archer.png?30&nolink}}    | **Helote Archer**\ {{:misc:gui:gold.png?15&nolink}} 8\ {{:misc:gui:resources.png?15&nolink}} 5   |  | unit  |  Manual description here.  |
+| {{:nations:la:phlegra:helote_crossbowman.png?30&nolink}}    | **Helote Crossbowman**\ {{:misc:gui:gold.png?15&nolink}} 8\ {{:misc:gui:resources.png?15&nolink}} 26   |  | unit  |  Manual description here.  |
+| {{:nations:la:phlegra:helote_soldier.png?30&nolink}}    | **Helote Soldier**\ {{:misc:gui:gold.png?15&nolink}} 8\ {{:misc:gui:resources.png?15&nolink}} 26   |  | unit  |  Manual description here.  |
+| {{:nations:la:phlegra:mouflon_cataphract.png?30&nolink}}    | **Mouflon Cataphract**\ {{:misc:gui:gold.png?15&nolink}} 30\ {{:misc:gui:resources.png?15&nolink}} 47   |  | unit  |  Manual description here.  |
+| {{:nations:la:phlegra:cyclope_soldier.png?30&nolink}}    | **Cyclope Soldier**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 67   |  | unit  |  Manual description here.  |
+| {{:nations:la:phlegra:iron_guard.png?30&nolink}}    | **Iron Guard**\ {{:misc:gui:gold.png?15&nolink}} 15\ {{:misc:gui:resources.png?15&nolink}} 35   |  | unit (cap only)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:phlegra:hound_of_twilight.png?30&nolink}}    | **Hound of Twilight**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:phlegra:ker.png?30&nolink}}    | **Ker**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:phlegra:khalkotauros.png?30&nolink}}    | **Khalkotauros**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:phlegra:lampad.png?30&nolink}}    | **Lampad**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:phlegra:spartae.png?30&nolink}}    | **Spartae**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:phlegra:elder_cyclops.png?30&nolink}}    | **Elder Cyclops**  |  | hero (unique)  |  Manual description here.  |

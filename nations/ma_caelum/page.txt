@@ -1,0 +1,64 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:caelum:caelian_scout.png?30&nolink}}    | **Caelian Scout**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 13   |  | commander  |  Manual description here.  |
+| {{:nations:ma:caelum:ice_crafter.png?30&nolink}}    | **Ice Crafter**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 3   |  | commander  |  Manual description here.  |
+| {{:nations:ma:caelum:spire_horn_seraph.png?30&nolink}}    | **Spire Horn Seraph**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:caelum:airya_noble.png?30&nolink}}    | **Airya Noble**\ {{:misc:gui:gold.png?15&nolink}} 50\ {{:misc:gui:resources.png?15&nolink}} 38   |  | commander  |  Manual description here.  |
+| {{:nations:ma:caelum:seraphine.png?30&nolink}}    | **Seraphine**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:ma:caelum:storm_general.png?30&nolink}}    | **Storm General**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 36   |  | commander  |  Manual description here.  |
+| {{:nations:ma:caelum:caelian_seraph.png?30&nolink}}    | **Caelian Seraph**\ {{:misc:gui:gold.png?15&nolink}} 125\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:ma:caelum:high_seraph.png?30&nolink}}    | **High Seraph**\ {{:misc:gui:gold.png?15&nolink}} 255\ {{:misc:gui:resources.png?15&nolink}} 3   |  | commander  |  Manual description here.  |
+| {{:nations:ma:caelum:spire_horn_militia.png?30&nolink}}    | **Spire Horn Militia**\ {{:misc:gui:gold.png?15&nolink}} 8\ {{:misc:gui:resources.png?15&nolink}} 5   |  | unit  |  Manual description here.  |
+| {{:nations:ma:caelum:airya_infantry.png?30&nolink}}    | **Airya Infantry**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 16   |  | unit  |  Manual description here.  |
+| {{:nations:ma:caelum:airya_light_infantry.png?30&nolink}}    | **Airya Light Infantry**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 11   |  | unit  |  Manual description here.  |
+| {{:nations:ma:caelum:spire_horn_archer.png?30&nolink}}    | **Spire Horn Archer**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 6   |  | unit  |  Manual description here.  |
+| {{:nations:ma:caelum:spire_horn_warrior.png?30&nolink}}    | **Spire Horn Warrior**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 7   |  | unit  |  Manual description here.  |
+| {{:nations:ma:caelum:iceclad.png?30&nolink}}    | **Iceclad**\ {{:misc:gui:gold.png?15&nolink}} 15\ {{:misc:gui:resources.png?15&nolink}} 40   |  | unit  |  Manual description here.  |
+| {{:nations:ma:caelum:storm_guard.png?30&nolink}}    | **Storm Guard**\ {{:misc:gui:gold.png?15&nolink}} 15\ {{:misc:gui:resources.png?15&nolink}} 31   |  | unit  |  Manual description here.  |
+| {{:nations:ma:caelum:wingless.png?30&nolink}}    | **Wingless**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 11   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ma:caelum:blizzard_warrior.png?30&nolink}}    | **Blizzard Warrior**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 13   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ma:caelum:temple_guard.png?30&nolink}}    | **Temple Guard**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 42   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ma:caelum:mammoth.png?30&nolink}}    | **Mammoth**\ {{:misc:gui:gold.png?15&nolink}} 120\ {{:misc:gui:resources.png?15&nolink}} 20   |  | unit  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:caelum:ahurani.png?30&nolink}}    | **Ahurani**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:caelum:ancestral_fravashi.png?30&nolink}}    | **Ancestral Fravashi**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:caelum:daeva_of_aging.png?30&nolink}}    | **Daeva of Aging**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:caelum:daeva_of_destruction.png?30&nolink}}    | **Daeva of Destruction**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:caelum:daeva_of_discontent.png?30&nolink}}    | **Daeva of Discontent**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:caelum:daeva_of_evil_intentions.png?30&nolink}}    | **Daeva of Evil Intentions**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:caelum:daeva_of_frost_and_snow.png?30&nolink}}    | **Daeva of Frost and Snow**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:caelum:daeva_of_frozen_minds.png?30&nolink}}    | **Daeva of Frozen Minds**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:caelum:daeva_of_oppression.png?30&nolink}}    | **Daeva of Oppression**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:caelum:daeva_of_shooting_stars.png?30&nolink}}    | **Daeva of Shooting Stars**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:caelum:jahi.png?30&nolink}}    | **Jahi**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:caelum:pairika.png?30&nolink}}    | **Pairika**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:caelum:spenta_of_animals.png?30&nolink}}    | **Spenta of Animals**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:caelum:spenta_of_fire.png?30&nolink}}    | **Spenta of Fire**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:caelum:spenta_of_plants.png?30&nolink}}    | **Spenta of Plants**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:caelum:spenta_of_sky_and_metals.png?30&nolink}}    | **Spenta of Sky and Metals**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:caelum:spenta_of_waters.png?30&nolink}}    | **Spenta of Waters**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:caelum:spenta_of_the_earth.png?30&nolink}}    | **Spenta of the Earth**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:caelum:yata.png?30&nolink}}    | **Yata**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:caelum:yazad_of_fire.png?30&nolink}}    | **Yazad of Fire**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:caelum:yazad_of_justice.png?30&nolink}}    | **Yazad of Justice**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:caelum:yazad_of_water.png?30&nolink}}    | **Yazad of Water**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:caelum:yazad_of_the_earth.png?30&nolink}}    | **Yazad of the Earth**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:caelum:yazad_of_the_sky.png?30&nolink}}    | **Yazad of the Sky**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:caelum:yazad_of_the_stars.png?30&nolink}}    | **Yazad of the Stars**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:caelum:black_hawk.png?30&nolink}}    | **Black Hawk**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:caelum:buffalo.png?30&nolink}}    | **Buffalo**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:caelum:daeva.png?30&nolink}}    | **Daeva**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:caelum:elephant.png?30&nolink}}    | **Elephant**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:caelum:tiger.png?30&nolink}}    | **Tiger**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:caelum:yazad.png?30&nolink}}    | **Yazad**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:caelum:harab_seraphine.png?30&nolink}}    | **Harab Seraphine**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:caelum:sacred_one.png?30&nolink}}    | **Sacred One**  |  | hero (unique)  |  Manual description here.  |

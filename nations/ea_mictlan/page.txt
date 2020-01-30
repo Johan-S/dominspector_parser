@@ -1,0 +1,47 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:mictlan:moon_priest.png?30&nolink}}    | **Moon Priest**\ {{:misc:gui:gold.png?15&nolink}} 175\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ea:mictlan:rain_priest.png?30&nolink}}    | **Rain Priest**\ {{:misc:gui:gold.png?15&nolink}} 175\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ea:mictlan:priest_king.png?30&nolink}}    | **Priest King**\ {{:misc:gui:gold.png?15&nolink}} 230\ {{:misc:gui:resources.png?15&nolink}} 5   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ea:mictlan:high_priest_of_the_sun.png?30&nolink}}    | **High Priest of the Sun**\ {{:misc:gui:gold.png?15&nolink}} 290\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ea:mictlan:scout.png?30&nolink}}    | **Scout**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ea:mictlan:mictlan_priest.png?30&nolink}}    | **Mictlan Priest**\ {{:misc:gui:gold.png?15&nolink}} 65\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ea:mictlan:tribal_king.png?30&nolink}}    | **Tribal King**\ {{:misc:gui:gold.png?15&nolink}} 90\ {{:misc:gui:resources.png?15&nolink}} 15   |  | commander  |  Manual description here.  |
+| {{:nations:ea:mictlan:nahualli.png?30&nolink}}    | **Nahualli**\ {{:misc:gui:gold.png?15&nolink}} 125\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ea:mictlan:warrior.png?30&nolink}}    | **Warrior**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit  |  Manual description here.  |
+| {{:nations:ea:mictlan:warrior_2.png?30&nolink}}    | **Warrior**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 5   |  | unit  |  Manual description here.  |
+| {{:nations:ea:mictlan:warrior_3.png?30&nolink}}    | **Warrior**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 7   |  | unit  |  Manual description here.  |
+| {{:nations:ea:mictlan:warrior_4.png?30&nolink}}    | **Warrior**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 14   |  | unit  |  Manual description here.  |
+| {{:nations:ea:mictlan:moon_warrior.png?30&nolink}}    | **Moon Warrior**\ {{:misc:gui:gold.png?15&nolink}} 12\ {{:misc:gui:resources.png?15&nolink}} 15   |  | unit  |  Manual description here.  |
+| {{:nations:ea:mictlan:feathered_warrior.png?30&nolink}}    | **Feathered Warrior**\ {{:misc:gui:gold.png?15&nolink}} 18\ {{:misc:gui:resources.png?15&nolink}} 14   |  | unit  |  Manual description here.  |
+| {{:nations:ea:mictlan:jaguar_warrior.png?30&nolink}}    | **Jaguar Warrior**\ {{:misc:gui:gold.png?15&nolink}} 26\ {{:misc:gui:resources.png?15&nolink}} 4   |  | unit  |  Manual description here.  |
+| {{:nations:ea:mictlan:eagle_warrior.png?30&nolink}}    | **Eagle Warrior**\ {{:misc:gui:gold.png?15&nolink}} 15\ {{:misc:gui:resources.png?15&nolink}} 3   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ea:mictlan:sun_warrior.png?30&nolink}}    | **Sun Warrior**\ {{:misc:gui:gold.png?15&nolink}} 18\ {{:misc:gui:resources.png?15&nolink}} 15   |  | unit (cap only)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:mictlan:civateteo.png?30&nolink}}    | **Civateteo**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:mictlan:couatl.png?30&nolink}}    | **Couatl**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:mictlan:dog.png?30&nolink}}    | **Dog**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:mictlan:onaqui.png?30&nolink}}    | **Onaqui**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:mictlan:tlahuelpuchi.png?30&nolink}}    | **Tlahuelpuchi**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:mictlan:tlaloque_of_the_east.png?30&nolink}}    | **Tlaloque of the East**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:mictlan:tlaloque_of_the_north.png?30&nolink}}    | **Tlaloque of the North**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:mictlan:tlaloque_of_the_south.png?30&nolink}}    | **Tlaloque of the South**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:mictlan:tlaloque_of_the_west.png?30&nolink}}    | **Tlaloque of the West**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:mictlan:beast_bat.png?30&nolink}}    | **Beast Bat**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:mictlan:jade_serpent.png?30&nolink}}    | **Jade Serpent**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:mictlan:jaguar.png?30&nolink}}    | **Jaguar**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:mictlan:jaguar_toad.png?30&nolink}}    | **Jaguar Toad**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:mictlan:monster_toad.png?30&nolink}}    | **Monster Toad**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:mictlan:ozelotl.png?30&nolink}}    | **Ozelotl**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:mictlan:tzitzimitl.png?30&nolink}}    | **Tzitzimitl**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:mictlan:eagle_priest.png?30&nolink}}    | **Eagle Priest**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ea:mictlan:king_of_legends.png?30&nolink}}    | **King of Legends**  |  | hero (unique)  |  Manual description here.  |

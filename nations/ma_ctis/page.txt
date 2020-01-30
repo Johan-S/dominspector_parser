@@ -1,0 +1,44 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:ctis:empoisoner.png?30&nolink}}    | **Empoisoner**\ {{:misc:gui:gold.png?15&nolink}} 90\ {{:misc:gui:resources.png?15&nolink}} 6   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:ctis:sobek_general.png?30&nolink}}    | **Sobek General**\ {{:misc:gui:gold.png?15&nolink}} 140\ {{:misc:gui:resources.png?15&nolink}} 28   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:ctis:hierodule.png?30&nolink}}    | **Hierodule**  |  | commander  |  Manual description here.  |
+| {{:nations:ma:ctis:taskmaster.png?30&nolink}}    | **Taskmaster**  |  | commander  |  Manual description here.  |
+| {{:nations:ma:ctis:commander_of_c'tis.png?30&nolink}}    | **Commander of C'tis**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 15   |  | commander  |  Manual description here.  |
+| {{:nations:ma:ctis:lizard_lord.png?30&nolink}}    | **Lizard Lord**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 21   |  | commander  |  Manual description here.  |
+| {{:nations:ma:ctis:high_priest_of_c'tis.png?30&nolink}}    | **High Priest of C'tis**\ {{:misc:gui:gold.png?15&nolink}} 80\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:ctis:shaman.png?30&nolink}}    | **Shaman**\ {{:misc:gui:gold.png?15&nolink}} 90\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:ma:ctis:lizard_king.png?30&nolink}}    | **Lizard King**\ {{:misc:gui:gold.png?15&nolink}} 230\ {{:misc:gui:resources.png?15&nolink}} 5   |  | commander  |  Manual description here.  |
+| {{:nations:ma:ctis:marshmaster.png?30&nolink}}    | **Marshmaster**\ {{:misc:gui:gold.png?15&nolink}} 235\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:ctis:militia.png?30&nolink}}    | **Militia**\ {{:misc:gui:gold.png?15&nolink}} 7\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit  |  Manual description here.  |
+| {{:nations:ma:ctis:city_guard.png?30&nolink}}    | **City Guard**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 10   |  | unit  |  Manual description here.  |
+| {{:nations:ma:ctis:heavy_infantry.png?30&nolink}}    | **Heavy Infantry**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 15   |  | unit  |  Manual description here.  |
+| {{:nations:ma:ctis:light_infantry.png?30&nolink}}    | **Light Infantry**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 5   |  | unit  |  Manual description here.  |
+| {{:nations:ma:ctis:falchioneer.png?30&nolink}}    | **Falchioneer**\ {{:misc:gui:gold.png?15&nolink}} 13\ {{:misc:gui:resources.png?15&nolink}} 17   |  | unit  |  Manual description here.  |
+| {{:nations:ma:ctis:runner.png?30&nolink}}    | **Runner**\ {{:misc:gui:gold.png?15&nolink}} 13\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit  |  Manual description here.  |
+| {{:nations:ma:ctis:slave_warrior.png?30&nolink}}    | **Slave Warrior**\ {{:misc:gui:gold.png?15&nolink}} 13\ {{:misc:gui:resources.png?15&nolink}} 3   |  | unit  |  Manual description here.  |
+| {{:nations:ma:ctis:elite_warrior.png?30&nolink}}    | **Elite Warrior**\ {{:misc:gui:gold.png?15&nolink}} 15\ {{:misc:gui:resources.png?15&nolink}} 9   |  | unit  |  Manual description here.  |
+| {{:nations:ma:ctis:swamp_guard.png?30&nolink}}    | **Swamp Guard**\ {{:misc:gui:gold.png?15&nolink}} 19\ {{:misc:gui:resources.png?15&nolink}} 21   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ma:ctis:poison_slinger.png?30&nolink}}    | **Poison Slinger**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 6   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ma:ctis:sobek_warrior.png?30&nolink}}    | **Sobek Warrior**\ {{:misc:gui:gold.png?15&nolink}} 30\ {{:misc:gui:resources.png?15&nolink}} 31   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ma:ctis:sobek_sacred_guard.png?30&nolink}}    | **Sobek Sacred Guard**\ {{:misc:gui:gold.png?15&nolink}} 55\ {{:misc:gui:resources.png?15&nolink}} 37   |  | unit (cap only)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:ctis:couatl.png?30&nolink}}    | **Couatl**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:ctis:great_lion.png?30&nolink}}    | **Great Lion**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:ctis:monster_toad.png?30&nolink}}    | **Monster Toad**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:ctis:sacred_crocodile.png?30&nolink}}    | **Sacred Crocodile**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:ctis:scorpion_man.png?30&nolink}}    | **Scorpion Man**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:ctis:ancient_shaman.png?30&nolink}}    | **Ancient Shaman**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:ctis:guild_master.png?30&nolink}}    | **Guild Master**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:ctis:lizard_hero.png?30&nolink}}    | **Lizard Hero**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:ctis:sobek_high_priest.png?30&nolink}}    | **Sobek High Priest**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:ctis:sobek_sauromancer.png?30&nolink}}    | **Sobek Sauromancer**  |  | hero (unique)  |  Manual description here.  |

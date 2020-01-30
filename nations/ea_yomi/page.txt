@@ -1,0 +1,46 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:yomi:dai_oni.png?30&nolink}}    | **Dai Oni**\ {{:misc:gui:gold.png?15&nolink}} 500\ {{:misc:gui:resources.png?15&nolink}} 45   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ea:yomi:bakemono_chief_2.png?30&nolink}}    | **Bakemono Chief**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 6   |  | cmdr (mountain)  |  Manual description here.  |
+| {{:nations:ea:yomi:namanari_2.png?30&nolink}}    | **Namanari**\ {{:misc:gui:gold.png?15&nolink}} 65\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (mountain)  |  Manual description here.  |
+| {{:nations:ea:yomi:oni_shugo.png?30&nolink}}    | **Oni Shugo**\ {{:misc:gui:gold.png?15&nolink}} \ {{:misc:gui:resources.png?15&nolink}} 38   |  | commander  |  Manual description here.  |
+| {{:nations:ea:yomi:bakemono_chief.png?30&nolink}}    | **Bakemono Chief**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 6   |  | commander  |  Manual description here.  |
+| {{:nations:ea:yomi:bandit_leader.png?30&nolink}}    | **Bandit Leader**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 16   |  | commander  |  Manual description here.  |
+| {{:nations:ea:yomi:demon_priest.png?30&nolink}}    | **Demon Priest**\ {{:misc:gui:gold.png?15&nolink}} 50\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ea:yomi:namanari.png?30&nolink}}    | **Namanari**\ {{:misc:gui:gold.png?15&nolink}} 65\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ea:yomi:sorcerer.png?30&nolink}}    | **Sorcerer**\ {{:misc:gui:gold.png?15&nolink}} 115\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ea:yomi:demon_general.png?30&nolink}}    | **Demon General**\ {{:misc:gui:gold.png?15&nolink}} 125\ {{:misc:gui:resources.png?15&nolink}} 22   |  | commander  |  Manual description here.  |
+| {{:nations:ea:yomi:bakemono_archer.png?30&nolink}}    | **Bakemono Archer**\ {{:misc:gui:gold.png?15&nolink}} 7\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit  |  Manual description here.  |
+| {{:nations:ea:yomi:bakemono-sho.png?30&nolink}}    | **Bakemono-Sho**\ {{:misc:gui:gold.png?15&nolink}} 7\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit  |  Manual description here.  |
+| {{:nations:ea:yomi:bakemono-sho_2.png?30&nolink}}    | **Bakemono-Sho**\ {{:misc:gui:gold.png?15&nolink}} 7\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit  |  Manual description here.  |
+| {{:nations:ea:yomi:bandit.png?30&nolink}}    | **Bandit**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 11   |  | unit  |  Manual description here.  |
+| {{:nations:ea:yomi:bandit_2.png?30&nolink}}    | **Bandit**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 16   |  | unit  |  Manual description here.  |
+| {{:nations:ea:yomi:bakemono_archer_2.png?30&nolink}}    | **Bakemono Archer**\ {{:misc:gui:gold.png?15&nolink}} 7\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit (mountain)  |  Manual description here.  |
+| {{:nations:ea:yomi:bakemono-sho_3.png?30&nolink}}    | **Bakemono-Sho**\ {{:misc:gui:gold.png?15&nolink}} 7\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit (mountain)  |  Manual description here.  |
+| {{:nations:ea:yomi:bakemono-sho_4.png?30&nolink}}    | **Bakemono-Sho**\ {{:misc:gui:gold.png?15&nolink}} 7\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit (mountain)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:yomi:dai_tengu.png?30&nolink}}    | **Dai Tengu**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:yomi:nushi.png?30&nolink}}    | **Nushi**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:yomi:shura.png?30&nolink}}    | **Shura**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:yomi:swamp_serpent.png?30&nolink}}    | **Swamp Serpent**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:yomi:araburu-kami.png?30&nolink}}    | **Araburu-kami**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:yomi:horse-face.png?30&nolink}}    | **Horse-face**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:yomi:kappa.png?30&nolink}}    | **Kappa**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:yomi:karasu_tengu.png?30&nolink}}    | **Karasu Tengu**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:yomi:konoha_tengu.png?30&nolink}}    | **Konoha Tengu**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:yomi:ox-head.png?30&nolink}}    | **Ox-head**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:yomi:shikome.png?30&nolink}}    | **Shikome**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:yomi:tengu_warrior.png?30&nolink}}    | **Tengu Warrior**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:yomi:tiger.png?30&nolink}}    | **Tiger**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:yomi:devourer_of_demons.png?30&nolink}}    | **Devourer of Demons**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ea:yomi:ghost_general.png?30&nolink}}    | **Ghost General**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ea:yomi:master_of_the_shadow_blossom.png?30&nolink}}    | **Master of the Shadow Blossom**  |  | hero (unique)  |  Manual description here.  |

@@ -1,0 +1,26 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:ermor:acolyte_of_eldregate.png?30&nolink}}    | **Acolyte of Eldregate**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:ermor:arch_bishop_of_eldregate.png?30&nolink}}    | **Arch Bishop of Eldregate**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:ermor:bishop_of_eldregate.png?30&nolink}}    | **Bishop of Eldregate**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:ermor:censor.png?30&nolink}}    | **Censor**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:ermor:dusk_elder.png?30&nolink}}    | **Dusk Elder**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:ermor:spectator.png?30&nolink}}    | **Spectator**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ma:ermor:great_lion.png?30&nolink}}    | **Great Lion**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:ermor:lictor.png?30&nolink}}    | **Lictor**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:ermor:longdead_legionnaire.png?30&nolink}}    | **Longdead Legionnaire**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:ermor:wailing_lady.png?30&nolink}}    | **Wailing Lady**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:ermor:arch_censor.png?30&nolink}}    | **Arch Censor**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:ermor:dusk_elder.png?30&nolink}}    | **Dusk Elder**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:ermor:forgotten_king.png?30&nolink}}    | **Forgotten King**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:ermor:wraith_lord.png?30&nolink}}    | **Wraith Lord**  |  | hero (unique)  |  Manual description here.  |

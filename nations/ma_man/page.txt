@@ -1,0 +1,49 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:man:knight_commander_of_avalon.png?30&nolink}}    | **Knight Commander of Avalon**\ {{:misc:gui:gold.png?15&nolink}} 120\ {{:misc:gui:resources.png?15&nolink}} 56   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:man:lord_warden.png?30&nolink}}    | **Lord Warden**\ {{:misc:gui:gold.png?15&nolink}} 160\ {{:misc:gui:resources.png?15&nolink}} 29   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:man:crone_of_avalon.png?30&nolink}}    | **Crone of Avalon**\ {{:misc:gui:gold.png?15&nolink}} 335\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:man:monk_2.png?30&nolink}}    | **Monk**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (foreign)  |  Manual description here.  |
+| {{:nations:ma:man:logrian_wise_man.png?30&nolink}}    | **Logrian Wise Man**\ {{:misc:gui:gold.png?15&nolink}} 90\ {{:misc:gui:resources.png?15&nolink}} 7   |  | cmdr (foreign)  |  Manual description here.  |
+| {{:nations:ma:man:royal_forester_2.png?30&nolink}}    | **Royal Forester**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 8   |  | cmdr (forest)  |  Manual description here.  |
+| {{:nations:ma:man:monk.png?30&nolink}}    | **Monk**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:man:royal_forester.png?30&nolink}}    | **Royal Forester**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 8   |  | commander  |  Manual description here.  |
+| {{:nations:ma:man:castellan.png?30&nolink}}    | **Castellan**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 22   |  | commander  |  Manual description here.  |
+| {{:nations:ma:man:bard.png?30&nolink}}    | **Bard**\ {{:misc:gui:gold.png?15&nolink}} 75\ {{:misc:gui:resources.png?15&nolink}} 5   |  | commander  |  Manual description here.  |
+| {{:nations:ma:man:daughter_of_avalon.png?30&nolink}}    | **Daughter of Avalon**\ {{:misc:gui:gold.png?15&nolink}} 85\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:man:mother_of_avalon.png?30&nolink}}    | **Mother of Avalon**\ {{:misc:gui:gold.png?15&nolink}} 175\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:man:logrian_slinger.png?30&nolink}}    | **Logrian Slinger**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 8   |  | unit  |  Manual description here.  |
+| {{:nations:ma:man:longbowman.png?30&nolink}}    | **Longbowman**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 7   |  | unit  |  Manual description here.  |
+| {{:nations:ma:man:longspear.png?30&nolink}}    | **Longspear**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 13   |  | unit  |  Manual description here.  |
+| {{:nations:ma:man:spearman.png?30&nolink}}    | **Spearman**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 9   |  | unit  |  Manual description here.  |
+| {{:nations:ma:man:forester.png?30&nolink}}    | **Forester**\ {{:misc:gui:gold.png?15&nolink}} 12\ {{:misc:gui:resources.png?15&nolink}} 7   |  | unit  |  Manual description here.  |
+| {{:nations:ma:man:logrian_warrior.png?30&nolink}}    | **Logrian Warrior**\ {{:misc:gui:gold.png?15&nolink}} 12\ {{:misc:gui:resources.png?15&nolink}} 15   |  | unit  |  Manual description here.  |
+| {{:nations:ma:man:tower_guard.png?30&nolink}}    | **Tower Guard**\ {{:misc:gui:gold.png?15&nolink}} 12\ {{:misc:gui:resources.png?15&nolink}} 18   |  | unit  |  Manual description here.  |
+| {{:nations:ma:man:landless_knight.png?30&nolink}}    | **Landless Knight**\ {{:misc:gui:gold.png?15&nolink}} 13\ {{:misc:gui:resources.png?15&nolink}} 24   |  | unit  |  Manual description here.  |
+| {{:nations:ma:man:logrian_cavalry.png?30&nolink}}    | **Logrian Cavalry**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 19   |  | unit  |  Manual description here.  |
+| {{:nations:ma:man:knight_of_man.png?30&nolink}}    | **Knight of Man**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 51   |  | unit  |  Manual description here.  |
+| {{:nations:ma:man:warden_of_avalon.png?30&nolink}}    | **Warden of Avalon**\ {{:misc:gui:gold.png?15&nolink}} 26\ {{:misc:gui:resources.png?15&nolink}} 28   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ma:man:knight_of_avalon.png?30&nolink}}    | **Knight of Avalon**\ {{:misc:gui:gold.png?15&nolink}} 60\ {{:misc:gui:resources.png?15&nolink}} 56   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ma:man:logrian_slinger_2.png?30&nolink}}    | **Logrian Slinger**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 8   |  | unit (foreign)  |  Manual description here.  |
+| {{:nations:ma:man:logrian_warrior_2.png?30&nolink}}    | **Logrian Warrior**\ {{:misc:gui:gold.png?15&nolink}} 12\ {{:misc:gui:resources.png?15&nolink}} 15   |  | unit (foreign)  |  Manual description here.  |
+| {{:nations:ma:man:logrian_cavalry_2.png?30&nolink}}    | **Logrian Cavalry**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 19   |  | unit (foreign)  |  Manual description here.  |
+| {{:nations:ma:man:forester_2.png?30&nolink}}    | **Forester**\ {{:misc:gui:gold.png?15&nolink}} 12\ {{:misc:gui:resources.png?15&nolink}} 7   |  | unit (forest)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:man:barghest.png?30&nolink}}    | **Barghest**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:man:black_dog.png?30&nolink}}    | **Black Dog**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ma:man:cu_sidhe.png?30&nolink}}    | **Cu Sidhe**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:man:blind_one.png?30&nolink}}    | **Blind One**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:man:cambion.png?30&nolink}}    | **Cambion**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:man:ettin_king.png?30&nolink}}    | **Ettin King**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:man:fay.png?30&nolink}}    | **Fay**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:man:green_knight.png?30&nolink}}    | **Green Knight**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ma:man:heroine.png?30&nolink}}    | **Heroine**  |  | hero (unique)  |  Manual description here.  |

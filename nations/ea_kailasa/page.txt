@@ -1,0 +1,48 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:kailasa:yaksha.png?30&nolink}}    | **Yaksha**\ {{:misc:gui:gold.png?15&nolink}} 345\ {{:misc:gui:resources.png?15&nolink}} 7   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ea:kailasa:yakshini.png?30&nolink}}    | **Yakshini**\ {{:misc:gui:gold.png?15&nolink}} 345\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ea:kailasa:atavi_chieftain_2.png?30&nolink}}    | **Atavi Chieftain**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 8   |  | cmdr (forest)  |  Manual description here.  |
+| {{:nations:ea:kailasa:markata_scout.png?30&nolink}}    | **Markata Scout**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ea:kailasa:atavi_chieftain.png?30&nolink}}    | **Atavi Chieftain**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 8   |  | commander  |  Manual description here.  |
+| {{:nations:ea:kailasa:yogi.png?30&nolink}}    | **Yogi**\ {{:misc:gui:gold.png?15&nolink}} 55\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ea:kailasa:bandar_commander.png?30&nolink}}    | **Bandar Commander**\ {{:misc:gui:gold.png?15&nolink}} 75\ {{:misc:gui:resources.png?15&nolink}} 20   |  | commander  |  Manual description here.  |
+| {{:nations:ea:kailasa:guhyaka_general.png?30&nolink}}    | **Guhyaka General**\ {{:misc:gui:gold.png?15&nolink}} 105\ {{:misc:gui:resources.png?15&nolink}} 8   |  | commander  |  Manual description here.  |
+| {{:nations:ea:kailasa:guru.png?30&nolink}}    | **Guru**\ {{:misc:gui:gold.png?15&nolink}} 160\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ea:kailasa:markata.png?30&nolink}}    | **Markata**\ {{:misc:gui:gold.png?15&nolink}} 5\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit  |  Manual description here.  |
+| {{:nations:ea:kailasa:markata_archer.png?30&nolink}}    | **Markata Archer**\ {{:misc:gui:gold.png?15&nolink}} 5\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit  |  Manual description here.  |
+| {{:nations:ea:kailasa:atavi_archer.png?30&nolink}}    | **Atavi Archer**\ {{:misc:gui:gold.png?15&nolink}} 7\ {{:misc:gui:resources.png?15&nolink}} 3   |  | unit  |  Manual description here.  |
+| {{:nations:ea:kailasa:atavi_infantry.png?30&nolink}}    | **Atavi Infantry**\ {{:misc:gui:gold.png?15&nolink}} 7\ {{:misc:gui:resources.png?15&nolink}} 3   |  | unit  |  Manual description here.  |
+| {{:nations:ea:kailasa:bandar_warrior.png?30&nolink}}    | **Bandar Warrior**\ {{:misc:gui:gold.png?15&nolink}} 16\ {{:misc:gui:resources.png?15&nolink}} 4   |  | unit  |  Manual description here.  |
+| {{:nations:ea:kailasa:light_bandar_archer.png?30&nolink}}    | **Light Bandar Archer**\ {{:misc:gui:gold.png?15&nolink}} 16\ {{:misc:gui:resources.png?15&nolink}} 7   |  | unit  |  Manual description here.  |
+| {{:nations:ea:kailasa:bandar_swordsman.png?30&nolink}}    | **Bandar Swordsman**\ {{:misc:gui:gold.png?15&nolink}} 19\ {{:misc:gui:resources.png?15&nolink}} 17   |  | unit  |  Manual description here.  |
+| {{:nations:ea:kailasa:guhyaka.png?30&nolink}}    | **Guhyaka**\ {{:misc:gui:gold.png?15&nolink}} 27\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit  |  Manual description here.  |
+| {{:nations:ea:kailasa:yavana_archer.png?30&nolink}}    | **Yavana Archer**\ {{:misc:gui:gold.png?15&nolink}} 30\ {{:misc:gui:resources.png?15&nolink}} 5   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ea:kailasa:yavana.png?30&nolink}}    | **Yavana**\ {{:misc:gui:gold.png?15&nolink}} 35\ {{:misc:gui:resources.png?15&nolink}} 8   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ea:kailasa:markata_2.png?30&nolink}}    | **Markata**\ {{:misc:gui:gold.png?15&nolink}} 5\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit (forest)  |  Manual description here.  |
+| {{:nations:ea:kailasa:markata_archer_2.png?30&nolink}}    | **Markata Archer**\ {{:misc:gui:gold.png?15&nolink}} 5\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit (forest)  |  Manual description here.  |
+| {{:nations:ea:kailasa:atavi_archer_2.png?30&nolink}}    | **Atavi Archer**\ {{:misc:gui:gold.png?15&nolink}} 7\ {{:misc:gui:resources.png?15&nolink}} 3   |  | unit (forest)  |  Manual description here.  |
+| {{:nations:ea:kailasa:atavi_infantry_2.png?30&nolink}}    | **Atavi Infantry**\ {{:misc:gui:gold.png?15&nolink}} 7\ {{:misc:gui:resources.png?15&nolink}} 3   |  | unit (forest)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:kailasa:devala.png?30&nolink}}    | **Devala**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:kailasa:devata.png?30&nolink}}    | **Devata**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:kailasa:kinnara.png?30&nolink}}    | **Kinnara**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:kailasa:rudra.png?30&nolink}}    | **Rudra**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:kailasa:siddha.png?30&nolink}}    | **Siddha**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:kailasa:yaksha.png?30&nolink}}    | **Yaksha**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 7   |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:kailasa:yakshini.png?30&nolink}}    | **Yakshini**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:kailasa:apsara.png?30&nolink}}    | **Apsara**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:kailasa:buffalo.png?30&nolink}}    | **Buffalo**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:kailasa:elephant.png?30&nolink}}    | **Elephant**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:kailasa:gandharva.png?30&nolink}}    | **Gandharva**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:kailasa:tiger.png?30&nolink}}    | **Tiger**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:kailasa:fallen.png?30&nolink}}    | **Fallen**  |  | hero (unique)  |  Manual description here.  |

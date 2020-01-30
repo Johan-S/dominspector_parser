@@ -1,0 +1,43 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:arcoscephale:cerulean_commander.png?30&nolink}}    | **Cerulean Commander**\ {{:misc:gui:gold.png?15&nolink}} 75\ {{:misc:gui:resources.png?15&nolink}} 25   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:la:arcoscephale:sibyl.png?30&nolink}}    | **Sibyl**\ {{:misc:gui:gold.png?15&nolink}} 230\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:la:arcoscephale:scout.png?30&nolink}}    | **Scout**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 5   |  | commander  |  Manual description here.  |
+| {{:nations:la:arcoscephale:orphic_mystic.png?30&nolink}}    | **Orphic Mystic**\ {{:misc:gui:gold.png?15&nolink}} 65\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:la:arcoscephale:hypaspist_commander.png?30&nolink}}    | **Hypaspist Commander**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 25   |  | commander  |  Manual description here.  |
+| {{:nations:la:arcoscephale:hoplite_commander.png?30&nolink}}    | **Hoplite Commander**\ {{:misc:gui:gold.png?15&nolink}} 75\ {{:misc:gui:resources.png?15&nolink}} 31   |  | commander  |  Manual description here.  |
+| {{:nations:la:arcoscephale:phalangite_commander.png?30&nolink}}    | **Phalangite Commander**\ {{:misc:gui:gold.png?15&nolink}} 75\ {{:misc:gui:resources.png?15&nolink}} 20   |  | commander  |  Manual description here.  |
+| {{:nations:la:arcoscephale:agema_commander.png?30&nolink}}    | **Agema Commander**\ {{:misc:gui:gold.png?15&nolink}} 100\ {{:misc:gui:resources.png?15&nolink}} 40   |  | commander  |  Manual description here.  |
+| {{:nations:la:arcoscephale:mystic.png?30&nolink}}    | **Mystic**\ {{:misc:gui:gold.png?15&nolink}} 100\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:la:arcoscephale:strategos.png?30&nolink}}    | **Strategos**\ {{:misc:gui:gold.png?15&nolink}} 110\ {{:misc:gui:resources.png?15&nolink}} 30   |  | commander  |  Manual description here.  |
+| {{:nations:la:arcoscephale:neokoros.png?30&nolink}}    | **Neokoros**\ {{:misc:gui:gold.png?15&nolink}} 135\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:la:arcoscephale:panageis.png?30&nolink}}    | **Panageis**\ {{:misc:gui:gold.png?15&nolink}} 215\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:la:arcoscephale:slinger.png?30&nolink}}    | **Slinger**\ {{:misc:gui:gold.png?15&nolink}} 7\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit  |  Manual description here.  |
+| {{:nations:la:arcoscephale:peltast.png?30&nolink}}    | **Peltast**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 5   |  | unit  |  Manual description here.  |
+| {{:nations:la:arcoscephale:hoplite.png?30&nolink}}    | **Hoplite**\ {{:misc:gui:gold.png?15&nolink}} 13\ {{:misc:gui:resources.png?15&nolink}} 31   |  | unit  |  Manual description here.  |
+| {{:nations:la:arcoscephale:phalangite.png?30&nolink}}    | **Phalangite**\ {{:misc:gui:gold.png?15&nolink}} 13\ {{:misc:gui:resources.png?15&nolink}} 20   |  | unit  |  Manual description here.  |
+| {{:nations:la:arcoscephale:hypaspist.png?30&nolink}}    | **Hypaspist**\ {{:misc:gui:gold.png?15&nolink}} 16\ {{:misc:gui:resources.png?15&nolink}} 25   |  | unit  |  Manual description here.  |
+| {{:nations:la:arcoscephale:agema_companion.png?30&nolink}}    | **Agema Companion**\ {{:misc:gui:gold.png?15&nolink}} 35\ {{:misc:gui:resources.png?15&nolink}} 40   |  | unit  |  Manual description here.  |
+| {{:nations:la:arcoscephale:cerulean_warrior.png?30&nolink}}    | **Cerulean Warrior**\ {{:misc:gui:gold.png?15&nolink}} 18\ {{:misc:gui:resources.png?15&nolink}} 20   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:la:arcoscephale:heart_companion.png?30&nolink}}    | **Heart Companion**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 31   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:la:arcoscephale:war_elephant.png?30&nolink}}    | **War Elephant**\ {{:misc:gui:gold.png?15&nolink}} 100\ {{:misc:gui:resources.png?15&nolink}} 62   |  | unit  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:arcoscephale:hamadryad.png?30&nolink}}    | **Hamadryad**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:arcoscephale:hound_of_twilight.png?30&nolink}}    | **Hound of Twilight**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:arcoscephale:keledone.png?30&nolink}}    | **Keledone**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:arcoscephale:ker.png?30&nolink}}    | **Ker**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:arcoscephale:khalkotauros.png?30&nolink}}    | **Khalkotauros**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:arcoscephale:lampad.png?30&nolink}}    | **Lampad**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:arcoscephale:spartae.png?30&nolink}}    | **Spartae**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:arcoscephale:hierophant.png?30&nolink}}    | **Hierophant**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:la:arcoscephale:monster_in_the_maze.png?30&nolink}}    | **Monster in the Maze**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:la:arcoscephale:son_of_titans.png?30&nolink}}    | **Son of Titans**  |  | hero (unique)  |  Manual description here.  |

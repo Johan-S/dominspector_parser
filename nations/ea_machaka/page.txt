@@ -1,0 +1,43 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:machaka:spider_clan_sorcerer.png?30&nolink}}    | **Spider Clan Sorcerer**\ {{:misc:gui:gold.png?15&nolink}} 175\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ea:machaka:lion_queen.png?30&nolink}}    | **Lion Queen**\ {{:misc:gui:gold.png?15&nolink}} 320\ {{:misc:gui:resources.png?15&nolink}} 8   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ea:machaka:lion_king.png?30&nolink}}    | **Lion King**\ {{:misc:gui:gold.png?15&nolink}} 350\ {{:misc:gui:resources.png?15&nolink}} 11   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ea:machaka:machaka_scout.png?30&nolink}}    | **Machaka Scout**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 3   |  | commander  |  Manual description here.  |
+| {{:nations:ea:machaka:rhino_clan_commander.png?30&nolink}}    | **Rhino Clan Commander**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 13   |  | commander  |  Manual description here.  |
+| {{:nations:ea:machaka:lion_clan_commander.png?30&nolink}}    | **Lion Clan Commander**\ {{:misc:gui:gold.png?15&nolink}} 75\ {{:misc:gui:resources.png?15&nolink}} 8   |  | commander  |  Manual description here.  |
+| {{:nations:ea:machaka:voice_of_spider.png?30&nolink}}    | **Voice of Spider**\ {{:misc:gui:gold.png?15&nolink}} 75\ {{:misc:gui:resources.png?15&nolink}} 3   |  | commander  |  Manual description here.  |
+| {{:nations:ea:machaka:spider_clan_witch_doctor.png?30&nolink}}    | **Spider Clan Witch Doctor**\ {{:misc:gui:gold.png?15&nolink}} 80\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ea:machaka:voice_of_lion.png?30&nolink}}    | **Voice of Lion**\ {{:misc:gui:gold.png?15&nolink}} 80\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:ea:machaka:hyena_clan_witch_doctor.png?30&nolink}}    | **Hyena Clan Witch Doctor**\ {{:misc:gui:gold.png?15&nolink}} 165\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ea:machaka:bouda.png?30&nolink}}    | **Bouda**\ {{:misc:gui:gold.png?15&nolink}} 215\ {{:misc:gui:resources.png?15&nolink}} 3   |  | commander  |  Manual description here.  |
+| {{:nations:ea:machaka:pygmy.png?30&nolink}}    | **Pygmy**\ {{:misc:gui:gold.png?15&nolink}} 5\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit  |  Manual description here.  |
+| {{:nations:ea:machaka:machaka_militia.png?30&nolink}}    | **Machaka Militia**\ {{:misc:gui:gold.png?15&nolink}} 7\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit  |  Manual description here.  |
+| {{:nations:ea:machaka:bird_clan_archer.png?30&nolink}}    | **Bird Clan Archer**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 3   |  | unit  |  Manual description here.  |
+| {{:nations:ea:machaka:hyena_clan_warrior.png?30&nolink}}    | **Hyena Clan Warrior**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 5   |  | unit  |  Manual description here.  |
+| {{:nations:ea:machaka:machaka_warrior.png?30&nolink}}    | **Machaka Warrior**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit  |  Manual description here.  |
+| {{:nations:ea:machaka:rhino_clan_warrior.png?30&nolink}}    | **Rhino Clan Warrior**\ {{:misc:gui:gold.png?15&nolink}} 13\ {{:misc:gui:resources.png?15&nolink}} 13   |  | unit  |  Manual description here.  |
+| {{:nations:ea:machaka:lion_clan_warrior.png?30&nolink}}    | **Lion Clan Warrior**\ {{:misc:gui:gold.png?15&nolink}} 14\ {{:misc:gui:resources.png?15&nolink}} 6   |  | unit  |  Manual description here.  |
+| {{:nations:ea:machaka:war_lion.png?30&nolink}}    | **War Lion**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit  |  Manual description here.  |
+| {{:nations:ea:machaka:spider_clan_archer.png?30&nolink}}    | **Spider Clan Archer**\ {{:misc:gui:gold.png?15&nolink}} 12\ {{:misc:gui:resources.png?15&nolink}} 4   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ea:machaka:spider_clan_warrior.png?30&nolink}}    | **Spider Clan Warrior**\ {{:misc:gui:gold.png?15&nolink}} 12\ {{:misc:gui:resources.png?15&nolink}} 5   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ea:machaka:spider_rider.png?30&nolink}}    | **Spider Rider**\ {{:misc:gui:gold.png?15&nolink}} 30\ {{:misc:gui:resources.png?15&nolink}} 5   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ea:machaka:lion_warrior.png?30&nolink}}    | **Lion Warrior**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 26   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ea:machaka:war_elephant.png?30&nolink}}    | **War Elephant**\ {{:misc:gui:gold.png?15&nolink}} 100\ {{:misc:gui:resources.png?15&nolink}} 20   |  | unit  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:machaka:elephant.png?30&nolink}}    | **Elephant**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:machaka:great_lion.png?30&nolink}}    | **Great Lion**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:machaka:ape_oracle.png?30&nolink}}    | **Ape Oracle**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ea:machaka:crowned_ape.png?30&nolink}}    | **Crowned Ape**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ea:machaka:hero.png?30&nolink}}    | **Hero**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ea:machaka:king_triumphant.png?30&nolink}}    | **King Triumphant**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ea:machaka:lady_of_spiders.png?30&nolink}}    | **Lady of Spiders**  |  | hero (unique)  |  Manual description here.  |

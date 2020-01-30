@@ -1,0 +1,35 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ma:oceania:aphroi_lord.png?30&nolink}}    | **Aphroi Lord**\ {{:misc:gui:gold.png?15&nolink}} 145\ {{:misc:gui:resources.png?15&nolink}} 17   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ma:oceania:ichtysatyr_commander_2.png?30&nolink}}    | **Ichtysatyr Commander**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 9   |  | cmdr (coast)  |  Manual description here.  |
+| {{:nations:ma:oceania:siren_2.png?30&nolink}}    | **Siren**\ {{:misc:gui:gold.png?15&nolink}} 130\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (coast)  |  Manual description here.  |
+| {{:nations:ma:oceania:capricorn_2.png?30&nolink}}    | **Capricorn**\ {{:misc:gui:gold.png?15&nolink}} 360\ {{:misc:gui:resources.png?15&nolink}} 5   |  | cmdr (coast)  |  Manual description here.  |
+| {{:nations:ma:oceania:ichtysatyr_scout.png?30&nolink}}    | **Ichtysatyr Scout**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 5   |  | commander  |  Manual description here.  |
+| {{:nations:ma:oceania:ichtysatyr_commander.png?30&nolink}}    | **Ichtysatyr Commander**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 9   |  | commander  |  Manual description here.  |
+| {{:nations:ma:oceania:ichtycentaur_commander.png?30&nolink}}    | **Ichtycentaur Commander**\ {{:misc:gui:gold.png?15&nolink}} 90\ {{:misc:gui:resources.png?15&nolink}} 28   |  | commander  |  Manual description here.  |
+| {{:nations:ma:oceania:siren.png?30&nolink}}    | **Siren**\ {{:misc:gui:gold.png?15&nolink}} 130\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:oceania:aphroi_hierophant.png?30&nolink}}    | **Aphroi Hierophant**\ {{:misc:gui:gold.png?15&nolink}} 135\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:ma:oceania:haliade.png?30&nolink}}    | **Haliade**  |  | commander  |  Manual description here.  |
+| {{:nations:ma:oceania:capricorn.png?30&nolink}}    | **Capricorn**\ {{:misc:gui:gold.png?15&nolink}} 360\ {{:misc:gui:resources.png?15&nolink}} 7   |  | commander  |  Manual description here.  |
+| {{:nations:ma:oceania:ichtysatyr_2.png?30&nolink}}    | **Ichtysatyr**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit  |  Manual description here.  |
+| {{:nations:ma:oceania:ichtysatyr_3.png?30&nolink}}    | **Ichtysatyr**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 3   |  | unit  |  Manual description here.  |
+| {{:nations:ma:oceania:ichtysatyr_soldier.png?30&nolink}}    | **Ichtysatyr Soldier**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 17   |  | unit  |  Manual description here.  |
+| {{:nations:ma:oceania:ichtysatyr_soldier_2.png?30&nolink}}    | **Ichtysatyr Soldier**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 7   |  | unit  |  Manual description here.  |
+| {{:nations:ma:oceania:mermidon.png?30&nolink}}    | **Mermidon**\ {{:misc:gui:gold.png?15&nolink}} 15\ {{:misc:gui:resources.png?15&nolink}} 28   |  | unit  |  Manual description here.  |
+| {{:nations:ma:oceania:ichtycentaur.png?30&nolink}}    | **Ichtycentaur**\ {{:misc:gui:gold.png?15&nolink}} 30\ {{:misc:gui:resources.png?15&nolink}} 8   |  | unit  |  Manual description here.  |
+| {{:nations:ma:oceania:ichtycentaur_cataphract.png?30&nolink}}    | **Ichtycentaur Cataphract**\ {{:misc:gui:gold.png?15&nolink}} 35\ {{:misc:gui:resources.png?15&nolink}} 27   |  | unit  |  Manual description here.  |
+| {{:nations:ma:oceania:ichtytaur.png?30&nolink}}    | **Ichtytaur**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 5   |  | unit  |  Manual description here.  |
+| {{:nations:ma:oceania:ichtytaur_warrior.png?30&nolink}}    | **Ichtytaur Warrior**\ {{:misc:gui:gold.png?15&nolink}} 50\ {{:misc:gui:resources.png?15&nolink}} 16   |  | unit  |  Manual description here.  |
+| {{:nations:ma:oceania:aphroi.png?30&nolink}}    | **Aphroi**\ {{:misc:gui:gold.png?15&nolink}} 55\ {{:misc:gui:resources.png?15&nolink}} 15   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ma:oceania:ichtysatyr.png?30&nolink}}    | **Ichtysatyr**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 3   |  | unit (coast)  |  Manual description here.  |
+| {{:nations:ma:oceania:ichtysatyr_warrior.png?30&nolink}}    | **Ichtysatyr Warrior**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 7   |  | unit (coast)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^

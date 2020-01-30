@@ -1,0 +1,50 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:erytheia:prince_of_the_setting_sun.png?30&nolink}}    | **Prince of the Setting Sun**\ {{:misc:gui:gold.png?15&nolink}} 210\ {{:misc:gui:resources.png?15&nolink}} 2   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:la:erytheia:princess_of_the_setting_sun.png?30&nolink}}    | **Princess of the Setting Sun**\ {{:misc:gui:gold.png?15&nolink}} 210\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:la:erytheia:erytheian_commander_2.png?30&nolink}}    | **Erytheian Commander**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 31   |  | cmdr (coast)  |  Manual description here.  |
+| {{:nations:la:erytheia:mermage_2.png?30&nolink}}    | **Mermage**\ {{:misc:gui:gold.png?15&nolink}} 95\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (coast)  |  Manual description here.  |
+| {{:nations:la:erytheia:daduchos_2.png?30&nolink}}    | **Daduchos**\ {{:misc:gui:gold.png?15&nolink}} 135\ {{:misc:gui:resources.png?15&nolink}} 2   |  | cmdr (coast)  |  Manual description here.  |
+| {{:nations:la:erytheia:erytheian_scout.png?30&nolink}}    | **Erytheian Scout**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 6   |  | cmdr (u-water)  |  Manual description here.  |
+| {{:nations:la:erytheia:triton_priest.png?30&nolink}}    | **Triton Priest**\ {{:misc:gui:gold.png?15&nolink}} 65\ {{:misc:gui:resources.png?15&nolink}} 2   |  | cmdr (u-water)  |  Manual description here.  |
+| {{:nations:la:erytheia:erytheian_commander.png?30&nolink}}    | **Erytheian Commander**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 31   |  | cmdr (u-water)  |  Manual description here.  |
+| {{:nations:la:erytheia:mermage.png?30&nolink}}    | **Mermage**\ {{:misc:gui:gold.png?15&nolink}} 95\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (u-water)  |  Manual description here.  |
+| {{:nations:la:erytheia:triton_noble.png?30&nolink}}    | **Triton Noble**\ {{:misc:gui:gold.png?15&nolink}} 110\ {{:misc:gui:resources.png?15&nolink}} 32   |  | cmdr (u-water)  |  Manual description here.  |
+| {{:nations:la:erytheia:daduchos.png?30&nolink}}    | **Daduchos**\ {{:misc:gui:gold.png?15&nolink}} 135\ {{:misc:gui:resources.png?15&nolink}} 2   |  | cmdr (u-water)  |  Manual description here.  |
+| {{:nations:la:erytheia:pearl_mage.png?30&nolink}}    | **Pearl Mage**\ {{:misc:gui:gold.png?15&nolink}} 175\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (u-water)  |  Manual description here.  |
+| {{:nations:la:erytheia:erytheian_scout_2.png?30&nolink}}    | **Erytheian Scout**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 6   |  | commander  |  Manual description here.  |
+| {{:nations:la:erytheia:machimos_commander.png?30&nolink}}    | **Machimos Commander**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 16   |  | commander  |  Manual description here.  |
+| {{:nations:la:erytheia:nomarch.png?30&nolink}}    | **Nomarch**\ {{:misc:gui:gold.png?15&nolink}} 75\ {{:misc:gui:resources.png?15&nolink}} 2   |  | commander  |  Manual description here.  |
+| {{:nations:la:erytheia:mystic.png?30&nolink}}    | **Mystic**  |  | commander  |  Manual description here.  |
+| {{:nations:la:erytheia:machimos.png?30&nolink}}    | **Machimos**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 9   |  | unit  |  Manual description here.  |
+| {{:nations:la:erytheia:soldier_of_the_setting_sun.png?30&nolink}}    | **Soldier of the Setting Sun**\ {{:misc:gui:gold.png?15&nolink}} 30\ {{:misc:gui:resources.png?15&nolink}} 36   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:la:erytheia:erytheian_crossbowman.png?30&nolink}}    | **Erytheian Crossbowman**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 7   |  | unit (coast)  |  Manual description here.  |
+| {{:nations:la:erytheia:thyreophorite_2.png?30&nolink}}    | **Thyreophorite**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 8   |  | unit (coast)  |  Manual description here.  |
+| {{:nations:la:erytheia:erytheian_hoplite_2.png?30&nolink}}    | **Erytheian Hoplite**\ {{:misc:gui:gold.png?15&nolink}} 12\ {{:misc:gui:resources.png?15&nolink}} 29   |  | unit (coast)  |  Manual description here.  |
+| {{:nations:la:erytheia:erytheian_phalangite.png?30&nolink}}    | **Erytheian Phalangite**\ {{:misc:gui:gold.png?15&nolink}} 14\ {{:misc:gui:resources.png?15&nolink}} 20   |  | unit (coast)  |  Manual description here.  |
+| {{:nations:la:erytheia:triton_militia.png?30&nolink}}    | **Triton Militia**\ {{:misc:gui:gold.png?15&nolink}} 8\ {{:misc:gui:resources.png?15&nolink}} 2   |  | unit (u-water)  |  Manual description here.  |
+| {{:nations:la:erytheia:thyreophorite.png?30&nolink}}    | **Thyreophorite**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 8   |  | unit (u-water)  |  Manual description here.  |
+| {{:nations:la:erytheia:triton_soldier.png?30&nolink}}    | **Triton Soldier**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 21   |  | unit (u-water)  |  Manual description here.  |
+| {{:nations:la:erytheia:erytheian_hoplite.png?30&nolink}}    | **Erytheian Hoplite**\ {{:misc:gui:gold.png?15&nolink}} 12\ {{:misc:gui:resources.png?15&nolink}} 29   |  | unit (u-water)  |  Manual description here.  |
+| {{:nations:la:erytheia:triton_hoplite.png?30&nolink}}    | **Triton Hoplite**\ {{:misc:gui:gold.png?15&nolink}} 13\ {{:misc:gui:resources.png?15&nolink}} 27   |  | unit (u-water)  |  Manual description here.  |
+| {{:nations:la:erytheia:triton_knight.png?30&nolink}}    | **Triton Knight**\ {{:misc:gui:gold.png?15&nolink}} 50\ {{:misc:gui:resources.png?15&nolink}} 25   |  | unit (u-water)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:erytheia:hesperide.png?30&nolink}}    | **Hesperide**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:erytheia:daktyl.png?30&nolink}}    | **Daktyl**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 2   |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:erytheia:hekateride.png?30&nolink}}    | **Hekateride**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:erytheia:great_lion.png?30&nolink}}    | **Great Lion**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:erytheia:hound_of_twilight.png?30&nolink}}    | **Hound of Twilight**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:erytheia:keledone.png?30&nolink}}    | **Keledone**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:erytheia:khalkotauros.png?30&nolink}}    | **Khalkotauros**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:erytheia:spartae.png?30&nolink}}    | **Spartae**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:erytheia:herdsman.png?30&nolink}}    | **Herdsman**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:la:erytheia:triple-headed.png?30&nolink}}    | **Triple-Headed**  |  | hero (unique)  |  Manual description here.  |

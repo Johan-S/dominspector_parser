@@ -1,0 +1,83 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:jomon:shugenja_2.png?30&nolink}}    | **Shugenja**\ {{:misc:gui:gold.png?15&nolink}} 95\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (mountain)  |  Manual description here.  |
+| {{:nations:la:jomon:master_shugenja_2.png?30&nolink}}    | **Master Shugenja**\ {{:misc:gui:gold.png?15&nolink}} 165\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (mountain)  |  Manual description here.  |
+| {{:nations:la:jomon:crab_general.png?30&nolink}}    | **Crab General**\ {{:misc:gui:gold.png?15&nolink}} 50\ {{:misc:gui:resources.png?15&nolink}} 29   |  | cmdr (u-water)  |  Manual description here.  |
+| {{:nations:la:jomon:ryujin.png?30&nolink}}    | **Ryujin**\ {{:misc:gui:gold.png?15&nolink}} 285\ {{:misc:gui:resources.png?15&nolink}} 7   |  | cmdr (u-water)  |  Manual description here.  |
+| {{:nations:la:jomon:gokenin.png?30&nolink}}    | **Gokenin**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 26   |  | commander  |  Manual description here.  |
+| {{:nations:la:jomon:mounted_gokenin.png?30&nolink}}    | **Mounted Gokenin**\ {{:misc:gui:gold.png?15&nolink}} 50\ {{:misc:gui:resources.png?15&nolink}} 28   |  | commander  |  Manual description here.  |
+| {{:nations:la:jomon:ninja.png?30&nolink}}    | **Ninja**\ {{:misc:gui:gold.png?15&nolink}} 60\ {{:misc:gui:resources.png?15&nolink}} 14   |  | commander  |  Manual description here.  |
+| {{:nations:la:jomon:kannushi.png?30&nolink}}    | **Kannushi**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:la:jomon:monk_of_the_fivefold_path.png?30&nolink}}    | **Monk of the Fivefold Path**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:la:jomon:hatamoto.png?30&nolink}}    | **Hatamoto**\ {{:misc:gui:gold.png?15&nolink}} 80\ {{:misc:gui:resources.png?15&nolink}} 28   |  | commander  |  Manual description here.  |
+| {{:nations:la:jomon:shugenja.png?30&nolink}}    | **Shugenja**\ {{:misc:gui:gold.png?15&nolink}} 95\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:la:jomon:daimyo.png?30&nolink}}    | **Daimyo**\ {{:misc:gui:gold.png?15&nolink}} 120\ {{:misc:gui:resources.png?15&nolink}} 26   |  | commander  |  Manual description here.  |
+| {{:nations:la:jomon:onmyo-ji.png?30&nolink}}    | **Onmyo-ji**\ {{:misc:gui:gold.png?15&nolink}} 145\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:la:jomon:master_shugenja.png?30&nolink}}    | **Master Shugenja**\ {{:misc:gui:gold.png?15&nolink}} 165\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:la:jomon:ashigaru.png?30&nolink}}    | **Ashigaru**\ {{:misc:gui:gold.png?15&nolink}} 8\ {{:misc:gui:resources.png?15&nolink}} 11   |  | unit  |  Manual description here.  |
+| {{:nations:la:jomon:samurai.png?30&nolink}}    | **Samurai**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 19   |  | unit  |  Manual description here.  |
+| {{:nations:la:jomon:samurai_2.png?30&nolink}}    | **Samurai**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 22   |  | unit  |  Manual description here.  |
+| {{:nations:la:jomon:samurai_archer.png?30&nolink}}    | **Samurai Archer**\ {{:misc:gui:gold.png?15&nolink}} 11\ {{:misc:gui:resources.png?15&nolink}} 25   |  | unit  |  Manual description here.  |
+| {{:nations:la:jomon:o-ban.png?30&nolink}}    | **O-ban**\ {{:misc:gui:gold.png?15&nolink}} 12\ {{:misc:gui:resources.png?15&nolink}} 26   |  | unit  |  Manual description here.  |
+| {{:nations:la:jomon:go-hatamoto.png?30&nolink}}    | **Go-Hatamoto**\ {{:misc:gui:gold.png?15&nolink}} 14\ {{:misc:gui:resources.png?15&nolink}} 25   |  | unit  |  Manual description here.  |
+| {{:nations:la:jomon:aka-oni_samurai.png?30&nolink}}    | **Aka-Oni Samurai**\ {{:misc:gui:gold.png?15&nolink}} 15\ {{:misc:gui:resources.png?15&nolink}} 22   |  | unit  |  Manual description here.  |
+| {{:nations:la:jomon:samurai_cavalry.png?30&nolink}}    | **Samurai Cavalry**\ {{:misc:gui:gold.png?15&nolink}} 35\ {{:misc:gui:resources.png?15&nolink}} 28   |  | unit  |  Manual description here.  |
+| {{:nations:la:jomon:sohei.png?30&nolink}}    | **Sohei**\ {{:misc:gui:gold.png?15&nolink}} 19\ {{:misc:gui:resources.png?15&nolink}} 19   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:la:jomon:yamabushi.png?30&nolink}}    | **Yamabushi**\ {{:misc:gui:gold.png?15&nolink}} 19\ {{:misc:gui:resources.png?15&nolink}} 22   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:la:jomon:shrimp_soldier.png?30&nolink}}    | **Shrimp Soldier**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 20   |  | unit (u-water)  |  Manual description here.  |
+| {{:nations:la:jomon:shark_warrior.png?30&nolink}}    | **Shark Warrior**\ {{:misc:gui:gold.png?15&nolink}} 45\ {{:misc:gui:resources.png?15&nolink}} 33   |  | unit (u-water)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:jomon:bakeneko.png?30&nolink}}    | **Bakeneko**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:bakeneko_2.png?30&nolink}}    | **Bakeneko**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:dai_tengu.png?30&nolink}}    | **Dai Tengu**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:jigami.png?30&nolink}}    | **Jigami**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:kaijin.png?30&nolink}}    | **Kaijin**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:kenzoku.png?30&nolink}}    | **Kenzoku**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:kitsune.png?30&nolink}}    | **Kitsune**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:kitsune_2.png?30&nolink}}    | **Kitsune**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:mori-no-kami.png?30&nolink}}    | **Mori-no-kami**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:mori-no-kami_2.png?30&nolink}}    | **Mori-no-kami**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:mujina_2.png?30&nolink}}    | **Mujina**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:nushi.png?30&nolink}}    | **Nushi**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:oni_spirit_6.png?30&nolink}}    | **Oni Spirit**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:oni_spirit_7.png?30&nolink}}    | **Oni Spirit**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:shura.png?30&nolink}}    | **Shura**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:swamp_serpent.png?30&nolink}}    | **Swamp Serpent**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:tanuki.png?30&nolink}}    | **Tanuki**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:tanuki_2.png?30&nolink}}    | **Tanuki**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:tatsu.png?30&nolink}}    | **Tatsu**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:ujigami.png?30&nolink}}    | **Ujigami**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:yama-no-kami.png?30&nolink}}    | **Yama-no-kami**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:oni_shugo.png?30&nolink}}    | **Oni Shugo**\ {{:misc:gui:gold.png?15&nolink}} 50\ {{:misc:gui:resources.png?15&nolink}} 38   |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:mujina.png?30&nolink}}    | **Mujina**\ {{:misc:gui:gold.png?15&nolink}} 100\ {{:misc:gui:resources.png?15&nolink}} 5   |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:dai_oni.png?30&nolink}}    | **Dai Oni**\ {{:misc:gui:gold.png?15&nolink}} 105\ {{:misc:gui:resources.png?15&nolink}} 45   |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:aka-oni.png?30&nolink}}    | **Aka-Oni**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:ao-oni.png?30&nolink}}    | **Ao-Oni**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:horse-face.png?30&nolink}}    | **Horse-face**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:kappa.png?30&nolink}}    | **Kappa**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:karasu_tengu.png?30&nolink}}    | **Karasu Tengu**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:ko-oni.png?30&nolink}}    | **Ko-Oni**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:konoha_tengu.png?30&nolink}}    | **Konoha Tengu**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:kuro-oni.png?30&nolink}}    | **Kuro-Oni**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:okami.png?30&nolink}}    | **Okami**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:oni.png?30&nolink}}    | **Oni**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:oni_spirit_2.png?30&nolink}}    | **Oni Spirit**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:oni_spirit_3.png?30&nolink}}    | **Oni Spirit**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:oni_spirit_4.png?30&nolink}}    | **Oni Spirit**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:oni_spirit_5.png?30&nolink}}    | **Oni Spirit**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:oni_spirit.png?30&nolink}}    | **Oni spirit**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:ox-head.png?30&nolink}}    | **Ox-head**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:tengu_warrior.png?30&nolink}}    | **Tengu Warrior**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:la:jomon:tiger.png?30&nolink}}    | **Tiger**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:jomon:red_devil.png?30&nolink}}    | **Red Devil**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:la:jomon:red_tengu.png?30&nolink}}    | **Red Tengu**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:la:jomon:son_of_the_dragon_king.png?30&nolink}}    | **Son of the Dragon King**  |  | hero (unique)  |  Manual description here.  |

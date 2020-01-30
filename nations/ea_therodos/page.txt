@@ -1,0 +1,36 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:therodos:daktyl.png?30&nolink}}    | **Daktyl**\ {{:misc:gui:gold.png?15&nolink}} 240\ {{:misc:gui:resources.png?15&nolink}} 2   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ea:therodos:hekateride.png?30&nolink}}    | **Hekateride**\ {{:misc:gui:gold.png?15&nolink}} 380\ {{:misc:gui:resources.png?15&nolink}} 1   |  | cmdr (cap only)  |  Manual description here.  |
+| {{:nations:ea:therodos:therodian_scout.png?30&nolink}}    | **Therodian Scout**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 3   |  | cmdr (coast)  |  Manual description here.  |
+| {{:nations:ea:therodos:therodian_commander.png?30&nolink}}    | **Therodian Commander**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 31   |  | cmdr (coast)  |  Manual description here.  |
+| {{:nations:ea:therodos:kabeiros.png?30&nolink}}    | **Kabeiros**\ {{:misc:gui:gold.png?15&nolink}} 125\ {{:misc:gui:resources.png?15&nolink}} 7   |  | cmdr (coast)  |  Manual description here.  |
+| {{:nations:ea:therodos:melia_2.png?30&nolink}}    | **Melia**\ {{:misc:gui:gold.png?15&nolink}} 160\ {{:misc:gui:resources.png?15&nolink}} 21   |  | cmdr (coast)  |  Manual description here.  |
+| {{:nations:ea:therodos:melia.png?30&nolink}}    | **Melia**\ {{:misc:gui:gold.png?15&nolink}} 160\ {{:misc:gui:resources.png?15&nolink}} 21   |  | commander  |  Manual description here.  |
+| {{:nations:ea:therodos:kourete.png?30&nolink}}    | **Kourete**\ {{:misc:gui:gold.png?15&nolink}} 28\ {{:misc:gui:resources.png?15&nolink}} 23   |  | unit (cap only)  |  Manual description here.  |
+| {{:nations:ea:therodos:therodian_archer.png?30&nolink}}    | **Therodian Archer**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 7   |  | unit (coast)  |  Manual description here.  |
+| {{:nations:ea:therodos:therodian_hoplite.png?30&nolink}}    | **Therodian Hoplite**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 31   |  | unit (coast)  |  Manual description here.  |
+| {{:nations:ea:therodos:therodian_peltast.png?30&nolink}}    | **Therodian Peltast**\ {{:misc:gui:gold.png?15&nolink}} 10\ {{:misc:gui:resources.png?15&nolink}} 5   |  | unit (coast)  |  Manual description here.  |
+| {{:nations:ea:therodos:korybant.png?30&nolink}}    | **Korybant**\ {{:misc:gui:gold.png?15&nolink}} 20\ {{:misc:gui:resources.png?15&nolink}} 23   |  | unit (coast)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:therodos:ephor.png?30&nolink}}    | **Ephor**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:therodos:spectral_philosopher.png?30&nolink}}    | **Spectral Philosopher**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:therodos:telkhine.png?30&nolink}}    | **Telkhine**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:therodos:telkhine_2.png?30&nolink}}    | **Telkhine**  |  | cmdr (Summon)  |  Manual description here.  |
+| {{:nations:ea:therodos:hound_of_twilight.png?30&nolink}}    | **Hound of Twilight**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:therodos:ker.png?30&nolink}}    | **Ker**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:therodos:khalkotauros.png?30&nolink}}    | **Khalkotauros**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:therodos:lampad.png?30&nolink}}    | **Lampad**  |  | unit (Summon)  |  Manual description here.  |
+| {{:nations:ea:therodos:spartae.png?30&nolink}}    | **Spartae**  |  | unit (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:ea:therodos:kabeiride.png?30&nolink}}    | **Kabeiride**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ea:therodos:telkhine.png?30&nolink}}    | **Telkhine**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:ea:therodos:telkhine_2.png?30&nolink}}    | **Telkhine**  |  | hero (unique)  |  Manual description here.  |

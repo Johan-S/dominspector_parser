@@ -1,0 +1,36 @@
+
+==== Recruitable ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:pangaea:black_harpy.png?30&nolink}}    | **Black Harpy**\ {{:misc:gui:gold.png?15&nolink}} 25\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:la:pangaea:satyr_commander.png?30&nolink}}    | **Satyr Commander**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 24   |  | commander  |  Manual description here.  |
+| {{:nations:la:pangaea:minotaur_commander.png?30&nolink}}    | **Minotaur Commander**\ {{:misc:gui:gold.png?15&nolink}} 70\ {{:misc:gui:resources.png?15&nolink}} 38   |  | commander  |  Manual description here.  |
+| {{:nations:la:pangaea:cataphract_commander.png?30&nolink}}    | **Cataphract Commander**\ {{:misc:gui:gold.png?15&nolink}} 85\ {{:misc:gui:resources.png?15&nolink}} 35   |  | commander  |  Manual description here.  |
+| {{:nations:la:pangaea:centaur_sage.png?30&nolink}}    | **Centaur Sage**\ {{:misc:gui:gold.png?15&nolink}} 90\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:la:pangaea:keeper_of_traditions.png?30&nolink}}    | **Keeper of Traditions**\ {{:misc:gui:gold.png?15&nolink}} 155\ {{:misc:gui:resources.png?15&nolink}} 38   |  | commander  |  Manual description here.  |
+| {{:nations:la:pangaea:dryad.png?30&nolink}}    | **Dryad**\ {{:misc:gui:gold.png?15&nolink}} 160\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:la:pangaea:pan.png?30&nolink}}    | **Pan**\ {{:misc:gui:gold.png?15&nolink}} 255\ {{:misc:gui:resources.png?15&nolink}} 1   |  | commander  |  Manual description here.  |
+| {{:nations:la:pangaea:harpy.png?30&nolink}}    | **Harpy**\ {{:misc:gui:gold.png?15&nolink}} 7\ {{:misc:gui:resources.png?15&nolink}} 1   |  | unit  |  Manual description here.  |
+| {{:nations:la:pangaea:stymphalian_bird.png?30&nolink}}    | **Stymphalian Bird**\ {{:misc:gui:gold.png?15&nolink}} 8\ {{:misc:gui:resources.png?15&nolink}} 11   |  | unit  |  Manual description here.  |
+| {{:nations:la:pangaea:satyr.png?30&nolink}}    | **Satyr**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 4   |  | unit  |  Manual description here.  |
+| {{:nations:la:pangaea:satyr_2.png?30&nolink}}    | **Satyr**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 4   |  | unit  |  Manual description here.  |
+| {{:nations:la:pangaea:satyr_sneak.png?30&nolink}}    | **Satyr Sneak**\ {{:misc:gui:gold.png?15&nolink}} 9\ {{:misc:gui:resources.png?15&nolink}} 3   |  | unit  |  Manual description here.  |
+| {{:nations:la:pangaea:satyr_sniper.png?30&nolink}}    | **Satyr Sniper**\ {{:misc:gui:gold.png?15&nolink}} 12\ {{:misc:gui:resources.png?15&nolink}} 24   |  | unit  |  Manual description here.  |
+| {{:nations:la:pangaea:satyr_hoplite.png?30&nolink}}    | **Satyr Hoplite**\ {{:misc:gui:gold.png?15&nolink}} 14\ {{:misc:gui:resources.png?15&nolink}} 25   |  | unit  |  Manual description here.  |
+| {{:nations:la:pangaea:centauride_crossbow.png?30&nolink}}    | **Centauride Crossbow**\ {{:misc:gui:gold.png?15&nolink}} 30\ {{:misc:gui:resources.png?15&nolink}} 34   |  | unit  |  Manual description here.  |
+| {{:nations:la:pangaea:centaur_cataphract.png?30&nolink}}    | **Centaur Cataphract**\ {{:misc:gui:gold.png?15&nolink}} 35\ {{:misc:gui:resources.png?15&nolink}} 35   |  | unit  |  Manual description here.  |
+| {{:nations:la:pangaea:minotaur_soldier.png?30&nolink}}    | **Minotaur Soldier**\ {{:misc:gui:gold.png?15&nolink}} 40\ {{:misc:gui:resources.png?15&nolink}} 31   |  | unit  |  Manual description here.  |
+| {{:nations:la:pangaea:grove_guard.png?30&nolink}}    | **Grove Guard**\ {{:misc:gui:gold.png?15&nolink}} 50\ {{:misc:gui:resources.png?15&nolink}} 38   |  | unit  |  Manual description here.  |
+| {{:nations:la:pangaea:dryad_hoplite.png?30&nolink}}    | **Dryad Hoplite**\ {{:misc:gui:gold.png?15&nolink}} 30\ {{:misc:gui:resources.png?15&nolink}} 21   |  | unit (cap only)  |  Manual description here.  |
+
+==== Summons ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:pangaea:hamadryad.png?30&nolink}}    | **Hamadryad**  |  | cmdr (Summon)  |  Manual description here.  |
+
+==== Heroes ====
+
+^ Sprite  ^ Unit Name  ^ Magic    ^ Type  ^ Comments  ^
+| {{:nations:la:pangaea:black_bull.png?30&nolink}}    | **Black Bull**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:la:pangaea:harpy_queen.png?30&nolink}}    | **Harpy Queen**  |  | hero (unique)  |  Manual description here.  |
+| {{:nations:la:pangaea:white_satyr.png?30&nolink}}    | **White Satyr**  |  | hero (unique)  |  Manual description here.  |
